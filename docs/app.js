@@ -346,14 +346,14 @@
       await sub?.unsubscribe();
     } catch { /* ignore */ }
     try {
-      const existing = await ghGet('subscriptions.json').catch(() => null);
+      const existing = await ghGet('docs/subscriptions.json').catch(() => null);
       if (existing?.content) {
         let list = [];
         try { list = JSON.parse(atob(existing.content)); } catch { /* ignore */ }
         if (!Array.isArray(list)) list = [];
         const before = list.length;
         list = list.filter((s) => s.endpoint !== sub?.endpoint);
-        if (list.length !== before) await ghPut('subscriptions.json', JSON.stringify(list, null, 2) + '\n', existing.sha);
+        if (list.length !== before) await ghPut('docs/subscriptions.json', JSON.stringify(list, null, 2) + '\n', existing.sha);
       }
     } catch (err) {
       console.warn('退订同步失败', err);
@@ -405,7 +405,7 @@
 
   async function saveSubscription(sub) {
     const subData = sub.toJSON();
-    const existing = await ghGet('subscriptions.json').catch(() => null);
+    const existing = await ghGet('docs/subscriptions.json').catch(() => null);
     let list = [];
     if (existing?.content) {
       try { list = JSON.parse(atob(existing.content)); } catch { /* ignore */ }
@@ -413,7 +413,7 @@
     }
     list = list.filter((s) => s.endpoint !== subData.endpoint);
     list.push({ endpoint: subData.endpoint, keys: subData.keys, addedAt: new Date().toISOString() });
-    await ghPut('subscriptions.json', JSON.stringify(list, null, 2) + '\n', existing?.sha);
+    await ghPut('docs/subscriptions.json', JSON.stringify(list, null, 2) + '\n', existing?.sha);
   }
 
   /* ---------- 设置弹窗 ---------- */
@@ -441,8 +441,8 @@
   async function testConnection() {
     await saveSettings();
     try {
-      const res = await ghGet('subscriptions.json');
-      toast(res ? '连接成功，已读取 subscriptions.json' : '连接成功（文件尚不存在，订阅时会自动创建）');
+      const res = await ghGet('docs/subscriptions.json');
+      toast(res ? '连接成功，已读取 docs/subscriptions.json' : '连接成功（文件尚不存在，订阅时会自动创建）');
     } catch (err) {
       toast('连接失败：' + (err?.message || '未知错误'));
     }
