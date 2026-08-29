@@ -1,0 +1,218 @@
+// DeepSeek API 客户端（OpenAI 兼容）+ 每日 5 条精选逻辑
+// 关键安全措施：LLM 返回的 sourceUrl 必须能匹配到候选列表中的真实条目，
+// 防止模型编造链接；无法匹配的条目会被丢弃并回退补齐。
+
+import { TOPICS } from './feeds.mjs';
+
+const API_URL = 'https://api.deepseek.com/chat/completions';
+const MAX_CANDIDATES_IN_PROMPT = 100;
+
+export async function deepseekChat({ apiKey, model = 'deepseek-chat', messages, temperature = 0.3, maxTokens = 4000 }) {
+  const res = await fetch(API_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${apiKey}` },
+    body: JSON.stringify({
+      model,
+      messages,
+      temperature,
+      max_tokens: maxTokens,
+      response_format: { type: 'json_object' },
+    }),
+  });
+  if (!res.ok) {
+    const text = await res.text().catch(() => '');
+    throw new Error(`DeepSeek HTTP ${res.status}: ${text.slice(0, 300)}`);
+  }
+  const data = await res.json();
+  const content = data?.choices?.[0]?.message?.content;
+  if (!content) throw new Error('DeepSeek 返回空内容');
+  return content;
+}
+
+export function extractJson(content) {
+  const s = String(content).trim();
+  try {
+    const parsed = JSON.parse(s);
+    if (parsed) return parsed;
+  } catch {
+    /* continue */
+  }
+  const fence = s.match(/```(?:json)?\s*([\s\S]*?)```/);
+  if (fence) {
+    try {
+      return JSON.parse(fence[1].trim());
+    } catch {
+      /* continue */
+    }
+  }
+  const first = s.indexOf('{');
+  const last = s.lastIndexOf('}');
+  if (first >= 0 && last > first) {
+    try {
+      return JSON.parse(s.slice(first, last + 1));
+    } catch {
+      /* continue */
+    }
+  }
+  return null;
+}
+
+function truncate(s, n) {
+  s = String(s ?? '');
+  return s.length > n ? s.slice(0, n) + '…' : s;
+}
+
+function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels }) {
+  const system = [
+    '你是资深科技新闻主编，为一位个人读者每日精选"昨天"最重要的 5 条新闻。',
+    `读者关注的主题：${topicLabels.join('、')}。`,
+    '读者偏好：行业趋势与机会、深度分析与观点，而非简单产品发布流水账。',
+    '要求来源可靠（一手来源或高质量媒体优先）。',
+    '',
+    '严格规则：',
+    '1. 只保留"昨天"（' + yesterdayLabel + '，北京时间）发布或当天有新进展的新闻；更早且无新进展的不要选。',
+    '2. 恰好输出 5 条，按重要性降序排列；主题可分布，也可集中于热点。',
+    '3. 若多个来源对同一事件的事实或解读存在分歧，在 divergence 字段用 1-2 句说明分歧点。',
+    '4. 避免与"近期已报道"清单中主题重复、且没有新进展的内容。',
+    '5. sourceName 与 sourceUrl 必须来自候选列表（不要编造链接）。',
+    '6. 只输出一个 JSON 对象：{"items":[{"title","summary","why","divergence","sourceName","sourceUrl","topic"}]}。',
+    '   title 为简洁标题（≤30 字）；summary 为 2-4 句中文摘要（含关键事实与数据）；',
+    '   why 为"为什么值得关注/潜在影响"（1-3 句）；topic 必须属于：' + topicLabels.join(' / ') + '。',
+    '   除该 JSON 对象外不要输出任何其他文字。',
+  ].join('\n');
+
+  const user = [
+    `【昨天】${yesterdayLabel}`,
+    '',
+    `【近期已报道（避免重复，除非有新进展）】${historyTitles.length ? historyTitles.join('；') : '（无）'}`,
+    '',
+    `【候选新闻 ${candidates.length} 条，每条格式：序号. 标题 | 来源 | 时间 | 摘要】`,
+    ...candidates.map((c, i) => {
+      const t = c.publishedAt ? new Date(c.publishedAt).toISOString().slice(0, 16).replace('T', ' ') : '时间未知';
+      return `${i + 1}. ${truncate(c.title, 120)} | ${c.sourceName} | ${t} | ${truncate(c.snippet, 150)}`;
+    }),
+    '',
+    '请选择 5 条最重要的输出。',
+  ].join('\n');
+
+  return { system, user };
+}
+
+function normTitle(t) {
+  return String(t).toLowerCase().replace(/[\s\W_]+/g, '');
+}
+
+// 用标题相似度把 LLM 输出匹配回真实候选（避免编造链接/来源）
+function matchItemToCandidate(llmItem, candidates) {
+  const target = normTitle(llmItem.title || '');
+  let best = null;
+  let bestScore = -1;
+  for (const c of candidates) {
+    const t = normTitle(c.title);
+    if (!t) continue;
+    let score = 0;
+    if (t === target) score = 1;
+    else if (target && (t.includes(target) || target.includes(t))) score = 0.85;
+    else {
+      const common = [...new Set(target.split(''))].filter((ch) => t.includes(ch)).length;
+      const denom = Math.max(target.length, t.length, 1);
+      score = common / denom;
+    }
+    if (score > bestScore) {
+      bestScore = score;
+      best = c;
+    }
+  }
+  return bestScore >= 0.6 ? best : null;
+}
+
+export async function selectTop5({ apiKey, model, candidates, historyTitles, yesterdayLabel, topicLabels = TOPICS }) {
+  const trimmed = candidates.slice(0, MAX_CANDIDATES_IN_PROMPT);
+  const { system, user } = buildPrompt({ candidates: trimmed, historyTitles, yesterdayLabel, topicLabels });
+
+  const mkMessages = () => [{ role: 'system', content: system }, { role: 'user', content: user }];
+
+  let content;
+  try {
+    content = await deepseekChat({ apiKey, model, messages: mkMessages(), temperature: 0.3 });
+  } catch (err) {
+    // 首次失败：降低温度重试一次
+    console.warn(`[llm] 首次调用失败，重试：${err.message}`);
+    content = await deepseekChat({ apiKey, model, messages: mkMessages(), temperature: 0.1 });
+  }
+
+  let data = extractJson(content);
+  if (!data?.items || !Array.isArray(data.items)) {
+    console.warn('[llm] 输出不是合法 JSON，追加纠错提示重试一次');
+    const corrected = await deepseekChat({
+      apiKey,
+      model,
+      messages: [
+        ...mkMessages(),
+        { role: 'assistant', content },
+        { role: 'user', content: '你上一次的输出不是合法 JSON。请只输出合法 JSON 对象 {"items":[...]}，不要任何其他文字。' },
+      ],
+      temperature: 0.1,
+    });
+    data = extractJson(corrected);
+  }
+  if (!data?.items || !Array.isArray(data.items)) {
+    throw new Error('LLM 两次尝试均未返回合法 JSON items');
+  }
+
+  // 匹配回真实候选
+  const used = new Set();
+  const items = [];
+  for (const raw of data.items.slice(0, 8)) {
+    const c = matchItemToCandidate(raw, candidates);
+    if (!c || used.has(c.url)) continue;
+    used.add(c.url);
+    items.push({
+      rank: items.length + 1,
+      topic: topicLabels.includes(raw.topic) ? raw.topic : c.topic,
+      title: (raw.title || c.title).trim().slice(0, 80),
+      summary: (raw.summary || c.snippet || '').trim(),
+      why: (raw.why || '').trim() || '——',
+      divergence: (raw.divergence || '').trim() || '',
+      source: { name: (raw.sourceName || c.sourceName || '').trim(), url: c.url },
+      image: { url: c.image || '', alt: c.title || '' },
+    });
+    if (items.length >= 5) break;
+  }
+
+  // 若不足 5 条，用候选里最新且未被选中的条目补齐（降级但保证有内容）
+  if (items.length < 5) {
+    for (const c of candidates) {
+      if (used.has(c.url)) continue;
+      if (items.length >= 5) break;
+      used.add(c.url);
+      items.push({
+        rank: items.length + 1,
+        topic: c.topic,
+        title: c.title,
+        summary: c.snippet || '',
+        why: '——',
+        divergence: '',
+        source: { name: c.sourceName, url: c.url },
+        image: { url: c.image || '', alt: c.title || '' },
+      });
+    }
+  }
+
+  return { items, degraded: items.length < 5 };
+}
+
+// 完全无 LLM 时的降级选择：按时间倒序取前 5 条候选
+export function fallbackSelect(candidates) {
+  const items = candidates.slice(0, 5).map((c, i) => ({
+    rank: i + 1,
+    topic: c.topic,
+    title: c.title,
+    summary: c.snippet || '',
+    why: '——',
+    divergence: '',
+    source: { name: c.sourceName, url: c.url },
+    image: { url: c.image || '', alt: c.title || '' },
+  }));
+  return { items, degraded: true, reason: 'LLM 不可用，按最新候选降级选择' };
+}

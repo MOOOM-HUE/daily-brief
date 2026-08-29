@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T16:02:53.676Z",
+  "model": "offline-sample",
+  "degraded": false,
+  "stats": {
+    "candidates": 11,
+    "afterDedup": 9,
+    "feedErrors": 0,
+    "selected": 5,
+    "durationMs": 3
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "国产大模型厂商发布千亿参数新模型，推理成本再降五成",
+      "summary": "某国产大模型厂商昨日发布千亿参数旗舰模型，主打长上下文与低推理成本，官方称单位 token 成本较上一代下降约 50%。业内观点认为价格战将加速 Agent 类应用的规模化。",
+      "why": "（离线自测：模拟 LLM 输出）",
+      "divergence": "",
+      "source": {
+        "name": "机器之心",
+        "url": "https://example.com/news/cn-llm-cost-down"
+      },
+      "image": {
+        "url": "https://picsum.photos/seed/llm/640/360",
+        "alt": "国产大模型厂商发布千亿参数新模型，推理成本再降五成"
+      }
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "苹果发布搭载自研芯片的新款 Mac，性能提升但价格上调",
+      "summary": "苹果昨日更新 Mac 产品线，搭载新一代自研芯片，续航与性能均有提升，起售价上调。有观点认为定价策略反映供应链成本压力，也有分析指出需观察 AI 功能能否撑起溢价。",
+      "why": "（离线自测：模拟 LLM 输出）",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://example.com/news/apple-mac-new-chip"
+      },
+      "image": {
+        "url": "https://picsum.photos/seed/apple/640/360",
+        "alt": "苹果发布搭载自研芯片的新款 Mac，性能提升但价格上调"
+      }
+    },
+    {
+      "rank": 3,
+      "topic": "大学 / 专业 / 就业",
+      "title": "教育部发布 2026 年高校毕业生就业工作通知，拓宽基层就业渠道",
+      "summary": "教育部昨日发布新一年度高校毕业生就业工作通知，提出拓宽基层就业渠道、扩大科研助理岗位等举措。专家解读认为政策信号利好教育类与就业服务类企业，也需关注结构性矛盾。",
+      "why": "（离线自测：模拟 LLM 输出）",
+      "divergence": "",
+      "source": {
+        "name": "Bing:大学生 就业",
+        "url": "https://example.com/news/edu-employment-policy"
+      },
+      "image": {
+        "url": "https://picsum.photos/seed/edu/640/360",
+        "alt": "教育部发布 2026 年高校毕业生就业工作通知，拓宽基层就业渠道"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "大学 / 专业 / 就业",
+      "title": "多所高校公布 2026 年新增本科专业，人工智能方向持续扩张",
+      "summary": "多所高校昨日公布 2026 年新增本科专业名单，人工智能、数据科学等方向持续扩容。教育研究者提醒，专业热未必等于就业热，报考需结合培养方案与行业周期。",
+      "why": "（离线自测：模拟 LLM 输出）",
+      "divergence": "",
+      "source": {
+        "name": "Bing:高考 专业 就业",
+        "url": "https://example.com/news/university-new-majors"
+      },
+      "image": {
+        "url": "https://picsum.photos/seed/major/640/360",
+        "alt": "多所高校公布 2026 年新增本科专业，人工智能方向持续扩张"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "某创业公司发布端侧 Agent 开发框架，宣称无需云端即可部署",
+      "summary": "一家创业公司昨日发布端侧 Agent 开发框架，宣称可在消费级硬件上离线部署智能体。业界对该框架的实际效果存在分歧：支持者认为端侧是趋势，质疑者指出复杂任务仍需云端算力。",
+      "why": "（离线自测：模拟 LLM 输出）",
+      "divergence": "",
+      "source": {
+        "name": "VentureBeat AI",
+        "url": "https://example.com/news/edge-agent-framework"
+      },
+      "image": {
+        "url": "https://picsum.photos/seed/agent/640/360",
+        "alt": "某创业公司发布端侧 Agent 开发框架，宣称无需云端即可部署"
+      }
+    }
+  ]
+}

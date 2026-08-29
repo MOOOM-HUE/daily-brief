@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="description" content="每天北京时间 07:30 自动推送 AI/科技/教育 5 条精选">
+  <title>每日简报</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="每日简报">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>每日简报</h1>
+      <span id="dateLabel" class="date-label">加载中…</span>
+    </div>
+    <div class="actions">
+      <button id="btnPush" class="btn btn-primary" type="button">开启推送</button>
+      <button id="btnSettings" class="btn btn-ghost" type="button" aria-label="设置">⚙︎</button>
+    </div>
+  </header>
+
+  <nav class="datenav" aria-label="日期切换">
+    <button id="btnPrev" class="nav-btn" type="button">← 前一天</button>
+    <span id="navTitle" class="nav-title">昨日精选</span>
+    <button id="btnNext" class="nav-btn" type="button">后一天 →</button>
+  </nav>
+
+  <main id="cards" class="cards" aria-live="polite">
+    <div class="skeleton"></div>
+    <div class="skeleton"></div>
+    <div class="skeleton"></div>
+    <div class="skeleton"></div>
+    <div class="skeleton"></div>
+  </main>
+
+  <footer class="footer">
+    <p id="metaInfo" class="meta"></p>
+    <select id="historySelect" class="history-select" hidden aria-label="历史简报"></select>
+  </footer>
+
+  <dialog id="settingsDialog" class="dialog">
+    <form method="dialog" class="dialog-body">
+      <h2>设置</h2>
+      <p class="hint">用于把推送订阅写回你的 GitHub 仓库（仅保存在本机浏览器）。</p>
+      <label>仓库 Owner
+        <input id="setOwner" type="text" placeholder="你的 GitHub 用户名" autocomplete="off">
+      </label>
+      <label>仓库名称
+        <input id="setName" type="text" placeholder="daily-brief" autocomplete="off">
+      </label>
+      <label>GitHub 令牌（fine-grained PAT，仅需本仓库 Contents 读+写）
+        <input id="setPat" type="password" placeholder="github_pat_…" autocomplete="off">
+      </label>
+      <div class="dialog-actions">
+        <button id="btnTest" class="btn btn-ghost" type="button">测试连接</button>
+        <button id="btnSave" class="btn btn-primary" type="button">保存</button>
+        <button value="cancel" class="btn btn-ghost" type="submit">关闭</button>
+      </div>
+      <p id="pushStatus" class="status-line"></p>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+# 每日简报 —— 每天北京时间 07:30 自动生成并推送
+# 
+# 抓取新闻 → DeepSeek 精选 5 条 → 写入 site/ → Web Push 推送到所有订阅设备 → 自动提交
+name: Daily Digest
+
+on:
+  schedule:
+    # 23:30 UTC = 北京时间次日 07:30
+    - cron: '30 23 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Generate digest, push notifications, commit
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+        run: node scripts/digest.mjs

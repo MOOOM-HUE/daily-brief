@@ -1,0 +1,14 @@
+{
+  "site": {
+    "name": "每日简报",
+    "tagline": "AI · 科技 · 教育，每天 07:30 五条精选",
+    "topicLabels": ["AI / Agent / 大模型", "科技产品与硬件", "大学 / 专业 / 就业"]
+  },
+  "vapid": {
+    "publicKey": "BPumxZUF8_iKnrNCaQTcfBM3-s1KFgRks1bALgg-gs3KBFPK-2Amg8qZs2B5QbvSOaSDyGF70nfZkNBICOufSso"
+  },
+  "repo": {
+    "owner": "MOOM-HUE",
+    "name": "daily-brief"
+  }
+}

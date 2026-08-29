@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T16:02:03.390Z",
+  "model": "deepseek-chat",
+  "degraded": true,
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 115,
+    "feedErrors": 0,
+    "selected": 5,
+    "durationMs": 22408
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
+      "summary": "OpenAI is planning to cut off Cursor's access to its models on November 12, 2026.",
+      "why": "——",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
+        "alt": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition"
+      }
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "why": "——",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+        "alt": "Nvidia’s AI advantage is moving beyond the GPU"
+      }
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival M",
+      "why": "——",
+      "divergence": "",
+      "source": {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review"
+      },
+      "image": {
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "alt": "The Galaxy Z Flip 8 is at its best when there’s friction"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "How to use the new Siri app in iOS 27",
+      "summary": "How to use the new Siri app in iOS 27.",
+      "why": "——",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/l-intro-1787327971.jpg",
+        "alt": "How to use the new Siri app in iOS 27"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "Want to speed up your MacBook? Do these things first",
+      "summary": "Any Mac will become slower over time, but slowdowns don't have to mean a new machine. Try these tricks to get your computer running faster again.",
+      "why": "——",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2242747/how-to-speed-up-macbook/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/want-to-speed-up-your-macbook-do-these-things-first/l-intro-1787582736.jpg",
+        "alt": "Want to speed up your MacBook? Do these things first"
+      }
+    }
+  ]
+}
