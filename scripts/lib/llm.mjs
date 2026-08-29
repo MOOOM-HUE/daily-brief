@@ -77,7 +77,10 @@ export function isMostlyEnglish(text) {
   return cjk / (latin + cjk) < 0.15 && latin > 20;
 }
 
-function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels }) {
+function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels, keywords }) {
+  const kwLine = keywords && keywords.length
+    ? ['', '7. 读者关注关键词：' + keywords.join('、') + '。若某条与该关键词直接相关（标题或内容明显涉及），在该条的 matchedKeywords 数组中列出命中的关键词；不相关的条目省略该字段。'].join('')
+    : '';
   const system = [
     '你是资深科技新闻主编，为一位个人读者每日精选"昨天"最重要的 5 条新闻。',
     `读者关注的主题：${topicLabels.join('、')}。`,
@@ -96,7 +99,9 @@ function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels })
     '3. 若多个来源对同一事件的事实或解读存在分歧，在 divergence 字段用 1-2 句说明分歧点。',
     '4. 避免与"近期已报道"清单中主题重复、且没有新进展的内容。',
     '5. sourceName 与 sourceUrl 必须来自候选列表（不要编造链接）。',
-    '6. 只输出一个 JSON 对象：{"items":[{"title","summary","why","divergence","sourceName","sourceUrl","topic"}]}。',
+    kwLine,
+    '6. 只输出一个 JSON 对象：{"overview":"...","items":[{"title","summary","why","divergence","sourceName","sourceUrl","topic","matchedKeywords"?}]}。',
+    '   overview 为今日总览：用 1-2 句话概括这 5 条精选的总主题与看点（≤60 字）；',
     '   title 为简洁标题（≤30 字）；summary 为 2-4 句中文摘要（含关键事实与数据）；',
     '   why 为"为什么值得关注/潜在影响"，**每条都必须写、且具体**——说明为什么现在值得关注、对行业/读者有何影响（2-3 句，不要写"影响深远"这类空话，也不要写"——"）；',
     '   topic 必须属于：' + topicLabels.join(' / ') + '。',
@@ -153,9 +158,9 @@ function matchItemToCandidate(llmItem, candidates) {
   return bestScore >= 0.6 ? best : null;
 }
 
-export async function selectTop5({ apiKey, model, candidates, historyTitles, yesterdayLabel, topicLabels = TOPICS }) {
+export async function selectTop5({ apiKey, model, candidates, historyTitles, yesterdayLabel, topicLabels = TOPICS, keywords = [] }) {
   const trimmed = candidates.slice(0, MAX_CANDIDATES_IN_PROMPT);
-  const { system, user } = buildPrompt({ candidates: trimmed, historyTitles, yesterdayLabel, topicLabels });
+  const { system, user } = buildPrompt({ candidates: trimmed, historyTitles, yesterdayLabel, topicLabels, keywords });
 
   const mkMessages = () => [{ role: 'system', content: system }, { role: 'user', content: user }];
 
@@ -203,6 +208,9 @@ export async function selectTop5({ apiKey, model, candidates, historyTitles, yes
       divergence: (raw.divergence || '').trim() || '',
       source: { name: (raw.sourceName || c.sourceName || '').trim(), url: c.url },
       image: { url: c.image || '', alt: c.title || '' },
+      matchedKeywords: Array.isArray(raw.matchedKeywords)
+        ? raw.matchedKeywords.filter((k) => typeof k === 'string' && k.trim()).slice(0, 5)
+        : [],
     });
     if (items.length >= 5) break;
   }
@@ -226,7 +234,11 @@ export async function selectTop5({ apiKey, model, candidates, historyTitles, yes
     }
   }
 
-  return { items, degraded: items.length < 5 };
+  return {
+    items,
+    degraded: items.length < 5,
+    overview: String(data.overview || '').trim(),
+  };
 }
 
 /**
@@ -273,6 +285,80 @@ export async function translateItems({ apiKey, model, items }) {
       divergence: String(t.divergence || '').trim(),
     };
   });
+}
+
+/**
+ * 周末深度特刊：对近 7 天候选生成周报（本周回顾 + 趋势 + 下周关注）。
+ * @param {object} opts {apiKey, model, candidates, topics, weekLabel}
+ * @returns {Promise<{overview:string, highlights:Array, trend:string, outlook:Array}>}
+ */
+export async function weeklyReview({ apiKey, model, candidates, topics = TOPICS, weekLabel = '' }) {
+  const system = [
+    '你是资深科技新闻主编，为个人读者撰写"周末深度特刊"。',
+    `覆盖主题：${topics.join('、')}；内容偏重行业趋势与机会、深度分析与观点。`,
+    '请基于近 7 天的候选新闻，用简体中文输出一份周报。',
+    '',
+    '输出一个 JSON 对象：',
+    '{"overview":"一句话总结本周（≤40 字）",',
+    ' "highlights":[{"title":"要点标题","summary":"2-3 句，含关键事实与分析"}×3-5],',
+    ' "trend":"1-2 段深度趋势分析（全局视角、机遇与隐忧）",',
+    ' "outlook":[{"title":"下周关注点","summary":"1-2 句说明为什么"}×2-3]}',
+    '要求：highlights 覆盖本周最重要的事件并给观点；trend 要有洞察而非罗列；不要编造候选列表之外的事实。',
+    '除该 JSON 对象外不要输出任何其他文字。',
+  ].join('\n');
+
+  const top = candidates.slice(0, 160).map((c, i) => {
+    const t = c.publishedAt ? new Date(c.publishedAt).toISOString().slice(0, 16).replace('T', ' ') : '时间未知';
+    return `${i + 1}. ${truncate(c.title, 120)} | ${c.sourceName} | ${t} | ${truncate(c.snippet, 140)}`;
+  });
+  const user = [
+    weekLabel ? `【本周】${weekLabel}（近 7 天）` : '【本周】近 7 天',
+    '',
+    `【候选新闻 ${candidates.length} 条（截取前 ${top.length} 条）】`,
+    ...top,
+    '',
+    '请输出周末深度特刊的 JSON。',
+  ].join('\n');
+
+  const messages = [{ role: 'system', content: system }, { role: 'user', content: user }];
+  const mk = () => messages;
+  let content;
+  try {
+    content = await deepseekChat({ apiKey, model, messages: mk(), temperature: 0.5, maxTokens: 5000 });
+  } catch (err) {
+    console.warn(`[llm] 周报首次调用失败，重试：${err.message}`);
+    content = await deepseekChat({ apiKey, model, messages: mk(), temperature: 0.2, maxTokens: 5000 });
+  }
+  let data = extractJson(content);
+  if (!data?.highlights || !Array.isArray(data.highlights)) {
+    const corrected = await deepseekChat({
+      apiKey,
+      model,
+      messages: [...mk(), { role: 'assistant', content }, { role: 'user', content: '请只输出合法 JSON：{"overview","highlights":[...],"trend","outlook":[...]}。' }],
+      temperature: 0.2,
+      maxTokens: 5000,
+    });
+    data = extractJson(corrected);
+  }
+  if (!data?.highlights || !Array.isArray(data.highlights)) {
+    throw new Error('周报两次尝试均未返回合法 JSON');
+  }
+  const clean = (s) => String(s || '').trim();
+  const highlights = (data.highlights || []).slice(0, 5).map((h, i) => ({
+    rank: i + 1,
+    title: clean(h.title).slice(0, 60) || '要点',
+    summary: clean(h.summary),
+  }));
+  const outlook = (data.outlook || []).slice(0, 3).map((h) => ({
+    title: clean(h.title).slice(0, 60),
+    summary: clean(h.summary),
+  }));
+  return {
+    overview: clean(data.overview),
+    highlights,
+    trend: clean(data.trend),
+    outlook,
+  };
 }
 
 // 完全无 LLM 时的降级选择：按时间倒序取前 5 条候选

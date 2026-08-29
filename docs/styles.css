@@ -352,3 +352,164 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+/* ---------- 主题筛选 Tab ---------- */
+.topic-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 4px 0 12px;
+}
+
+.topic-tab {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 6px 13px;
+  font-size: 12.5px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.topic-tab.active {
+  background: linear-gradient(90deg, #ea580c, #f97316);
+  border-color: transparent;
+  color: #fff;
+  font-weight: 600;
+}
+
+/* ---------- 今日速览 ---------- */
+.overview {
+  background: linear-gradient(100deg, rgba(249, 115, 22, 0.12), rgba(34, 211, 238, 0.1));
+  border: 1px solid rgba(249, 115, 22, 0.3);
+  border-radius: 12px;
+  padding: 11px 14px;
+  margin-bottom: 14px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #f1e7dc;
+}
+
+.overview .ov-label {
+  display: block;
+  font-size: 11px;
+  color: var(--accent);
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
+}
+
+/* ---------- 卡片星标 ---------- */
+.star-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(11, 17, 32, 0.78);
+  color: #cbd5e1;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 2;
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.star-btn.on { color: #fbbf24; border-color: rgba(251, 191, 36, 0.5); }
+
+/* ---------- 关注关键词徽标 ---------- */
+.kw-badge {
+  display: inline-block;
+  margin-right: 6px;
+  margin-bottom: 4px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 11px;
+  color: #fbbf24;
+  border: 1px solid rgba(251, 191, 36, 0.35);
+  background: rgba(251, 191, 36, 0.08);
+}
+
+/* ---------- 周末特刊 ---------- */
+.weekly {
+  margin-top: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.weekly-head {
+  padding: 14px 15px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.weekly-head h2 {
+  margin: 0;
+  font-size: 16px;
+  background: linear-gradient(90deg, #f97316, #22d3ee);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.weekly-head .weekly-date { font-size: 12px; color: var(--text-dim); }
+
+.weekly-body { padding: 4px 15px 15px; }
+
+.weekly-ov {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #dbe6f5;
+  margin: 0 0 12px;
+}
+
+.weekly-sec-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 1px;
+  margin: 14px 0 8px;
+}
+
+.weekly-hl {
+  background: var(--surface-2);
+  border-radius: 10px;
+  padding: 10px 13px;
+  margin-bottom: 9px;
+}
+
+.weekly-hl b { display: block; font-size: 14px; margin-bottom: 4px; color: var(--text); }
+.weekly-hl p { margin: 0; font-size: 13px; line-height: 1.6; color: #b9c6da; }
+
+.weekly-trend {
+  font-size: 13.5px;
+  line-height: 1.75;
+  color: #c6d3e6;
+  white-space: pre-line;
+}
+
+.weekly-ol p { margin: 4px 0 10px; font-size: 13px; line-height: 1.6; color: #b9c6da; }
+.weekly-ol p b { color: var(--accent-2); }
+
+/* ---------- 设置弹窗输入 ---------- */
+.dialog-body textarea {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  color: var(--text);
+  padding: 9px 11px;
+  font-size: 14px;
+  font-family: inherit;
+  resize: vertical;
+}

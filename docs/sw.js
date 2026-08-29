@@ -1,7 +1,7 @@
 /* 每日简报 —— Service Worker（缓存 + Web Push） */
 'use strict';
 
-const CACHE = 'daily-brief-v4';
+const CACHE = 'daily-brief-v5';
 const SHELL = [
   './',
   'index.html',
@@ -34,8 +34,9 @@ self.addEventListener('fetch', (event) => {
   if (url.origin !== self.location.origin) return;
 
   const isNavigation = req.mode === 'navigate';
-  // config.json 也走网络优先，避免把仓库配置缓存成旧版导致"缺少仓库/令牌"
-  const isData = /(^|\/)(latest\.json|config\.json|digests?\/)/.test(url.pathname);
+  // config.json 也走网络优先，避免把仓库配置缓存成旧版导致"缺少仓库/令牌"；
+  // weekly/、favorites.json、prefs.json 均为动态数据，同样网络优先
+  const isData = /(^|\/)(latest\.json|config\.json|prefs\.json|favorites\.json|digests?\/|weekly\/)/.test(url.pathname);
 
   // 数据与页面：网络优先，失败回退缓存
   if (isNavigation || isData) {

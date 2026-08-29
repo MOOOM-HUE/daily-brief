@@ -6,6 +6,7 @@
   "description": "每日简报 —— 每天北京时间 07:30 自动精选推送 AI/Agent/大模型、科技产品与硬件、大学/专业/就业 5 条要闻（GitHub Pages + Actions + DeepSeek + Web Push）",
   "scripts": {
     "digest": "node scripts/digest.mjs",
+    "weekly": "node scripts/weekly.mjs",
     "dry-run": "node scripts/digest.mjs --dry-run",
     "offline": "node scripts/digest.mjs --offline",
     "gen-vapid": "node scripts/gen-vapid.mjs",

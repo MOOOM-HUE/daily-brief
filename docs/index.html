@@ -22,10 +22,15 @@
       <span id="dateLabel" class="date-label">加载中…</span>
     </div>
     <div class="actions">
+      <button id="btnFav" class="btn btn-ghost" type="button">★ 收藏</button>
       <button id="btnPush" class="btn btn-primary" type="button">开启推送</button>
       <button id="btnSettings" class="btn btn-ghost" type="button" aria-label="设置">⚙︎</button>
     </div>
   </header>
+
+  <nav id="topicTabs" class="topic-tabs" aria-label="主题筛选"></nav>
+
+  <div id="overview" class="overview" hidden></div>
 
   <nav class="datenav" aria-label="日期切换">
     <button id="btnPrev" class="nav-btn" type="button">← 前一天</button>
@@ -40,6 +45,8 @@
     <div class="skeleton"></div>
     <div class="skeleton"></div>
   </main>
+
+  <section id="weekly" class="weekly" hidden></section>
 
   <footer class="footer">
     <p id="metaInfo" class="meta"></p>
@@ -58,6 +65,9 @@
       </label>
       <label>GitHub 令牌（fine-grained PAT，仅需本仓库 Contents 读+写）
         <input id="setPat" type="password" placeholder="github_pat_…" autocomplete="off">
+      </label>
+      <label>关注关键词（逗号分隔，命中会在简报中标注）
+        <textarea id="setKeywords" rows="2" placeholder="如：英伟达, OpenAI, 高考" autocomplete="off"></textarea>
       </label>
       <div class="dialog-actions">
         <button id="btnTest" class="btn btn-ghost" type="button">测试连接</button>

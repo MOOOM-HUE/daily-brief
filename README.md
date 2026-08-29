@@ -1,21 +1,32 @@
 # 每日简报
 
-每天北京时间 **07:30**，自动抓取新闻 → DeepSeek 精选 **5 条**最值得关注的内容 → 通过浏览器推送（Web Push）送达你的手机/电脑，并在网站页面展示。
+每天北京时间 **07:30**，自动抓取新闻 → DeepSeek 精选 **5 条**最值得关注的内容 → 通过浏览器推送（Web Push）送达你的手机/电脑，并在网站页面展示。每周日 **08:00** 另有「周末深度特刊」（本周回顾 + 趋势分析）。
 
 - **主题**：AI / Agent / 大模型、科技产品与硬件、大学 / 专业 / 就业
 - **每条包含**：简洁标题、2–4 句摘要、为什么值得关注/潜在影响、一张相关图片、来源链接；多来源有分歧时附简要说明
 - **去重**：自动记录最近 30 天已报道内容，避免重复
 - **免费**：GitHub Pages + GitHub Actions 免费额度 + DeepSeek API（每天成本约几分钱）
 
+**特色功能（v2）**：
+- 📌 **今日速览**：简报顶部一句话总览，扫一眼即知重点
+- 🎯 **关注关键词**：设置里填关注的公司/关键词，相关条目自动标注
+- ★ **收藏**：卡片星标收藏，配置令牌后跨设备同步到 GitHub
+- 🔀 **主题筛选**：顶部 Tab 只看某类主题
+- 📖 **周末特刊**：每周日 08:00 自动发布周报并推送
+- 🌐 **AI 翻译**：英文条目一键翻译为中文
+
 ## 工作原理
 
 ```
 GitHub Actions（每天 23:30 UTC = 07:30 北京时间）
   │ 1. 抓取：精选 RSS 源 + Bing News RSS（免费、无需 Key）
-  │ 2. DeepSeek：过滤"昨天"→ 去重 → 按重要性选 5 条 → 写标题/摘要/观点/分歧说明
-  │ 3. 补图：从原文抓 og:image（失败则前端自动降级为占位图）
+  │ 2. DeepSeek：过滤"昨天"→ 去重 → 按重要性选 5 条 → 写标题/摘要/观点/分歧说明 + 今日速览 + 关键词标注
+  │ 3. 补图：从原文抓 og:image（失败则前端自动降级为占位图）；英文条目 AI 翻译
   │ 4. 写入 docs/digests/YYYY-MM-DD.json 等，git 自动提交
   │ 5. Web Push 推送给 docs/subscriptions.json 里所有订阅设备
+  ▼
+GitHub Actions（每周日 00:00 UTC = 08:00 北京时间，weekly.yml）
+  │ 抓取近 7 天候选 → DeepSeek 生成周报（要点/趋势/下周关注）→ docs/weekly/* → 推送 → 提交
   ▼
 GitHub Pages 静态站点（PWA）
   ▼
@@ -148,23 +159,36 @@ node scripts/digest.mjs --offline
 ## 目录结构
 
 ```
-.github/workflows/digest.yml   定时任务（每天 07:30 北京时间）
+.github/workflows/
+  digest.yml                  每日定时任务（每天 07:30 北京时间）
+  weekly.yml                  周末特刊定时任务（每周日 08:00 北京时间）
 scripts/
-  digest.mjs                   主流水线
-  dry-run.mjs                  本机试运行入口
-  gen-vapid.mjs                生成 VAPID 密钥
-  gen-icons.mjs                生成 PWA 图标
-  lib/                         feeds / llm / push / git / json / vapid
-  sample-data.mjs              离线自测样例
-docs/                           GitHub Pages 站点（PWA，发布源为 /docs）
+  digest.mjs                  每日主流水线
+  weekly.mjs                  周末特刊流水线
+  dry-run.mjs                 本机试运行入口
+  gen-vapid.mjs               生成 VAPID 密钥
+  gen-icons.mjs               生成 PWA 图标
+  lib/                        feeds / llm / push / git / json / vapid
+  sample-data.mjs             离线自测样例
+docs/                         GitHub Pages 站点（PWA，发布源为 /docs）
   index.html / styles.css / app.js / sw.js / manifest.webmanifest / config.json
-  icons/                       图标
-  digests/                     每日简报数据（自动生成）
-  latest.json / history.json / subscriptions.json   （自动维护）
+  icons/                      图标
+  digests/                    每日简报数据（自动生成）
+  weekly/                     周末特刊数据（自动生成）
+  latest.json / history.json / subscriptions.json / favorites.json / prefs.json  （自动维护）
 ```
+
+## 新增功能使用说明
+
+- **今日速览**：简报顶部蓝色总览条，无需操作。
+- **主题筛选**：简报上方 Tab（全部 / AI / 硬件 / 教育），点击只看某类。
+- **收藏**：卡片右上角 ☆ 星标；顶栏「★ 收藏」查看；配置了 PAT 后自动同步到 `docs/favorites.json`（跨设备）。
+- **关注关键词**：⚙ 设置 → 填写关键词（逗号分隔）→ 保存；相关条目显示「🎯」徽标（由 DeepSeek 生成标注 + 前端本地兜底匹配）。
+- **AI 翻译**：英文条目下方的青色「AI 翻译」按钮，点击切换中/英文。
+- **周末特刊**：每周日 08:00 自动生成并在首页展示；页面底部历史下拉可回看往期（带 📖 前缀）。
 
 ## 安全说明
 
 - 网站静态包中不含任何密钥；`vapid.publicKey` 是公开的（本应公开）。
-- 手机上的 GitHub 令牌只存在该设备浏览器的 localStorage，用于把订阅写回仓库；请用**仅限本仓库 Contents 读+写**的 fine-grained PAT，并可在不需要时吊销。
+- 手机上的 GitHub 令牌只存在该设备浏览器的 localStorage，用于把订阅/收藏/关键词写回仓库；请用**仅限本仓库 Contents 读+写**的 fine-grained PAT，并可在不需要时吊销。
 - `DEEPSEEK_API_KEY`、`VAPID_PRIVATE_KEY` 只存在 GitHub Secrets，不进代码库。

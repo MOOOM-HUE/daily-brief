@@ -17,7 +17,6 @@ import { SAMPLE_CANDIDATES, SAMPLE_HISTORY } from './sample-data.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const SITE_DIR = path.join(ROOT, 'docs');
-const DIGESTS_DIR = path.join(SITE_DIR, 'digests');
 
 // ---------------- 北京时间日期 ----------------
 const HOUR8 = 8 * 3600 * 1000;
@@ -90,10 +89,11 @@ export async function runDigest({
   console.log(`[digest] 目标日期：${label}（${targetDate}） offline=${offline} dryRun=${dryRun}`);
 
   // 1. 加载仓库现有状态
+  const digestsDir = path.join(siteDir, 'digests');
   const config = readJson(path.join(siteDir, 'config.json'), {});
   const history = readJson(path.join(siteDir, 'history.json'), null);
   const subscriptions = readJson(path.join(siteDir, 'subscriptions.json'), []);
-  const existingIndex = readJson(path.join(DIGESTS_DIR, 'index.json'), []);
+  const existingIndex = readJson(path.join(digestsDir, 'index.json'), []);
   // 离线自测：无历史文件时注入样例历史，验证去重路径
   const historyEntries = offline && !history ? { entries: SAMPLE_HISTORY } : (history || { entries: [] });
 
@@ -119,6 +119,9 @@ export async function runDigest({
 
   // 4. LLM 精选
   const historyTitles = historyEntries.entries.slice(-40).map((e) => e.title).filter(Boolean);
+  // 用户关注关键词（docs/prefs.json，由 PWA 设置页写入）
+  const prefs = readJson(path.join(siteDir, 'prefs.json'), {});
+  const keywords = (Array.isArray(prefs.keywords) ? prefs.keywords : []).filter((k) => typeof k === 'string' && k.trim()).slice(0, 10);
   let selection;
   let modelUsed = 'fallback';
   const apiKey = process.env.DEEPSEEK_API_KEY;
@@ -135,8 +138,10 @@ export async function runDigest({
         divergence: '',
         source: { name: c.sourceName, url: c.url },
         image: { url: c.image || '', alt: c.title || '' },
+        matchedKeywords: [],
       })),
       degraded: false,
+      overview: '今日精选 ' + TOPICS.join('、') + ' 5 条',
     };
   } else if (apiKey) {
     modelUsed = process.env.LLM_MODEL || 'deepseek-chat';
@@ -147,10 +152,12 @@ export async function runDigest({
       historyTitles,
       yesterdayLabel: label,
       topicLabels: TOPICS,
+      keywords,
     });
   } else {
     selection = fallbackSelect(fresh);
   }
+  if (keywords.length) console.log(`[digest] 关注关键词 ${keywords.length} 个：${keywords.join('、')}`);
   console.log(`[digest] 精选 ${selection.items.length} 条${selection.degraded ? '（降级）' : ''}`);
 
   // 5. 图片：LLM 没给到图片的条目尝试抓 og:image
@@ -189,6 +196,7 @@ export async function runDigest({
     generatedAt: new Date().toISOString(),
     model: modelUsed,
     degraded: selection.degraded || selection.items.length < 5,
+    overview: (selection.overview || '').trim() || `今日${TOPICS.join('、')}精选 ${selection.items.length} 条`,
     stats: {
       candidates: candidates.length,
       afterDedup: fresh.length,
@@ -199,12 +207,12 @@ export async function runDigest({
     items: selection.items,
   };
 
-  const digestFile = path.join(DIGESTS_DIR, `${targetDate}.json`);
+  const digestFile = path.join(digestsDir, `${targetDate}.json`);
   writeJson(digestFile, digest);
   writeJson(path.join(siteDir, 'latest.json'), digest);
 
   const newIndex = Array.from(new Set([targetDate, ...existingIndex])).sort().reverse().slice(0, 30);
-  writeJson(path.join(DIGESTS_DIR, 'index.json'), newIndex);
+  writeJson(path.join(digestsDir, 'index.json'), newIndex);
 
   // 7. 更新历史（去重库，保留最近 30 天）
   const todayBeijing = beijingToday();
