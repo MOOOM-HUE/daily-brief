@@ -69,6 +69,12 @@ function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels })
     '读者偏好：行业趋势与机会、深度分析与观点，而非简单产品发布流水账。',
     '要求来源可靠（一手来源或高质量媒体优先）。',
     '',
+    '选稿优先级（由高到低）：',
+    '  ① 行业趋势/机会类（融资、并购、政策、重大战略、生态格局变化）；',
+    '  ② 重大技术突破或标志性发布（新模型/新品首秀、芯片、关键产品）；',
+    '  ③ 有争议、能引发讨论或对读者职业/选择有影响的话题；',
+    '  ④ 最后才考虑普通产品评测与使用技巧——这类尽量不选，除非极有代表性。',
+    '',
     '严格规则：',
     '1. 只保留"昨天"（' + yesterdayLabel + '，北京时间）发布或当天有新进展的新闻；更早且无新进展的不要选。',
     '2. 恰好输出 5 条，按重要性降序排列；主题可分布，也可集中于热点。',
@@ -77,7 +83,8 @@ function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels })
     '5. sourceName 与 sourceUrl 必须来自候选列表（不要编造链接）。',
     '6. 只输出一个 JSON 对象：{"items":[{"title","summary","why","divergence","sourceName","sourceUrl","topic"}]}。',
     '   title 为简洁标题（≤30 字）；summary 为 2-4 句中文摘要（含关键事实与数据）；',
-    '   why 为"为什么值得关注/潜在影响"（1-3 句）；topic 必须属于：' + topicLabels.join(' / ') + '。',
+    '   why 为"为什么值得关注/潜在影响"，**每条都必须写、且具体**——说明为什么现在值得关注、对行业/读者有何影响（2-3 句，不要写"影响深远"这类空话，也不要写"——"）；',
+    '   topic 必须属于：' + topicLabels.join(' / ') + '。',
     '   除该 JSON 对象外不要输出任何其他文字。',
   ].join('\n');
 
@@ -100,6 +107,11 @@ function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels })
 
 function normTitle(t) {
   return String(t).toLowerCase().replace(/[\s\W_]+/g, '');
+}
+
+// 兜底"为什么值得关注"文案（LLM 未给时的替代，避免出现"——"）
+function fallbackWhy(topic) {
+  return `这是${topic || '科技'}领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。`;
 }
 
 // 用标题相似度把 LLM 输出匹配回真实候选（避免编造链接/来源）
@@ -172,7 +184,7 @@ export async function selectTop5({ apiKey, model, candidates, historyTitles, yes
       topic: topicLabels.includes(raw.topic) ? raw.topic : c.topic,
       title: (raw.title || c.title).trim().slice(0, 80),
       summary: (raw.summary || c.snippet || '').trim(),
-      why: (raw.why || '').trim() || '——',
+      why: (raw.why || '').trim() || fallbackWhy(raw.topic || c.topic),
       divergence: (raw.divergence || '').trim() || '',
       source: { name: (raw.sourceName || c.sourceName || '').trim(), url: c.url },
       image: { url: c.image || '', alt: c.title || '' },
@@ -191,7 +203,7 @@ export async function selectTop5({ apiKey, model, candidates, historyTitles, yes
         topic: c.topic,
         title: c.title,
         summary: c.snippet || '',
-        why: '——',
+        why: fallbackWhy(c.topic),
         divergence: '',
         source: { name: c.sourceName, url: c.url },
         image: { url: c.image || '', alt: c.title || '' },
