@@ -1,13 +1,13 @@
 // 生成 PWA 图标（纯 node:zlib 手写 PNG 编码器，无任何依赖）
 // 用法：node scripts/gen-icons.mjs
-// 产出：site/icons/icon-192.png、icon-512.png、site/apple-touch-icon.png(180)
+// 产出：docs/icons/icon-192.png、icon-512.png、docs/apple-touch-icon.png(180)
 import fs from 'node:fs';
 import path from 'node:path';
 import zlib from 'node:zlib';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const outDir = path.resolve(__dirname, '..', 'site', 'icons');
+const outDir = path.resolve(__dirname, '..', 'docs', 'icons');
 
 // ---------- 最小 PNG 编码器 ----------
 const CRC_TABLE = (() => {

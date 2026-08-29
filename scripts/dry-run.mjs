@@ -3,5 +3,5 @@
 import { runDigest } from './digest.mjs';
 
 const summary = await runDigest({ offline: false, dryRun: true });
-console.log('\n试运行完成。请检查 site/digests/ 与 site/latest.json 的内容质量。');
+console.log('\n试运行完成。请检查 docs/digests/ 与 docs/latest.json 的内容质量。');
 process.exit(summary.selected > 0 ? 0 : 1);

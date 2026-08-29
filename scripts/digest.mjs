@@ -16,7 +16,7 @@ import { SAMPLE_CANDIDATES, SAMPLE_HISTORY } from './sample-data.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const SITE_DIR = path.join(ROOT, 'site');
+const SITE_DIR = path.join(ROOT, 'docs');
 const DIGESTS_DIR = path.join(SITE_DIR, 'digests');
 
 // ---------------- 北京时间日期 ----------------

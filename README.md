@@ -14,8 +14,8 @@ GitHub Actions（每天 23:30 UTC = 07:30 北京时间）
   │ 1. 抓取：精选 RSS 源 + Bing News RSS（免费、无需 Key）
   │ 2. DeepSeek：过滤"昨天"→ 去重 → 按重要性选 5 条 → 写标题/摘要/观点/分歧说明
   │ 3. 补图：从原文抓 og:image（失败则前端自动降级为占位图）
-  │ 4. 写入 site/digests/YYYY-MM-DD.json 等，git 自动提交
-  │ 5. Web Push 推送给 site/subscriptions.json 里所有订阅设备
+  │ 4. 写入 docs/digests/YYYY-MM-DD.json 等，git 自动提交
+  │ 5. Web Push 推送给 docs/subscriptions.json 里所有订阅设备
   ▼
 GitHub Pages 静态站点（PWA）
   ▼
@@ -44,7 +44,7 @@ git push -u origin main
 
 > 仓库名会决定网站地址：`https://<用户名>.github.io/<仓库名>/`。
 
-### 2. 修改 site/config.json
+### 2. 修改 docs/config.json
 
 ```json
 {
@@ -69,11 +69,11 @@ git push -u origin main
 ```bash
 node scripts/gen-vapid.mjs   # 输出 publicKey / privateKey，私钥填入上面的 Secret
 ```
-> 也可以使用官方命令生成：`npx web-push generate-vapid-keys`，效果等价。公钥填回 `site/config.json` 的 `vapid.publicKey`。
+> 也可以使用官方命令生成：`npx web-push generate-vapid-keys`，效果等价。公钥填回 `docs/config.json` 的 `vapid.publicKey`。
 
 ### 4. 开启 GitHub Pages
 
-仓库 Settings → Pages → **Build and deployment** → Source 选 **Deploy from a branch** → Branch 选 `main`、目录选 `/site` → Save。
+仓库 Settings → Pages → **Build and deployment** → Source 选 **Deploy from a branch** → Branch 选 `main`、目录选 `/docs` → Save。
 
 等 1–2 分钟，打开 `https://<用户名>.github.io/<仓库名>/` 确认页面可访问。
 
@@ -83,7 +83,7 @@ node scripts/gen-vapid.mjs   # 输出 publicKey / privateKey，私钥填入上�
 
 完成后检查：
 - Actions 日志显示 `[digest] 完成` 且 `selected: 5`；
-- 仓库里出现 `site/digests/当天日期.json` 与更新的 `site/latest.json`；
+- 仓库里出现 `docs/digests/当天日期.json` 与更新的 `docs/latest.json`；
 - 打开网站能看到 5 张卡片。
 
 > 之后每天 07:30（北京时间）自动执行，无需任何操作。也可以在 Actions 页手动重跑。
@@ -117,7 +117,7 @@ $env:DEEPSEEK_API_KEY="sk-..."   # PowerShell；Mac/Linux 用 export
 node scripts/digest.mjs --dry-run
 ```
 
-检查 `site/digests/` 下生成的 JSON 质量即可。纯离线自测（不联网，用内置样例）：
+检查 `docs/digests/` 下生成的 JSON 质量即可。纯离线自测（不联网，用内置样例）：
 
 ```bash
 node scripts/digest.mjs --offline
@@ -130,9 +130,9 @@ node scripts/digest.mjs --offline
 | 新闻源 / 搜索词 | `scripts/lib/feeds.mjs` 里的 `CURATED_FEEDS` 与 `BING_QUERIES` |
 | 模型（可换 deepseek-reasoner） | 仓库 Secret `LLM_MODEL`（可选） |
 | 每天条数（默认 5） | `scripts/lib/llm.mjs` 中 prompt 与 `selectTop5` 的 5 |
-| 主题标签 | `site/config.json` 的 `topicLabels`（同步改 feeds 的 topic 下标说明） |
+| 主题标签 | `docs/config.json` 的 `topicLabels`（同步改 feeds 的 topic 下标说明） |
 | 推送时间 | `.github/workflows/digest.yml` 的 cron（注意 Actions cron 为 UTC：北京时间 = UTC+8） |
-| 页面样式 | `site/styles.css` |
+| 页面样式 | `docs/styles.css` |
 
 ## 故障排查
 
@@ -156,7 +156,7 @@ scripts/
   gen-icons.mjs                生成 PWA 图标
   lib/                         feeds / llm / push / git / json / vapid
   sample-data.mjs              离线自测样例
-site/                          GitHub Pages 站点（PWA）
+docs/                           GitHub Pages 站点（PWA，发布源为 /docs）
   index.html / styles.css / app.js / sw.js / manifest.webmanifest / config.json
   icons/                       图标
   digests/                     每日简报数据（自动生成）
