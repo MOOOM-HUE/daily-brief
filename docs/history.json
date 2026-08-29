@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:itbear.com.cn/html/2026-08/1531012.html",
+      "title": "OpenAI切断Cursor模型供应，与马斯克冲突升级",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2242759/tpu-vs-gpu-difference-between-processsors/",
+      "title": "What's the difference between TPU vs. GPU?",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2246956/xbox-project-helix-family-of-devices/",
+      "title": "Xbox Project Helix is a 'family of devices,' CEO reveals",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-08-29"
+    },
+    {
       "key": "u:ifanr.com/1676929",
       "title": "OpenAI切断Cursor模型供应，与马斯克冲突升级",
       "topic": "科技产品与硬件",
@@ -121,5 +151,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-29T17:23:27.405Z"
+  "updatedAt": "2026-08-29T17:39:35.110Z"
 }
