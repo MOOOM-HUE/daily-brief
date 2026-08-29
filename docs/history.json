@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/c4zpz7whxryl5erw7xop",
+      "title": "OpenAI切断对Cursor模型供应，与马斯克冲突升级",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e6%8a%80%e6%9c%af%e5%85%ac%e5%8f%b8/%e8%85%be%e8%ae%af%e6%b7%b7%e5%85%83%e5%bc%80%e6%ba%90%e6%96%b0%e4%b8%80%e4%bb%a3%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8bhy4preview/ar-aa2b9hw1",
+      "title": "腾讯混元开源新一代大模型Hy4 preview，扩展上下文与规模",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2246977/anbernic-reimagining-of-switch-lite-goes-on-sale-august-31/",
+      "title": "Anbernic's reimagining of the Switch Lite goes on sale August 31",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2242755/how-to-reset-roku-tv/",
+      "title": "How to reset your Roku TV",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
       "key": "u:engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
       "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
       "topic": "科技产品与硬件",
@@ -61,5 +91,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-29T16:02:03.406Z"
+  "updatedAt": "2026-08-29T17:05:49.740Z"
 }

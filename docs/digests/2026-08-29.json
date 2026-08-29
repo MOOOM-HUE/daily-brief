@@ -1,94 +1,94 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T16:02:53.676Z",
-  "model": "offline-sample",
+  "generatedAt": "2026-08-29T17:05:49.739Z",
+  "model": "deepseek-chat",
   "degraded": false,
   "stats": {
-    "candidates": 11,
-    "afterDedup": 9,
+    "candidates": 120,
+    "afterDedup": 110,
     "feedErrors": 0,
     "selected": 5,
-    "durationMs": 3
+    "durationMs": 16145
   },
   "items": [
     {
       "rank": 1,
       "topic": "AI / Agent / 大模型",
-      "title": "国产大模型厂商发布千亿参数新模型，推理成本再降五成",
-      "summary": "某国产大模型厂商昨日发布千亿参数旗舰模型，主打长上下文与低推理成本，官方称单位 token 成本较上一代下降约 50%。业内观点认为价格战将加速 Agent 类应用的规模化。",
-      "why": "（离线自测：模拟 LLM 输出）",
-      "divergence": "",
+      "title": "OpenAI切断对Cursor模型供应，与马斯克冲突升级",
+      "summary": "OpenAI于8月28日宣布，将停止向SpaceX旗下的编程工具Cursor提供AI模型，理由是马斯克的公司违反合同条款，且不信任其遵守服务条款。此举加剧了OpenAI CEO奥特曼与马斯克之间的长期矛盾。此前，OpenAI因SpaceX收购Cursor而决定撤出模型。",
+      "why": "这一事件标志着AI行业竞争与个人恩怨交织的典型案例，可能影响开发者工具生态的格局，并引发关于AI模型供应集中度的讨论。",
+      "divergence": "部分报道强调这是商业合同纠纷，而另一些则聚焦于奥特曼与马斯克的个人恩怨，认为这是双方长期对抗的延续。",
       "source": {
-        "name": "机器之心",
-        "url": "https://example.com/news/cn-llm-cost-down"
+        "name": "Reuters",
+        "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://picsum.photos/seed/llm/640/360",
-        "alt": "国产大模型厂商发布千亿参数新模型，推理成本再降五成"
+        "url": "https://static001.infoq.cn/resource/image/f0/30/f0ce1b90595e2316d86bbe5f0a85e430.png",
+        "alt": "OpenAI切断对Cursor模型供应，与马斯克冲突升级"
       }
     },
     {
       "rank": 2,
-      "topic": "科技产品与硬件",
-      "title": "苹果发布搭载自研芯片的新款 Mac，性能提升但价格上调",
-      "summary": "苹果昨日更新 Mac 产品线，搭载新一代自研芯片，续航与性能均有提升，起售价上调。有观点认为定价策略反映供应链成本压力，也有分析指出需观察 AI 功能能否撑起溢价。",
-      "why": "（离线自测：模拟 LLM 输出）",
-      "divergence": "",
+      "topic": "AI / Agent / 大模型",
+      "title": "腾讯混元开源新一代大模型Hy4 preview，扩展上下文与规模",
+      "summary": "8月28日，腾讯混元发布并开源新一代大语言模型Hy4 preview，在模型尺寸、上下文长度和数据规模上均有扩展。该模型支持更长上下文，性能提升，并已开放预览。此举是腾讯在AI大模型领域的重要布局，旨在推动开源生态发展。",
+      "why": "腾讯混元开源新模型，有助于降低大模型使用门槛，推动AI应用创新，同时加剧国内大模型市场的竞争。",
+      "divergence": "无重大分歧。",
       "source": {
-        "name": "Engadget",
-        "url": "https://example.com/news/apple-mac-new-chip"
+        "name": "Bing:大模型",
+        "url": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8/%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%E5%BC%80%E6%BA%90%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8Bhy4preview/ar-AA2b9hw1"
       },
       "image": {
-        "url": "https://picsum.photos/seed/apple/640/360",
-        "alt": "苹果发布搭载自研芯片的新款 Mac，性能提升但价格上调"
+        "url": "",
+        "alt": "腾讯混元开源新一代大语言模型Hy4preview"
       }
     },
     {
       "rank": 3,
-      "topic": "大学 / 专业 / 就业",
-      "title": "教育部发布 2026 年高校毕业生就业工作通知，拓宽基层就业渠道",
-      "summary": "教育部昨日发布新一年度高校毕业生就业工作通知，提出拓宽基层就业渠道、扩大科研助理岗位等举措。专家解读认为政策信号利好教育类与就业服务类企业，也需关注结构性矛盾。",
-      "why": "（离线自测：模拟 LLM 输出）",
+      "topic": "科技产品与硬件",
+      "title": "Anbernic's reimagining of the Switch Lite goes on sale August 31",
+      "summary": "The RG 55G1 is available in three colors and starts at $150.",
+      "why": "——",
       "divergence": "",
       "source": {
-        "name": "Bing:大学生 就业",
-        "url": "https://example.com/news/edu-employment-policy"
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2246977/anbernic-reimagining-of-switch-lite-goes-on-sale-august-31/"
       },
       "image": {
-        "url": "https://picsum.photos/seed/edu/640/360",
-        "alt": "教育部发布 2026 年高校毕业生就业工作通知，拓宽基层就业渠道"
+        "url": "https://www.engadget.com/img/gallery/anbernics-reimagining-of-the-switch-lite-goes-on-sale-august-31/l-intro-1788021233.jpg",
+        "alt": "Anbernic's reimagining of the Switch Lite goes on sale August 31"
       }
     },
     {
       "rank": 4,
-      "topic": "大学 / 专业 / 就业",
-      "title": "多所高校公布 2026 年新增本科专业，人工智能方向持续扩张",
-      "summary": "多所高校昨日公布 2026 年新增本科专业名单，人工智能、数据科学等方向持续扩容。教育研究者提醒，专业热未必等于就业热，报考需结合培养方案与行业周期。",
-      "why": "（离线自测：模拟 LLM 输出）",
+      "topic": "科技产品与硬件",
+      "title": "How to reset your Roku TV",
+      "summary": "There are a few ways to wipe your Roku TV back to its original state.",
+      "why": "——",
       "divergence": "",
       "source": {
-        "name": "Bing:高考 专业 就业",
-        "url": "https://example.com/news/university-new-majors"
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2242755/how-to-reset-roku-tv/"
       },
       "image": {
-        "url": "https://picsum.photos/seed/major/640/360",
-        "alt": "多所高校公布 2026 年新增本科专业，人工智能方向持续扩张"
+        "url": "https://www.engadget.com/img/gallery/how-to-reset-your-roku-tv/l-intro-1787257779.jpg",
+        "alt": "How to reset your Roku TV"
       }
     },
     {
       "rank": 5,
-      "topic": "AI / Agent / 大模型",
-      "title": "某创业公司发布端侧 Agent 开发框架，宣称无需云端即可部署",
-      "summary": "一家创业公司昨日发布端侧 Agent 开发框架，宣称可在消费级硬件上离线部署智能体。业界对该框架的实际效果存在分歧：支持者认为端侧是趋势，质疑者指出复杂任务仍需云端算力。",
-      "why": "（离线自测：模拟 LLM 输出）",
+      "topic": "科技产品与硬件",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, fo",
+      "why": "——",
       "divergence": "",
       "source": {
-        "name": "VentureBeat AI",
-        "url": "https://example.com/news/edge-agent-framework"
+        "name": "The Verge",
+        "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions"
       },
       "image": {
-        "url": "https://picsum.photos/seed/agent/640/360",
-        "alt": "某创业公司发布端侧 Agent 开发框架，宣称无需云端即可部署"
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268605_BYOK_TOBrien_0016.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "alt": "Distraction-free writing gadget BYOK is adding custom extensions"
       }
     }
   ]
