@@ -1,94 +1,106 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T17:05:49.739Z",
+  "generatedAt": "2026-08-29T17:23:27.403Z",
   "model": "deepseek-chat",
   "degraded": false,
   "stats": {
-    "candidates": 120,
-    "afterDedup": 110,
+    "candidates": 117,
+    "afterDedup": 103,
     "feedErrors": 0,
     "selected": 5,
-    "durationMs": 16145
+    "durationMs": 17800
   },
   "items": [
     {
       "rank": 1,
-      "topic": "AI / Agent / 大模型",
-      "title": "OpenAI切断对Cursor模型供应，与马斯克冲突升级",
-      "summary": "OpenAI于8月28日宣布，将停止向SpaceX旗下的编程工具Cursor提供AI模型，理由是马斯克的公司违反合同条款，且不信任其遵守服务条款。此举加剧了OpenAI CEO奥特曼与马斯克之间的长期矛盾。此前，OpenAI因SpaceX收购Cursor而决定撤出模型。",
-      "why": "这一事件标志着AI行业竞争与个人恩怨交织的典型案例，可能影响开发者工具生态的格局，并引发关于AI模型供应集中度的讨论。",
-      "divergence": "部分报道强调这是商业合同纠纷，而另一些则聚焦于奥特曼与马斯克的个人恩怨，认为这是双方长期对抗的延续。",
+      "topic": "科技产品与硬件",
+      "title": "OpenAI切断Cursor模型供应，与马斯克冲突升级",
+      "summary": "OpenAI宣布终止与Cursor的合作，因其被SpaceX收购后可能违反服务条款。OpenAI表示不信任SpaceX遵守协议，并提及xAI过往行为。此前OpenAI与马斯克的矛盾已持续多年，此次事件标志着冲突进一步升级。",
+      "why": "这是AI行业生态格局的重大变化，显示头部模型厂商对下游应用的控制力，以及商业竞争与个人恩怨交织的复杂性。对开发者而言，依赖单一模型供应商的风险凸显，多元化策略变得重要。",
+      "divergence": "部分报道强调这是OpenAI对马斯克收购Cursor的报复，而OpenAI官方声明则聚焦于合同合规性问题。",
       "source": {
-        "name": "Reuters",
-        "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article"
+        "name": "Bing:OpenAI",
+        "url": "https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/f0/30/f0ce1b90595e2316d86bbe5f0a85e430.png",
-        "alt": "OpenAI切断对Cursor模型供应，与马斯克冲突升级"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/08/lark2pad-1787815323015-1.png",
+        "alt": "OpenAI切断Cursor模型供应，与马斯克冲突升级"
       }
     },
     {
       "rank": 2,
-      "topic": "AI / Agent / 大模型",
-      "title": "腾讯混元开源新一代大模型Hy4 preview，扩展上下文与规模",
-      "summary": "8月28日，腾讯混元发布并开源新一代大语言模型Hy4 preview，在模型尺寸、上下文长度和数据规模上均有扩展。该模型支持更长上下文，性能提升，并已开放预览。此举是腾讯在AI大模型领域的重要布局，旨在推动开源生态发展。",
-      "why": "腾讯混元开源新模型，有助于降低大模型使用门槛，推动AI应用创新，同时加剧国内大模型市场的竞争。",
-      "divergence": "无重大分歧。",
+      "topic": "科技产品与硬件",
+      "title": "苹果2026秋季发布会前瞻：新CEO首秀，折叠屏等超15款新品",
+      "summary": "苹果已发出邀请函，将于北京时间9月10日凌晨1点在乔布斯剧院举行秋季发布会，主题为‘亮新篇，来耀眼’。这是新任CEO约翰·特努斯接替库克后首次主导大型硬件发布，预计将推出折叠iPhone、iPhone 18 Pro等超15款新品。",
+      "why": "作为苹果新掌门人的首秀，此次发布会不仅关乎产品创新，更将定调未来数年的产品战略。折叠屏iPhone的推出可能重塑高端手机市场格局，对产业链和竞争对手产生连锁影响。",
+      "divergence": "关于折叠iPhone的具体形态和发布时间，不同爆料存在差异，部分预测称可能推迟至2027年。",
       "source": {
-        "name": "Bing:大模型",
-        "url": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8/%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%E5%BC%80%E6%BA%90%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8Bhy4preview/ar-AA2b9hw1"
+        "name": "Bing:苹果 新品",
+        "url": "https://sspai.com/post/112775"
       },
       "image": {
-        "url": "",
-        "alt": "腾讯混元开源新一代大语言模型Hy4preview"
+        "url": "https://rssfile.sspai.com/2026/07/27/b6aed73ae349a9478e0135b2ab59b8e4.png?imageMogr2/auto-orient/ignore-error/1",
+        "alt": "苹果2026秋季发布会前瞻：新CEO首秀，折叠屏等超15款新品"
       }
     },
     {
       "rank": 3,
       "topic": "科技产品与硬件",
-      "title": "Anbernic's reimagining of the Switch Lite goes on sale August 31",
-      "summary": "The RG 55G1 is available in three colors and starts at $150.",
-      "why": "——",
-      "divergence": "",
+      "title": "Nvidia预测季度营收将达1080亿美元，AI算力需求持续爆发",
+      "summary": "Nvidia预计未来几个月内季度营收将达到1080亿美元，有望成为首家单季营收超千亿美元的公司。这一预测基于AI数据中心对GPU的强劲需求，尽管面临竞争和出口限制，Nvidia仍保持高速增长。",
+      "why": "Nvidia的业绩是AI行业景气度的风向标，其千亿季度营收预示AI算力投资热潮仍在持续。对投资者和从业者而言，这既意味着机会，也需警惕泡沫风险，同时关注供应链和地缘政治影响。",
+      "divergence": "部分分析师担忧AI支出不可持续，而Nvidia及其客户则强调长期需求强劲，对市场前景存在分歧。",
       "source": {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2246977/anbernic-reimagining-of-switch-lite-goes-on-sale-august-31/"
+        "name": "The Verge AI",
+        "url": "https://sspai.com/post/113944"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/anbernics-reimagining-of-the-switch-lite-goes-on-sale-august-31/l-intro-1788021233.jpg",
-        "alt": "Anbernic's reimagining of the Switch Lite goes on sale August 31"
+        "url": "https://rssfile.sspai.com/2026/8/28/article/ec41fc77-cee2-e799-af03-e8dc4ae1546e.png?imageMogr2/auto-orient/format/webp/ignore-error/1",
+        "alt": "Nvidia预测季度营收将达1080亿美元，AI算力需求持续爆发"
       }
     },
     {
       "rank": 4,
       "topic": "科技产品与硬件",
-      "title": "How to reset your Roku TV",
-      "summary": "There are a few ways to wipe your Roku TV back to its original state.",
-      "why": "——",
+      "title": "Bluetooth or Wi-Fi: How does wireless CarPlay connect?",
+      "summary": "If you're wondering if CarPlay works over Wi-Fi or Bluetooth, the answer is yes. It uses both at different times.",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "Engadget",
-        "url": "https://www.engadget.com/2242755/how-to-reset-roku-tv/"
+        "url": "https://www.engadget.com/2246396/how-does-wireless-apple-carplay-connect-bluetooth-wifi/"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/how-to-reset-your-roku-tv/l-intro-1787257779.jpg",
-        "alt": "How to reset your Roku TV"
+        "url": "https://www.engadget.com/img/gallery/bluetooth-or-wi-fi-how-does-wireless-carplay-connect/l-intro-1787859011.jpg",
+        "alt": "Bluetooth or Wi-Fi: How does wireless CarPlay connect?"
+      },
+      "translation": {
+        "title": "蓝牙还是Wi-Fi：无线CarPlay如何连接？",
+        "summary": "如果你想知道CarPlay是通过Wi-Fi还是蓝牙工作的，答案是两者都使用，但在不同时间。",
+        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
       }
     },
     {
       "rank": 5,
       "topic": "科技产品与硬件",
-      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, fo",
-      "why": "——",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more seri",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "The Verge",
-        "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions"
+        "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango"
       },
       "image": {
-        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268605_BYOK_TOBrien_0016.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "alt": "Distraction-free writing gadget BYOK is adding custom extensions"
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "alt": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango"
+      },
+      "translation": {
+        "title": "《欢迎来到夜谷》联合创作者约瑟夫·芬克从《冥界狂想曲》中学到了讲故事的艺术",
+        "summary": "约瑟夫·芬克是《欢迎来到夜谷》的联合创作者和联合编剧，这可以说是史上最重要的虚构播客。他还是黑色播客《无证》和《爱丽丝未死》的创作者，后者将夜谷中一些阴谋论的宇宙恐怖元素转化为更严肃的素材。",
+        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
       }
     }
   ]

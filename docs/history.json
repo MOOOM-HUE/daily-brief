@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1676929",
+      "title": "OpenAI切断Cursor模型供应，与马斯克冲突升级",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:sspai.com/post/112775",
+      "title": "苹果2026秋季发布会前瞻：新CEO首秀，折叠屏等超15款新品",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:sspai.com/post/113944",
+      "title": "Nvidia预测季度营收将达1080亿美元，AI算力需求持续爆发",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2246396/how-does-wireless-apple-carplay-connect-bluetooth-wifi/",
+      "title": "Bluetooth or Wi-Fi: How does wireless CarPlay connect?",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
       "key": "u:infoq.cn/article/c4zpz7whxryl5erw7xop",
       "title": "OpenAI切断对Cursor模型供应，与马斯克冲突升级",
       "topic": "AI / Agent / 大模型",
@@ -91,5 +121,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-29T17:05:49.740Z"
+  "updatedAt": "2026-08-29T17:23:27.405Z"
 }
