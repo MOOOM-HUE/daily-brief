@@ -62,6 +62,21 @@ function truncate(s, n) {
   return s.length > n ? s.slice(0, n) + '…' : s;
 }
 
+// 判断文本是否以英文为主（用于决定是否需要 AI 翻译）
+export function isMostlyEnglish(text) {
+  const s = String(text || '');
+  if (!s) return false;
+  let cjk = 0;
+  let latin = 0;
+  for (const ch of s) {
+    const code = ch.codePointAt(0);
+    if (code >= 0x4e00 && code <= 0x9fff) cjk++;
+    else if (/[A-Za-z]/.test(ch)) latin++;
+  }
+  if (latin + cjk === 0) return false;
+  return cjk / (latin + cjk) < 0.15 && latin > 20;
+}
+
 function buildPrompt({ candidates, historyTitles, yesterdayLabel, topicLabels }) {
   const system = [
     '你是资深科技新闻主编，为一位个人读者每日精选"昨天"最重要的 5 条新闻。',
@@ -212,6 +227,52 @@ export async function selectTop5({ apiKey, model, candidates, historyTitles, yes
   }
 
   return { items, degraded: items.length < 5 };
+}
+
+/**
+ * 把英文条目翻译成简体中文（批量一次调用）。
+ * @param {Array} items 待翻译的条目 [{title, summary, why, divergence, source}]
+ * @returns {Promise<Array|null>} 与 items 一一对应的翻译对象或 null；失败抛错
+ */
+export async function translateItems({ apiKey, model, items }) {
+  if (!Array.isArray(items) || items.length === 0) return [];
+  const system = [
+    '你是资深中文科技编辑。请把下面英文新闻条目逐条翻译成简体中文。',
+    '要求：术语译法通用、语气客观流畅、保留事实与数据、不要增删信息；只输出一个 JSON 对象。',
+  ].join('');
+  const input = items.map((it, i) => ({
+    index: i,
+    title: it.title,
+    summary: it.summary,
+    why: it.why,
+    divergence: it.divergence || '',
+    sourceName: it.source?.name || '',
+  }));
+  const user =
+    JSON.stringify({ items: input }) +
+    '\n请在 "translations" 数组中，为每条输出 {"index","title","summary","why","divergence"}，内容均用简体中文。';
+
+  const content = await deepseekChat({
+    apiKey,
+    model,
+    messages: [{ role: 'system', content: system }, { role: 'user', content: user }],
+    temperature: 0.2,
+    maxTokens: 5000,
+  });
+  const data = extractJson(content);
+  const arr = data?.translations;
+  if (!Array.isArray(arr)) throw new Error('翻译返回格式错误');
+  const byIndex = new Map(arr.filter((t) => typeof t?.index === 'number').map((t) => [t.index, t]));
+  return items.map((it, i) => {
+    const t = byIndex.get(i);
+    if (!t) return null;
+    return {
+      title: String(t.title || it.title).trim(),
+      summary: String(t.summary || it.summary || '').trim(),
+      why: String(t.why || it.why || '').trim(),
+      divergence: String(t.divergence || '').trim(),
+    };
+  });
 }
 
 // 完全无 LLM 时的降级选择：按时间倒序取前 5 条候选

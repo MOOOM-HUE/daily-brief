@@ -9,7 +9,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readJson, writeJson } from './lib/json.mjs';
 import { collectCandidates, itemKey, TOPICS } from './lib/feeds.mjs';
-import { selectTop5, fallbackSelect } from './lib/llm.mjs';
+import { selectTop5, fallbackSelect, isMostlyEnglish, translateItems } from './lib/llm.mjs';
 import { sendDigestNotification } from './lib/push.mjs';
 import { commitAndPush } from './lib/git.mjs';
 import { SAMPLE_CANDIDATES, SAMPLE_HISTORY } from './sample-data.mjs';
@@ -159,6 +159,26 @@ export async function runDigest({
       if (!it.image?.url) {
         const og = await fetchOgImage(it.source?.url);
         if (og) it.image = { url: og, alt: it.title };
+      }
+    }
+  }
+
+  // 5.5 AI 翻译：英文条目用 DeepSeek 译成中文（存进 translation，前端"AI 翻译"按钮显示）
+  if (!offline && apiKey) {
+    const enItems = selection.items.filter((it) => isMostlyEnglish(it.title + ' ' + (it.summary || '')));
+    if (enItems.length) {
+      try {
+        const trans = await translateItems({ apiKey, model: modelUsed, items: enItems });
+        let k = 0;
+        for (const it of selection.items) {
+          if (isMostlyEnglish(it.title + ' ' + (it.summary || ''))) {
+            if (trans[k]) it.translation = trans[k];
+            k++;
+          }
+        }
+        console.log(`[digest] 已 AI 翻译 ${enItems.length} 条英文条目`);
+      } catch (err) {
+        console.warn(`[digest] AI 翻译失败，跳过：${err.message}`);
       }
     }
   }

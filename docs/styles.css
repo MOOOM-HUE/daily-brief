@@ -237,6 +237,16 @@ body {
   font-weight: 600;
 }
 
+.translate-btn {
+  margin-top: 4px;
+  padding: 6px 12px;
+  font-size: 12px;
+  border-radius: 999px;
+  color: var(--accent-2);
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  background: rgba(34, 211, 238, 0.06);
+}
+
 /* ---------- 骨架屏 / 空态 ---------- */
 .skeleton {
   height: 260px;

@@ -1,7 +1,7 @@
 /* 每日简报 —— Service Worker（缓存 + Web Push） */
 'use strict';
 
-const CACHE = 'daily-brief-v3';
+const CACHE = 'daily-brief-v4';
 const SHELL = [
   './',
   'index.html',

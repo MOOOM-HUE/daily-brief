@@ -173,6 +173,7 @@
     const body = document.createElement('div');
     body.className = 'card-body';
 
+    const parts = {};
     const h3 = document.createElement('h3');
     h3.className = 'card-title';
     const a = document.createElement('a');
@@ -182,6 +183,7 @@
     a.textContent = it.title || '未命名条目';
     h3.appendChild(a);
     body.appendChild(h3);
+    parts.a = a;
 
     const meta = document.createElement('div');
     meta.className = 'card-meta';
@@ -193,6 +195,7 @@
       sum.className = 'card-summary';
       sum.textContent = it.summary;
       body.appendChild(sum);
+      parts.sum = sum;
     }
 
     if (it.why && it.why !== '——') {
@@ -204,6 +207,7 @@
       p.textContent = it.why;
       why.append(b, p);
       body.appendChild(why);
+      parts.why = p;
     }
 
     if (it.divergence) {
@@ -215,6 +219,7 @@
       p.textContent = it.divergence;
       dv.append(b, p);
       body.appendChild(dv);
+      parts.div = p;
     }
 
     if (it.source?.url) {
@@ -225,6 +230,31 @@
       link.rel = 'noopener noreferrer';
       link.textContent = '阅读原文 ↗';
       body.appendChild(link);
+    }
+
+    // AI 翻译：有英文译文的条目显示"AI 翻译"按钮，点击切换为中文
+    if (it.translation) {
+      const original = {
+        title: it.title || '',
+        summary: it.summary || '',
+        why: it.why || '',
+        div: it.divergence || '',
+      };
+      const t = it.translation;
+      const tbtn = document.createElement('button');
+      tbtn.type = 'button';
+      tbtn.className = 'btn btn-ghost translate-btn';
+      tbtn.textContent = 'AI 翻译';
+      let shown = false;
+      tbtn.addEventListener('click', () => {
+        shown = !shown;
+        if (parts.a) parts.a.textContent = shown ? (t.title || original.title) : original.title;
+        if (parts.sum) parts.sum.textContent = shown ? (t.summary || original.summary) : original.summary;
+        if (parts.why) parts.why.textContent = shown ? (t.why || original.why) : original.why;
+        if (parts.div) parts.div.textContent = shown ? (t.divergence || original.div) : original.div;
+        tbtn.textContent = shown ? '显示原文' : 'AI 翻译';
+      });
+      body.appendChild(tbtn);
     }
 
     article.appendChild(body);
