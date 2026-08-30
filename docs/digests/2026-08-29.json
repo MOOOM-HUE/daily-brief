@@ -1,100 +1,98 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T23:35:08.918Z",
+  "generatedAt": "2026-08-30T15:32:47.969Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "AI版权诉讼、智能体安全、模型供应冲突、苹果发布会、人形机器人销量，五大热点揭示AI产业深层博弈。",
+  "overview": "AI竞争白热化，OpenAI与马斯克冲突升级；苹果新CEO首秀在即；AI安全与就业市场新动态。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 103,
+    "afterDedup": 106,
     "feedErrors": 0,
     "selected": 5,
-    "durationMs": 15357
+    "durationMs": 17050
   },
   "items": [
     {
       "rank": 1,
-      "topic": "AI / Agent / 大模型",
-      "title": "索尼、华纳起诉Anthropic侵权，AI版权战升级",
-      "summary": "索尼音乐与华纳查普尔音乐起诉Anthropic，指控其“公然侵犯版权”，涉及数千起侵权案例。诉讼在加州北区法院提起，要求赔偿。这是音乐行业对AI公司的最新法律行动，凸显生成式AI训练数据的版权困境。",
-      "why": "此案可能为AI训练数据版权划定法律边界，影响所有大模型公司的数据获取策略。对关注AI行业与法律交叉的读者，这是理解AI商业模式风险的关键案例。",
-      "divergence": "部分报道强调诉讼范围广泛，另一些则聚焦于Anthropic的辩护策略，但核心事实一致。",
+      "topic": "大学 / 专业 / 就业",
+      "title": "OpenAI切断Cursor模型供应，与马斯克冲突升级",
+      "summary": "OpenAI宣布将于11月12日终止对Cursor的模型访问，原因是Cursor被SpaceX以600亿美元收购。此举是OpenAI与马斯克长期矛盾的延续，此前马斯克曾起诉OpenAI索赔1500亿美元。OpenAI表示，此举是为了防止其技术被竞争对手利用。",
+      "why": "这一事件标志着AI行业竞争格局的重大变化，OpenAI与马斯克的对立可能影响AI生态合作模式。对开发者而言，Cursor用户将面临模型切换的阵痛，也引发对AI工具依赖单一供应商风险的讨论。",
+      "divergence": "部分报道认为OpenAI此举是商业防御，另一些则强调这是马斯克与奥特曼个人恩怨的升级。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://fj.people.com.cn/n2/2026/0829/c181466-41681037.html"
+        "name": "Bing:OpenAI",
+        "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr8274607.shtml"
       },
       "image": {
         "url": "",
-        "alt": "从“会说”到“可信”，AI产业化正在跨越什么？"
+        "alt": "星宇股份舆情恶化对A股上市公司的警示"
       },
       "matchedKeywords": [
-        "AI",
-        "版权",
-        "Anthropic"
+        "OpenAI",
+        "Cursor",
+        "马斯克"
       ]
     },
     {
       "rank": 2,
       "topic": "科技产品与硬件",
-      "title": "How to save money on your phone bill with an MVNO",
-      "summary": "There are wireless providers offering plans at a fraction of the cost you'll find at major carriers like AT&T, T-Mobile and Verizon.",
-      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-      "divergence": "",
+      "title": "苹果新CEO首秀，秋季发布会前瞻",
+      "summary": "苹果宣布将于9月10日凌晨1点举行秋季发布会，主题为“亮新篇，来耀眼”。这是新任CEO约翰·特努斯接替库克后的首次大型硬件发布，预计将推出iPhone 18系列、折叠屏iPhone Ultra等多款新品。库克将于9月1日正式卸任CEO。",
+      "why": "苹果CEO更迭是科技行业标志性事件，新掌门人的产品策略将影响未来数年苹果生态走向。对消费者和开发者而言，折叠屏等新品的推出可能带来新的换机潮和开发机会。",
+      "divergence": "关于iPhone 18 Pro预售时间有报道称可能延迟至9月12日，但官方未确认。",
       "source": {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/"
+        "name": "Bing:苹果 新品",
+        "url": "https://www.msn.cn/zh-cn/news/other/%E8%8B%B9%E6%9E%9C%E5%91%98%E5%B7%A5%E5%96%9C%E6%8F%905%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%8C-%E6%96%B0ceo%E7%89%B9%E5%8A%AA%E6%96%AF%E7%AD%BE%E5%90%8D%E4%BA%AE%E7%9B%B8-%E5%BA%93%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6/ar-AA2bd1M4"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/how-to-save-money-on-your-phone-bill-with-an-mvno/l-intro-1787851564.jpg",
-        "alt": "How to save money on your phone bill with an MVNO"
+        "url": "",
+        "alt": "苹果员工喜提5周年纪念牌 新CEO特努斯签名亮相 库克卸任进入倒计时"
       },
-      "translation": {
-        "title": "如何通过MVNO节省手机话费",
-        "summary": "有些无线运营商提供的套餐价格仅为AT&T、T-Mobile和Verizon等主要运营商的一小部分。",
-        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-        "divergence": ""
-      }
+      "matchedKeywords": [
+        "苹果",
+        "新品发布会",
+        "CEO"
+      ]
     },
     {
       "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "The wildest video game budgets can't hold a candle to GTA 6",
-      "summary": "GTA 6 is thought to be the most expensive entertainment product ever made, eclipsing Hollywood movies and other video games by hundreds of millions of dollars.",
-      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-      "divergence": "",
+      "topic": "AI / Agent / 大模型",
+      "title": "AI编码智能体可在一小时内被攻破",
+      "summary": "研究人员发现，无需复杂黑客技术，即可在一小时内诱骗财富500强公司的AI编码智能体向攻击者控制的服务器发送请求。这暴露了AI智能体在安全方面的脆弱性，可能被用于数据泄露或供应链攻击。",
+      "why": "随着AI编码工具在企业中普及，其安全风险成为关键问题。该研究提醒开发者和企业，在依赖AI智能体时需加强安全防护，否则可能面临严重的数据泄露风险。",
+      "divergence": "无重大分歧。",
       "source": {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/"
+        "name": "Bing:AI Agent",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/the-wildest-video-game-budgets-cant-hold-a-candle-to-gta-6/l-intro-1787978932.jpg",
-        "alt": "The wildest video game budgets can't hold a candle to GTA 6"
+        "url": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+        "alt": "AI编码智能体可在一小时内被攻破"
       },
-      "translation": {
-        "title": "最疯狂的电子游戏预算也无法与《GTA 6》相提并论",
-        "summary": "《GTA 6》被认为是有史以来最昂贵的娱乐产品，其成本比好莱坞电影和其他电子游戏高出数亿美元。",
-        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-        "divergence": ""
-      }
+      "matchedKeywords": [
+        "AI编码",
+        "安全",
+        "智能体"
+      ]
     },
     {
       "rank": 4,
       "topic": "科技产品与硬件",
-      "title": "Why does your Kindle even have Bluetooth?",
-      "summary": "Why does your Kindle even have Bluetooth?",
+      "title": "Things to know before using your MacBook outside",
+      "summary": "Keep an eye on the temperature when using your MacBook outside.",
       "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "Engadget",
-        "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/"
+        "url": "https://www.engadget.com/2242777/using-macbook-outside-consider-these-things/"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/why-does-your-kindle-even-have-bluetooth/l-intro-1787161033.jpg",
-        "alt": "Why does your Kindle even have Bluetooth?"
+        "url": "https://www.engadget.com/img/gallery/things-to-know-before-using-your-macbook-outside/l-intro-1786646118.jpg",
+        "alt": "Things to know before using your MacBook outside"
       },
       "translation": {
-        "title": "你的Kindle为什么会有蓝牙？",
-        "summary": "你的Kindle为什么会有蓝牙？",
+        "title": "在户外使用MacBook前需要了解的事项",
+        "summary": "在户外使用MacBook时，请注意温度。",
         "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
         "divergence": ""
       }
@@ -102,21 +100,21 @@
     {
       "rank": 5,
       "topic": "科技产品与硬件",
-      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-      "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing […]",
+      "title": "Google Maps has changed Lake Ontario to Lake America for US users",
+      "summary": "It'll still show up as Lake Ontario for Maps users in Canada.",
       "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale"
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2247074/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/"
       },
       "image": {
-        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&amp;strip=all&amp;crop=0.51847977684798%2C0%2C98.963040446304%2C100&amp;w=1200",
-        "alt": "Vicariously hike the Appalachian in the gorgeous A Trail Tale"
+        "url": "https://www.engadget.com/img/gallery/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/l-intro-1788099757.jpg",
+        "alt": "Google Maps has changed Lake Ontario to Lake America for US users"
       },
       "translation": {
-        "title": "在绝美的《A Trail Tale》中虚拟徒步阿巴拉契亚小径",
-        "summary": "我曾是一名狂热的徒步爱好者，每年都会尝试几次背包旅行。我一直梦想着全程徒步阿巴拉契亚小径，但生活总是碍事。（事实证明，工作、妻子和孩子并不乐意你消失三个月。）但我一直渴望……",
+        "title": "谷歌地图已将安大略湖改为美国用户的“美国湖”",
+        "summary": "对于加拿大的地图用户，它仍将显示为安大略湖。",
         "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
         "divergence": ""
       }

@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr8274607.shtml",
+      "title": "OpenAI切断Cursor模型供应，与马斯克冲突升级",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e8%8b%b9%e6%9e%9c%e5%91%98%e5%b7%a5%e5%96%9c%e6%8f%905%e5%91%a8%e5%b9%b4%e7%ba%aa%e5%bf%b5%e7%89%8c-%e6%96%b0ceo%e7%89%b9%e5%8a%aa%e6%96%af%e7%ad%be%e5%90%8d%e4%ba%ae%e7%9b%b8-%e5%ba%93%e5%85%8b%e5%8d%b8%e4%bb%bb%e8%bf%9b%e5%85%a5%e5%80%92%e8%ae%a1%e6%97%b6/ar-aa2bd1m4",
+      "title": "苹果新CEO首秀，秋季发布会前瞻",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "title": "AI编码智能体可在一小时内被攻破",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2242777/using-macbook-outside-consider-these-things/",
+      "title": "Things to know before using your MacBook outside",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
+      "key": "u:engadget.com/2247074/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/",
+      "title": "Google Maps has changed Lake Ontario to Lake America for US users",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-29"
+    },
+    {
       "key": "u:fj.people.com.cn/n2/2026/0829/c181466-41681037.html",
       "title": "索尼、华纳起诉Anthropic侵权，AI版权战升级",
       "topic": "AI / Agent / 大模型",
@@ -181,5 +211,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-29T23:35:08.919Z"
+  "updatedAt": "2026-08-30T15:32:47.970Z"
 }
