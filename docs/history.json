@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1069585364_120099845",
+      "title": "超本科线100分读大专：高分考生逆向选择高职",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e8%8b%b9%e6%9e%9c%e7%a7%8b%e5%ad%a3%e6%96%b0%e5%93%81%e5%89%8d%e7%9e%bb-airpods-5%e6%88%969%e6%9c%88%e4%ba%ae%e7%9b%b8-oled-ipad-mini10%e6%9c%88%e7%99%bb%e5%9c%ba/ar-aa2bdrry",
+      "title": "苹果AirPods 5或9月亮相，OLED iPad mini 10月登场",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "u:engadget.com/2246402/improve-audio-quality-apple-carplay/",
+      "title": "How to improve your audio quality on Apple CarPlay",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "u:engadget.com/2242787/how-to-soft-hard-reset-iphone/",
+      "title": "How to soft and hard reset your iPhone",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-30"
+    },
+    {
+      "key": "u:engadget.com/2242786/iphone-unavailable-message-how-to-fix/",
+      "title": "Getting an 'iPhone Unavailable' message? Here's how to fix it",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-30"
+    },
+    {
       "key": "u:timesofisrael.com/top-tech-firms-call-for-defensive-measures-against-looming-wave-of-ai-driven-hacks/",
       "title": "AI实验室自曝模型被黑，呼吁加强防御",
       "topic": "AI / Agent / 大模型",
@@ -241,5 +271,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-30T15:35:26.055Z"
+  "updatedAt": "2026-08-30T23:35:08.167Z"
 }
