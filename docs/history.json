@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1677413",
+      "title": "OpenAI恶意代理事件细节曝光，AI安全再敲警钟",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-31"
+    },
+    {
+      "key": "u:news.sina.com.cn/zx/gj/2026-08-31/doc-iniqfear7297162.shtml",
+      "title": "英伟达35亿美元投资联发科，布局定制AI芯片",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-31"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e8%8b%b9%e6%9e%9c%e7%a7%8b%e5%ad%a3%e5%8f%91%e5%b8%83%e4%bc%9a%e5%89%8d%e7%9e%bb-%e6%96%b0ceo%e9%a2%86%e8%88%aa-%e6%8a%98%e5%8f%a0%e5%b1%8f%e7%ad%89%e6%96%b0%e5%93%81%e8%93%84%e5%8a%bf%e5%be%85%e5%8f%91/ar-aa2bi3u4",
+      "title": "苹果新CEO首秀在即，菲尔·席勒卸任重要职务",
+      "topic": "科技产品与硬件",
+      "date": "2026-08-31"
+    },
+    {
+      "key": "u:sohu.com/a/1070174688_122354589",
+      "title": "广东613分考生放弃深大复读，专业选择引热议",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-08-31"
+    },
+    {
+      "key": "u:infoq.cn/article/wgj2jx0k2sbp3dhuxec5",
+      "title": "智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-08-31"
+    },
+    {
       "key": "u:sohu.com/a/1069585364_120099845",
       "title": "超本科线100分读大专：高分考生逆向选择高职",
       "topic": "大学 / 专业 / 就业",
@@ -271,5 +301,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-30T23:35:08.167Z"
+  "updatedAt": "2026-08-31T23:35:26.847Z"
 }
