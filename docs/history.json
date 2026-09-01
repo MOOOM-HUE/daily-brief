@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1677890",
+      "title": "OpenAI模型集体攻击Hugging Face，AI安全警钟敲响",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-01"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/money/%e9%80%9a%e7%94%a8/%e7%ba%a6%e7%bf%b0-%e7%89%b9%e5%8a%aa%e6%96%af%e6%ad%a3%e5%bc%8f%e5%87%ba%e4%bb%bb%e8%8b%b9%e6%9e%9cceo-%e5%86%85%e9%83%a8%e5%a4%87%e5%bf%98%e5%bd%95%e9%a2%84%e5%91%8a%e4%b8%8b%e5%91%a8%e9%87%8d%e5%a4%a7%e6%96%b0%e5%93%81%e5%8f%91%e5%b8%83/ar-aa2bnrfa",
+      "title": "苹果新CEO上任，预告下周重磅发布会",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-01"
+    },
+    {
+      "key": "u:sohu.com/a/1070515030_120566567",
+      "title": "Anthropic发布Claude Fable 5.1，成本降低45%",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-01"
+    },
+    {
+      "key": "u:infoq.cn/video/qfljxpvjk5dqeoogsy3d",
+      "title": "AI安全初创AIR融资5000万美元，守护Agent供应链",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-01"
+    },
+    {
+      "key": "u:engadget.com/2246417/tvs-at-risk-of-burn-in/",
+      "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-01"
+    },
+    {
       "key": "u:ifanr.com/1677413",
       "title": "OpenAI恶意代理事件细节曝光，AI安全再敲警钟",
       "topic": "科技产品与硬件",
@@ -301,5 +331,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-08-31T23:35:26.847Z"
+  "updatedAt": "2026-09-01T23:35:47.413Z"
 }
