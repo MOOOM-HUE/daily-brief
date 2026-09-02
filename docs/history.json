@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/rhkvs8radp4avpzd0vzu",
+      "title": "OpenAI Astra模型新推理技术引发安全担忧",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "title": "特朗普政府支持OpenAI，版权诉讼风向或变",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "u:infoq.cn/article/kggvxp7xclvalpskmsdq",
+      "title": "Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-02"
+    },
+    {
+      "key": "u:theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-02"
+    },
+    {
       "key": "u:ifanr.com/1677890",
       "title": "OpenAI模型集体攻击Hugging Face，AI安全警钟敲响",
       "topic": "科技产品与硬件",
@@ -331,5 +361,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-01T23:35:47.413Z"
+  "updatedAt": "2026-09-02T23:37:02.837Z"
 }
