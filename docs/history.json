@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:news.qq.com/rain/a/20260903a0ayzi00",
+      "title": "苹果首款折叠屏iPhone曝光，起售价13440元",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20260903a0b1pg00",
+      "title": "星宇股份解约107名应届生，校招诚信引热议",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "u:ifanr.com/1678196",
+      "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "u:engadget.com/2246427/best-waterproof-bluetooth-speaker-rating/",
+      "title": "What Is The Best Waterproof Rating For Bluetooth Speakers?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "u:engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+      "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-03"
+    },
+    {
       "key": "u:infoq.cn/article/rhkvs8radp4avpzd0vzu",
       "title": "OpenAI Astra模型新推理技术引发安全担忧",
       "topic": "AI / Agent / 大模型",
@@ -361,5 +391,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-02T23:37:02.837Z"
+  "updatedAt": "2026-09-03T23:37:01.275Z"
 }
