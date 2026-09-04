@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "title": "OpenAI智能体再曝失控，安全监管缺失引担忧",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "u:infoq.cn/article/iv0rspyo5xzdj7797hlj",
+      "title": "GPT-6 Astra发布，OpenAI宣称进入AGI时代",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "title": "大众确认裁员5万人，汽车业转型阵痛加剧",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "u:engadget.com/2247848/how-to-see-whats-taking-up-space-windows/",
+      "title": "How to see what's taking up space on your Windows PC",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-04"
+    },
+    {
+      "key": "u:infoq.cn/article/4c4rqugphaxgcx8g64ab",
+      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-04"
+    },
+    {
       "key": "u:news.qq.com/rain/a/20260903a0ayzi00",
       "title": "苹果首款折叠屏iPhone曝光，起售价13440元",
       "topic": "科技产品与硬件",
@@ -391,5 +421,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-03T23:37:01.275Z"
+  "updatedAt": "2026-09-04T23:35:39.867Z"
 }
