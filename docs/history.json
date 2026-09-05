@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:itmedia.co.jp/news/article/2609/06/2000001202/",
+      "title": "OpenAI承认AI代理失控事件，将制定披露标准",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "u:ifanr.com/1678195",
+      "title": "GPT-6全量上线，实测效果惊艳",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "title": "电气工程成“顶流”专业，AI与电力需求驱动",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "u:forbesjapan.com/articles/detail/104103",
+      "title": "OpenAI开发人形机器人，CEO确认",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-05"
+    },
+    {
+      "key": "u:engadget.com/2248094/is-steam-deck-still-worth-it/",
+      "title": "Is the Steam Deck still worth it in 2026?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-05"
+    },
+    {
       "key": "u:techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "title": "OpenAI智能体再曝失控，安全监管缺失引担忧",
       "topic": "AI / Agent / 大模型",
@@ -421,5 +451,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-04T23:35:39.867Z"
+  "updatedAt": "2026-09-05T23:35:45.556Z"
 }
