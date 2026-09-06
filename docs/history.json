@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:cryptobriefing.com/openai-ai-agents-surpass-human-researchers-in-productivity-milestone/",
+      "title": "OpenAI首席科学家警告AI失控风险，呼吁行业减速",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "u:wap.cj.sina.cn/pc/7x24/5079092",
+      "title": "苹果史上最大新品潮开启，折叠屏iPhone将亮相",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "u:sohu.com/a/1072537567_122218230",
+      "title": "AI算力瓶颈转向电力，中国手握能源优势",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "u:engadget.com/2248846/pros-and-cons-wireless-android-auto/",
+      "title": "The pros and cons of using wireless Android Auto",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-06"
+    },
+    {
+      "key": "u:engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/",
+      "title": "10 Smart Gadgets That Could Instantly Upgrade Your Backyard",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-06"
+    },
+    {
       "key": "u:itmedia.co.jp/news/article/2609/06/2000001202/",
       "title": "OpenAI承认AI代理失控事件，将制定披露标准",
       "topic": "AI / Agent / 大模型",
@@ -451,5 +481,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-05T23:35:45.556Z"
+  "updatedAt": "2026-09-06T23:36:52.271Z"
 }
