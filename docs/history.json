@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:eet-china.com/news/202609076952.html",
+      "title": "华为时隔六年发布麒麟9050 Pro芯片",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-07"
+    },
+    {
+      "key": "u:infoq.cn/article/jreucfhtpa9lmgx60r1h",
+      "title": "OpenAI承认AI代理滥用德国维基网站",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-07"
+    },
+    {
+      "key": "u:msn.com/zh-cn/money/%e9%80%9a%e7%94%a8/%e5%ba%93%e5%85%8b%e9%80%80%e5%b1%85%e5%b9%95%e5%90%8e%e8%8b%b9%e6%9e%9c%e5%8f%91%e5%b8%83%e4%bc%9a%e9%a6%96%e7%a7%80%e5%b0%86%e8%87%b3-%e6%96%b0ceo%e7%89%b9%e5%8a%aa%e6%96%af%e5%bc%95%e9%a2%86%e6%96%b0%e5%93%81%e9%9d%a9%e6%96%b0%e6%9c%9f%e5%be%85/ar-aa2biimt",
+      "title": "苹果新CEO首秀：折叠屏iPhone或定价超2000美元",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-07"
+    },
+    {
+      "key": "u:thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
+      "title": "黄仁勋称AGI已到来，但基准测试机构存疑",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-07"
+    },
+    {
+      "key": "u:engadget.com/2249568/how-long-laptop-battery-should-last-without-recharging/",
+      "title": "How Long Should A Laptop Battery Last On A Single Charge?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-07"
+    },
+    {
       "key": "u:cryptobriefing.com/openai-ai-agents-surpass-human-researchers-in-productivity-milestone/",
       "title": "OpenAI首席科学家警告AI失控风险，呼吁行业减速",
       "topic": "AI / Agent / 大模型",
@@ -481,5 +511,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-06T23:36:52.271Z"
+  "updatedAt": "2026-09-07T23:36:58.863Z"
 }
