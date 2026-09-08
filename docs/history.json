@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/%e4%bb%8e%e5%ba%95%e5%b1%82%e7%ae%97%e5%8a%9b%e5%88%b0%e4%b8%8a%e5%b1%82%e5%ba%94%e7%94%a8-%e4%bb%8e%e6%a8%a1%e5%9e%8b%e8%83%bd%e5%8a%9b%e5%88%b0%e6%99%ba%e8%83%bd%e4%bd%93%e5%b7%a5%e7%a8%8b-%e7%99%be%e5%ba%a6%e6%99%ba%e8%83%bd%e4%ba%91%e4%bb%a5%e5%85%a8%e6%a0%88ai%e5%ba%95%e5%ba%a7%e6%b7%b1%e8%80%95%e9%87%91%e8%9e%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%b8%82%e5%9c%ba/ar-aa2bpufh",
+      "title": "Meta发布个人AI代理Muse，隐私与信任成焦点",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-08"
+    },
+    {
+      "key": "u:engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
+      "title": "OpenAI宣称攻克纳维-斯托克斯难题，遭质疑",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-08"
+    },
+    {
+      "key": "u:engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
+      "title": "苹果秋季发布会明日举行，折叠屏iPhone或涨价",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-08"
+    },
+    {
+      "key": "u:engadget.com/2251193/how-to-change-customize-apple-carplay-display/",
+      "title": "How to change and customize your Apple CarPlay display",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-08"
+    },
+    {
+      "key": "u:engadget.com/2251124/benefits-restarting-pc-more-often/",
+      "title": "Is there any benefit to restarting your PC regularly?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-08"
+    },
+    {
       "key": "u:eet-china.com/news/202609076952.html",
       "title": "华为时隔六年发布麒麟9050 Pro芯片",
       "topic": "科技产品与硬件",
@@ -511,5 +541,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-07T23:36:58.863Z"
+  "updatedAt": "2026-09-08T23:37:27.354Z"
 }
