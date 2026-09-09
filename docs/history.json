@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1679435",
+      "title": "苹果发布首款折叠屏iPhone Duo，起售价1999美元",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-09"
+    },
+    {
+      "key": "u:ifanr.com/1679218",
+      "title": "OpenAI宣称解决世纪数学难题，学界质疑",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-09"
+    },
+    {
+      "key": "u:infoq.cn/article/zebw8yc4qtzrbdjxagcc",
+      "title": "Anthropic研究员辞职警告：AI或灭绝人类",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-09"
+    },
+    {
+      "key": "u:infoq.cn/article/txjbzyquebtvesshrrfh",
+      "title": "Meta发布AI代理Muse，进军Agent市场",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-09"
+    },
+    {
+      "key": "u:infoq.cn/video/52550fxfrmazhmqwrsc5",
+      "title": "从 Harness 到 Loop 的持续进化",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-09"
+    },
+    {
       "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/%e4%bb%8e%e5%ba%95%e5%b1%82%e7%ae%97%e5%8a%9b%e5%88%b0%e4%b8%8a%e5%b1%82%e5%ba%94%e7%94%a8-%e4%bb%8e%e6%a8%a1%e5%9e%8b%e8%83%bd%e5%8a%9b%e5%88%b0%e6%99%ba%e8%83%bd%e4%bd%93%e5%b7%a5%e7%a8%8b-%e7%99%be%e5%ba%a6%e6%99%ba%e8%83%bd%e4%ba%91%e4%bb%a5%e5%85%a8%e6%a0%88ai%e5%ba%95%e5%ba%a7%e6%b7%b1%e8%80%95%e9%87%91%e8%9e%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%b8%82%e5%9c%ba/ar-aa2bpufh",
       "title": "Meta发布个人AI代理Muse，隐私与信任成焦点",
       "topic": "AI / Agent / 大模型",
@@ -541,5 +571,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-08T23:37:27.354Z"
+  "updatedAt": "2026-09-09T23:38:14.194Z"
 }
