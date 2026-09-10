@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/fki7zch6mffhunb72eyz",
+      "title": "OpenAI因Astra需求暂停Pro订阅",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-10"
+    },
+    {
+      "key": "u:ifanr.com/1679531",
+      "title": "苹果发布2nm A20 Pro与首款折叠屏iPhone Duo",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-10"
+    },
+    {
+      "key": "u:engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
+      "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-10"
+    },
+    {
+      "key": "u:engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+      "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-10"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-10"
+    },
+    {
       "key": "u:ifanr.com/1679435",
       "title": "苹果发布首款折叠屏iPhone Duo，起售价1999美元",
       "topic": "科技产品与硬件",
@@ -571,5 +601,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-09T23:38:14.194Z"
+  "updatedAt": "2026-09-10T23:36:39.911Z"
 }
