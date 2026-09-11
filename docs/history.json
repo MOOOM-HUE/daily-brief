@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/fa80wgnmowcrrxssiawx",
+      "title": "OpenAI智能体被曝攻击RubyGems，早于Hugging Face事件",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-11"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-11"
+    },
+    {
+      "key": "u:engadget.com/2256562/moss-developer-polyarc-has-closed/",
+      "title": "Moss developer Polyarc has closed",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-11"
+    },
+    {
+      "key": "u:infoq.cn/article/rlxyapujvr0fffbqk3iz",
+      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-11"
+    },
+    {
+      "key": "u:infoq.cn/article/qprcudpgic5r8ws8r1gm",
+      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-11"
+    },
+    {
       "key": "u:infoq.cn/article/fki7zch6mffhunb72eyz",
       "title": "OpenAI因Astra需求暂停Pro订阅",
       "topic": "AI / Agent / 大模型",
@@ -601,5 +631,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-10T23:36:39.911Z"
+  "updatedAt": "2026-09-11T23:36:56.739Z"
 }
