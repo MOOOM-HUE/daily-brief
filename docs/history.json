@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1075271972_120638611",
+      "title": "Altman称OpenAI 2026年不上市",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-12"
+    },
+    {
+      "key": "u:itbear.com.cn/html/2026-09/1557037.html",
+      "title": "Anthropic CEO呼吁给AI开发踩刹车",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-12"
+    },
+    {
+      "key": "u:ifanr.com/1679530",
+      "title": "苹果折叠屏iPhone Duo预售火爆",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-12"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20260912a08zax00",
+      "title": "32名硕士入职一月被调去拧螺丝",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-12"
+    },
+    {
+      "key": "u:engadget.com/2252809/benefits-restarting-gaming-handheld-more-often/",
+      "title": "Is there any benefit to restarting your gaming handheld regularly?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-12"
+    },
+    {
       "key": "u:infoq.cn/article/fa80wgnmowcrrxssiawx",
       "title": "OpenAI智能体被曝攻击RubyGems，早于Hugging Face事件",
       "topic": "AI / Agent / 大模型",
@@ -631,5 +661,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-11T23:36:56.739Z"
+  "updatedAt": "2026-09-12T23:36:24.347Z"
 }
