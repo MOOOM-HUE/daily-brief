@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:tech.ifeng.com/c/8woqyqf9cwg",
+      "title": "OpenAI宣布今年不IPO，Altman称时机不宜",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-13"
+    },
+    {
+      "key": "u:m.voc.com.cn/xhn/news/202609/33743680.html",
+      "title": "四大行秋招缩招7000人，科技岗成新标配",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-13"
+    },
+    {
+      "key": "u:news.ifeng.com/c/8woraov3wiy",
+      "title": "考研改考浪潮：全国统考科目扩至25门，多所头部高校改考408",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-13"
+    },
+    {
+      "key": "u:finance.sina.com.cn/jjxw/2026-09-13/doc-inirszcr0142581.shtml",
+      "title": "游戏业秋招AI岗位翻倍，但\"会用AI\"已不够",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-13"
+    },
+    {
+      "key": "u:engadget.com/2252861/android-auto-feature-easier-long-drive/",
+      "title": "Make long drives easier with this Android Auto feature",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-13"
+    },
+    {
       "key": "u:sohu.com/a/1075271972_120638611",
       "title": "Altman称OpenAI 2026年不上市",
       "topic": "大学 / 专业 / 就业",
@@ -661,5 +691,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-12T23:36:24.347Z"
+  "updatedAt": "2026-09-13T23:37:43.920Z"
 }
