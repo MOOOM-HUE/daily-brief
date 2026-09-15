@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/ckzbmaxb1lluu4gezuhy",
+      "title": "AI减速之争升级：黄仁勋唱反调，芯片股重挫",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-14"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20260914a0doq600",
+      "title": "国内大模型「压力测试周」：DeepSeek调价、智谱融资",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-14"
+    },
+    {
+      "key": "u:infoq.cn/article/i6k1motq9fltk7ep1hze",
+      "title": "在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-14"
+    },
+    {
+      "key": "u:engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
+      "title": "How to use Meta Display glasses while driving with the Audio Only feature",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-14"
+    },
+    {
+      "key": "u:theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-14"
+    },
+    {
       "key": "u:tech.ifeng.com/c/8woqyqf9cwg",
       "title": "OpenAI宣布今年不IPO，Altman称时机不宜",
       "topic": "大学 / 专业 / 就业",
@@ -691,5 +721,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-13T23:37:43.920Z"
+  "updatedAt": "2026-09-15T01:42:52.345Z"
 }
