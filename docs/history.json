@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/news/other/ai%e5%9c%86%e4%ba%86%e6%88%91%e7%9a%84%e5%af%bc%e6%bc%94%e6%a2%a6/ar-aa2ce94l",
+      "title": "OpenAI、Anthropic、谷歌酝酿AI安全标准自律组织",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-15"
+    },
+    {
+      "key": "u:sohu.com/a/1076409723_115949",
+      "title": "联发科发布天玑9600 Pro，台积电2nm+双NPU",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-15"
+    },
+    {
+      "key": "u:sohu.com/a/1076339833_122034146",
+      "title": "2027届秋招：AI能力考察成标配，1270万人竞争",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-15"
+    },
+    {
+      "key": "u:infoq.cn/article/j5ijdjq6bierzhzf8fxo",
+      "title": "Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-15"
+    },
+    {
+      "key": "u:infoq.cn/article/foezsr8xfg0stq1wgbti",
+      "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-15"
+    },
+    {
       "key": "u:infoq.cn/article/ckzbmaxb1lluu4gezuhy",
       "title": "AI减速之争升级：黄仁勋唱反调，芯片股重挫",
       "topic": "AI / Agent / 大模型",
@@ -721,5 +751,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-15T01:42:52.345Z"
+  "updatedAt": "2026-09-16T01:31:35.739Z"
 }
