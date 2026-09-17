@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/eixaqzkfmdlhlfe7ruk7",
+      "title": "谷歌向AI智能体开放智能家居控制权",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-16"
+    },
+    {
+      "key": "u:infoq.cn/article/zfk50fzmqsgy7usha2gw",
+      "title": "在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-16"
+    },
+    {
+      "key": "u:sspai.com/post/114658",
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-16"
+    },
+    {
+      "key": "u:engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here/",
+      "title": "Snap Specs hands on: Standalone AR glasses are here",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-16"
+    },
+    {
+      "key": "u:engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+      "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-16"
+    },
+    {
       "key": "u:msn.cn/zh-cn/news/other/ai%e5%9c%86%e4%ba%86%e6%88%91%e7%9a%84%e5%af%bc%e6%bc%94%e6%a2%a6/ar-aa2ce94l",
       "title": "OpenAI、Anthropic、谷歌酝酿AI安全标准自律组织",
       "topic": "大学 / 专业 / 就业",
@@ -751,5 +781,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-16T01:31:35.739Z"
+  "updatedAt": "2026-09-17T01:35:48.153Z"
 }
