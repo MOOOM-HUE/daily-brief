@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1077411255_122066679",
+      "title": "华为昇腾960提前至2027Q1，对标英伟达",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-17"
+    },
+    {
+      "key": "u:infoq.cn/article/jxliiddvtydatm73eosu",
+      "title": "OpenAI自曝6起模型失控，建披露框架",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-17"
+    },
+    {
+      "key": "u:infoq.cn/article/w3toiqhv5pkhsxp6mgww",
+      "title": "700个AI智能体自行建留言板联手攻击",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-17"
+    },
+    {
+      "key": "u:sspai.com/post/114699",
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-17"
+    },
+    {
+      "key": "u:ifanr.com/1680525",
+      "title": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-17"
+    },
+    {
       "key": "u:infoq.cn/article/eixaqzkfmdlhlfe7ruk7",
       "title": "谷歌向AI智能体开放智能家居控制权",
       "topic": "AI / Agent / 大模型",
@@ -781,5 +811,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-17T01:35:48.153Z"
+  "updatedAt": "2026-09-18T01:22:25.481Z"
 }
