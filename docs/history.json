@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/eluarohetbhwjjyzromg",
+      "title": "三人用Claude 72小时攻破OpenAI代码库",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-18"
+    },
+    {
+      "key": "u:sohu.com/a/1077906752_121124210",
+      "title": "华为Ascend 960DT提前至2027年Q1发布",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-18"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-18"
+    },
+    {
+      "key": "u:ifanr.com/1680956",
+      "title": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-18"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-18"
+    },
+    {
       "key": "u:sohu.com/a/1077411255_122066679",
       "title": "华为昇腾960提前至2027Q1，对标英伟达",
       "topic": "科技产品与硬件",
@@ -811,5 +841,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-18T01:22:25.481Z"
+  "updatedAt": "2026-09-19T01:23:37.608Z"
 }
