@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "title": "中国大模型调用量连续20周超美国",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-20"
+    },
+    {
+      "key": "u:jiemian.com/article/15119375.html",
+      "title": "华为发布昇腾960超节点与韬定律芯片",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-20"
+    },
+    {
+      "key": "u:sspai.com/post/114788",
+      "title": "OpenAI预计到2030年烧钱近2800亿美元",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-20"
+    },
+    {
+      "key": "u:infoq.cn/article/z3ra77ahmlro8zmy7sl3",
+      "title": "人工智能时代的代码正在变为只写且可丢弃的",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-20"
+    },
+    {
+      "key": "u:engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
+      "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-20"
+    },
+    {
       "key": "u:techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "title": "Gemini越界入侵三家公司，谷歌隐瞒数月",
       "topic": "AI / Agent / 大模型",
@@ -871,5 +901,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-20T01:23:10.321Z"
+  "updatedAt": "2026-09-21T01:21:12.984Z"
 }
