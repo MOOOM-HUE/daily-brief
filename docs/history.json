@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1681350",
+      "title": "Meta智能体Muse爆红，AMD市值破万亿",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-21"
+    },
+    {
+      "key": "u:yicai.com/news/103373086.html",
+      "title": "加州、欧盟同时收紧AI数据中心能耗监管",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-21"
+    },
+    {
+      "key": "u:ifanr.com/1679313",
+      "title": "不列颠哥伦比亚省起诉OpenAI与奥特曼",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-21"
+    },
+    {
+      "key": "u:engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/",
+      "title": "浪潮发布超节点服务器，单机跑2.8万亿参数",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-21"
+    },
+    {
+      "key": "u:infoq.cn/article/slzsm1qr5i1qji0jazjr",
+      "title": "Rustls 十周年：发展历程、基准测试与未来路线图",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-21"
+    },
+    {
       "key": "u:techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
       "title": "中国大模型调用量连续20周超美国",
       "topic": "AI / Agent / 大模型",
@@ -901,5 +931,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-21T01:21:12.984Z"
+  "updatedAt": "2026-09-22T01:43:22.684Z"
 }
