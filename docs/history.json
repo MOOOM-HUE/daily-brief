@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1079578009_122492786",
+      "title": "OpenAI与Anthropic同日发新模型，价格战升级",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-22"
+    },
+    {
+      "key": "u:sohu.com/a/1079639229_121276387",
+      "title": "阿里平头哥发布最强国产AI芯片真武V900",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-22"
+    },
+    {
+      "key": "u:infoq.cn/article/3tjh8fzzinb50qzz9tjx",
+      "title": "高通发布两款2纳米旗舰芯片，主打端侧Agent",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-22"
+    },
+    {
+      "key": "u:infoq.cn/article/izptfj6mjkyfd03qfhk9",
+      "title": "Cloudflare 测试通过缓存转码来减少存储需求",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-22"
+    },
+    {
+      "key": "u:theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-22"
+    },
+    {
       "key": "u:ifanr.com/1681350",
       "title": "Meta智能体Muse爆红，AMD市值破万亿",
       "topic": "科技产品与硬件",
@@ -931,5 +961,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-22T01:43:22.684Z"
+  "updatedAt": "2026-09-23T01:38:24.361Z"
 }
