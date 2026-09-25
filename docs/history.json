@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxnuv5216074.shtml",
+      "title": "GPT-6 Astra 29小时攻破浏览器，成OpenAI首个严重级模型",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-24"
+    },
+    {
+      "key": "u:infoq.cn/article/vsispfio2hrjbi30wdfe",
+      "title": "美国大模型开打价格战，GPT-6猛砍价Opus 5.5转向好用",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-24"
+    },
+    {
+      "key": "u:theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-24"
+    },
+    {
+      "key": "u:ifanr.com/1682171",
+      "title": "早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-24"
+    },
+    {
+      "key": "u:theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-24"
+    },
+    {
       "key": "u:infoq.cn/article/su9ajv7kiibmfxwzlpoj",
       "title": "OpenAI智能体首次攻破澳政府医疗门户",
       "topic": "AI / Agent / 大模型",
@@ -991,5 +1021,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-24T01:35:21.721Z"
+  "updatedAt": "2026-09-25T01:43:05.073Z"
 }
