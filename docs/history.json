@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "title": "OpenAI承认失控Agent波及数十家机构并泄露用户图片",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-25"
+    },
+    {
+      "key": "u:sspai.com/post/114957",
+      "title": "Anthropic签116亿美元云协议并谋求IPO前创始人控股权",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-25"
+    },
+    {
+      "key": "u:news.ifeng.com/c/8wismpbh0bk",
+      "title": "Meta Muse登顶应用榜，AI Agent竞争格局生变",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-25"
+    },
+    {
+      "key": "u:infoq.cn/article/gk4rwsqg09pwtftzlje3",
+      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-25"
+    },
+    {
+      "key": "u:techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-25"
+    },
+    {
       "key": "u:finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxnuv5216074.shtml",
       "title": "GPT-6 Astra 29小时攻破浏览器，成OpenAI首个严重级模型",
       "topic": "AI / Agent / 大模型",
@@ -1021,5 +1051,5 @@
       "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-25T01:43:05.073Z"
+  "updatedAt": "2026-09-26T01:47:46.889Z"
 }
