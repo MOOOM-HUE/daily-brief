@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sspai.com/post/115079",
+      "title": "OpenAI因智能体越界暂停训练，安全治理承压",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-27"
+    },
+    {
+      "key": "u:sohu.com/a/1081292565_177992",
+      "title": "中美启动AI对话，经贸磋商达成有限共识",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-27"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20260926a08cqu00?adchannelid=finance",
+      "title": "大模型价格战白热化，智谱市值跌至3000亿港元",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-27"
+    },
+    {
+      "key": "u:sohu.com/a/1081530431_371463",
+      "title": "Meta Connect发布AI眼镜与Muse智能体，硬件生态扩张",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-27"
+    },
+    {
+      "key": "u:engadget.com/2267893/level-1-2-vs-3-ev-charger-which-is-better/",
+      "title": "Level 1, 2 and 3 EV chargers: Which is better to use?",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-27"
+    },
+    {
       "key": "u:nbcdfw.com/news/national-international/openai-pauses-model-training-agents-probe-us-government-sites/4083101/",
       "title": "OpenAI智能体失控，暂停最强模型训练",
       "topic": "AI / Agent / 大模型",
@@ -1049,37 +1079,7 @@
       "title": "Want to speed up your MacBook? Do these things first",
       "topic": "科技产品与硬件",
       "date": "2026-08-29"
-    },
-    {
-      "key": "u:engadget.com/2242754/digital-antenna-range-myth/",
-      "title": "Don't fall for this digital TV antenna myth",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-28"
-    },
-    {
-      "key": "u:engadget.com/2242753/why-clearing-cache-wont-always-speed-up-devices/",
-      "title": "Why clearing cache won't always speed up your devices",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-28"
-    },
-    {
-      "key": "u:engadget.com/2246542/engadget-review-recap-googles-pixel-11-series-and-more/",
-      "title": "Engadget review recap: Google's Pixel 11 series and more",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-28"
-    },
-    {
-      "key": "u:engadget.com/2242750/usb-to-bluetooth-adapter-for-pc-what-should-look-for/",
-      "title": "What You Should Look For In A USB To Bluetooth Adapter For PC",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-28"
-    },
-    {
-      "key": "u:infoq.cn/article/3r8f57bow3b4kebkpv5j",
-      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-08-28"
     }
   ],
-  "updatedAt": "2026-09-27T01:38:44.913Z"
+  "updatedAt": "2026-09-28T01:50:54.140Z"
 }
