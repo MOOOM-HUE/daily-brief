@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/autos/%e9%80%9a%e7%94%a8/%e5%b0%8f%e9%b9%8f%e9%9b%86%e5%9b%a2%e4%b8%8e%e6%96%91%e9%a9%ac%e6%99%ba%e8%83%bd%e8%81%94%e5%90%88%e6%89%93%e9%80%a0%e8%bd%a6%e8%a7%84%e7%ba%a7ai%e5%ba%a7%e8%88%b1%e7%ab%af%e4%be%a7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%96%b9%e6%a1%88/ar-aa2dexff",
+      "title": "OpenAI DevDay：Dots智能体与办公套件齐发",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-29"
+    },
+    {
+      "key": "u:infoq.cn/article/kaakqs6x5kislha5uvvz",
+      "title": "AMD 82亿美元全股票收购World Labs",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-29"
+    },
+    {
+      "key": "u:infoq.cn/article/obqpdcb1xurrjmrlrjz1",
+      "title": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-29"
+    },
+    {
+      "key": "u:infoq.cn/article/dbowzu6l6tr8nahcqrc8",
+      "title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-29"
+    },
+    {
+      "key": "u:ifanr.com/1682644",
+      "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-29"
+    },
+    {
       "key": "u:chinaz.com/ainews/31391.shtml",
       "title": "OpenAI因安全对齐不达标叫停Astra 6.1",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法",
       "topic": "AI / Agent / 大模型",
       "date": "2026-08-31"
-    },
-    {
-      "key": "u:sohu.com/a/1069585364_120099845",
-      "title": "超本科线100分读大专：高分考生逆向选择高职",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-08-30"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/%e8%8b%b9%e6%9e%9c%e7%a7%8b%e5%ad%a3%e6%96%b0%e5%93%81%e5%89%8d%e7%9e%bb-airpods-5%e6%88%969%e6%9c%88%e4%ba%ae%e7%9b%b8-oled-ipad-mini10%e6%9c%88%e7%99%bb%e5%9c%ba/ar-aa2bdrry",
-      "title": "苹果AirPods 5或9月亮相，OLED iPad mini 10月登场",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-30"
-    },
-    {
-      "key": "u:engadget.com/2246402/improve-audio-quality-apple-carplay/",
-      "title": "How to improve your audio quality on Apple CarPlay",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-30"
-    },
-    {
-      "key": "u:engadget.com/2242787/how-to-soft-hard-reset-iphone/",
-      "title": "How to soft and hard reset your iPhone",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-30"
-    },
-    {
-      "key": "u:engadget.com/2242786/iphone-unavailable-message-how-to-fix/",
-      "title": "Getting an 'iPhone Unavailable' message? Here's how to fix it",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-30"
     }
   ],
-  "updatedAt": "2026-09-29T02:39:18.379Z"
+  "updatedAt": "2026-09-30T02:16:48.652Z"
 }
