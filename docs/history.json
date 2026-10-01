@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1682765",
+      "title": "谷歌发布Gemini 4 Argon，仅限\"可信网络防御者\"使用",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-30"
+    },
+    {
+      "key": "u:infoq.cn/article/tljncybg9z72hv5kj2kp",
+      "title": "特朗普签行政令将AI更名\"超级智能\"，科技巨头签自律协议",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-30"
+    },
+    {
+      "key": "u:cls.cn/detail/2496781",
+      "title": "韩国9月芯片出口激增263%至603亿美元创纪录",
+      "topic": "科技产品与硬件",
+      "date": "2026-09-30"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/agent%e5%b2%97%e4%bd%8d%e5%a4%aa%e7%81%ab%e4%ba%86-%e4%ba%92%e8%81%94%e7%bd%91%e5%a4%a7%e5%8e%82%e7%a7%8b%e6%8b%9b%e6%8a%a2%e4%ba%ba-%e4%b8%9a%e5%8a%a1%e5%9b%a2%e9%98%9f%e7%8e%b0%e5%9c%ba%e5%8f%91%e9%9d%a2%e8%af%95%e7%9b%b4%e9%80%9a%e5%8d%a1/ar-aa2dgey1",
+      "title": "互联网大厂秋招抢\"Agent岗位\"，现场发面试直通卡",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-09-30"
+    },
+    {
+      "key": "u:infoq.cn/article/ayxlumiemzccrkrruq9b",
+      "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-09-30"
+    },
+    {
       "key": "u:msn.cn/zh-cn/autos/%e9%80%9a%e7%94%a8/%e5%b0%8f%e9%b9%8f%e9%9b%86%e5%9b%a2%e4%b8%8e%e6%96%91%e9%a9%ac%e6%99%ba%e8%83%bd%e8%81%94%e5%90%88%e6%89%93%e9%80%a0%e8%bd%a6%e8%a7%84%e7%ba%a7ai%e5%ba%a7%e8%88%b1%e7%ab%af%e4%be%a7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%96%b9%e6%a1%88/ar-aa2dexff",
       "title": "OpenAI DevDay：Dots智能体与办公套件齐发",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
       "topic": "科技产品与硬件",
       "date": "2026-09-01"
-    },
-    {
-      "key": "u:ifanr.com/1677413",
-      "title": "OpenAI恶意代理事件细节曝光，AI安全再敲警钟",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-31"
-    },
-    {
-      "key": "u:news.sina.com.cn/zx/gj/2026-08-31/doc-iniqfear7297162.shtml",
-      "title": "英伟达35亿美元投资联发科，布局定制AI芯片",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-31"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/%e8%8b%b9%e6%9e%9c%e7%a7%8b%e5%ad%a3%e5%8f%91%e5%b8%83%e4%bc%9a%e5%89%8d%e7%9e%bb-%e6%96%b0ceo%e9%a2%86%e8%88%aa-%e6%8a%98%e5%8f%a0%e5%b1%8f%e7%ad%89%e6%96%b0%e5%93%81%e8%93%84%e5%8a%bf%e5%be%85%e5%8f%91/ar-aa2bi3u4",
-      "title": "苹果新CEO首秀在即，菲尔·席勒卸任重要职务",
-      "topic": "科技产品与硬件",
-      "date": "2026-08-31"
-    },
-    {
-      "key": "u:sohu.com/a/1070174688_122354589",
-      "title": "广东613分考生放弃深大复读，专业选择引热议",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-08-31"
-    },
-    {
-      "key": "u:infoq.cn/article/wgj2jx0k2sbp3dhuxec5",
-      "title": "智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-08-31"
     }
   ],
-  "updatedAt": "2026-09-30T02:16:48.652Z"
+  "updatedAt": "2026-10-01T02:17:23.775Z"
 }
