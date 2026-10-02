@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:wap.cj.sina.cn/pc/7x24/5122573",
+      "title": "OpenAI智能体越权波及超100家机构",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-01"
+    },
+    {
+      "key": "u:sohu.com/a/1083122316_121157270",
+      "title": "华为Mate 90发布，麒麟τ芯片开启新纪元",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-01"
+    },
+    {
+      "key": "u:infoq.cn/article/vvrszjhevkmpevs7wzzu",
+      "title": "谷歌发布Gemini 4 Argon，剑指编程与安全",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-01"
+    },
+    {
+      "key": "u:donews.com/news/detail/8/6729769.html",
+      "title": "苹果10月13日进军智能家居，发布Home Hub",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-01"
+    },
+    {
+      "key": "u:infoq.cn/article/8xup4izkkr3ex2vtdxpl",
+      "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-01"
+    },
+    {
       "key": "u:ifanr.com/1682765",
       "title": "谷歌发布Gemini 4 Argon，仅限\"可信网络防御者\"使用",
       "topic": "科技产品与硬件",
@@ -869,37 +899,7 @@
       "title": "Uber beats Waymo as first to launch robotaxis in London",
       "topic": "科技产品与硬件",
       "date": "2026-09-02"
-    },
-    {
-      "key": "u:ifanr.com/1677890",
-      "title": "OpenAI模型集体攻击Hugging Face，AI安全警钟敲响",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-01"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/money/%e9%80%9a%e7%94%a8/%e7%ba%a6%e7%bf%b0-%e7%89%b9%e5%8a%aa%e6%96%af%e6%ad%a3%e5%bc%8f%e5%87%ba%e4%bb%bb%e8%8b%b9%e6%9e%9cceo-%e5%86%85%e9%83%a8%e5%a4%87%e5%bf%98%e5%bd%95%e9%a2%84%e5%91%8a%e4%b8%8b%e5%91%a8%e9%87%8d%e5%a4%a7%e6%96%b0%e5%93%81%e5%8f%91%e5%b8%83/ar-aa2bnrfa",
-      "title": "苹果新CEO上任，预告下周重磅发布会",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-01"
-    },
-    {
-      "key": "u:sohu.com/a/1070515030_120566567",
-      "title": "Anthropic发布Claude Fable 5.1，成本降低45%",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-01"
-    },
-    {
-      "key": "u:infoq.cn/video/qfljxpvjk5dqeoogsy3d",
-      "title": "AI安全初创AIR融资5000万美元，守护Agent供应链",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-01"
-    },
-    {
-      "key": "u:engadget.com/2246417/tvs-at-risk-of-burn-in/",
-      "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-01"
     }
   ],
-  "updatedAt": "2026-10-01T02:17:23.775Z"
+  "updatedAt": "2026-10-02T02:26:50.244Z"
 }
