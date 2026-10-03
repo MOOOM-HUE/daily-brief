@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:news.qq.com/rain/a/20261002a08p6000?adchannelid=tech",
+      "title": "苹果收紧Mac磁盘权限，AI代理风险成导火索",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-02"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20261002a05sr400",
+      "title": "华为麒麟9050 Pro押注“逻辑折叠”绕开制程限制",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-02"
+    },
+    {
+      "key": "u:bihainews.com/bhn-bulletin/ckcj/742804.html",
+      "title": "美国9月非农仅增2.9万，就业市场明显降温",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-02"
+    },
+    {
+      "key": "u:infoq.cn/article/blb8rq6sd3zgqts0d4tp",
+      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-02"
+    },
+    {
+      "key": "u:engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/",
+      "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-02"
+    },
+    {
       "key": "u:wap.cj.sina.cn/pc/7x24/5122573",
       "title": "OpenAI智能体越权波及超100家机构",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
       "topic": "科技产品与硬件",
       "date": "2026-09-03"
-    },
-    {
-      "key": "u:infoq.cn/article/rhkvs8radp4avpzd0vzu",
-      "title": "OpenAI Astra模型新推理技术引发安全担忧",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-02"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "title": "特朗普政府支持OpenAI，版权诉讼风向或变",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-02"
-    },
-    {
-      "key": "u:infoq.cn/article/kggvxp7xclvalpskmsdq",
-      "title": "Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-02"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-02"
-    },
-    {
-      "key": "u:theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-02"
     }
   ],
-  "updatedAt": "2026-10-02T02:26:50.244Z"
+  "updatedAt": "2026-10-03T02:12:43.777Z"
 }
