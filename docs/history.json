@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:wap.cj.sina.cn/pc/7x24/5124933",
+      "title": "OpenAI安全负责人辞职：试错时代已结束",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-03"
+    },
+    {
+      "key": "u:sohu.com/a/1083762728_121119176",
+      "title": "加州就AI代理黑客事件传唤OpenAI",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-03"
+    },
+    {
+      "key": "u:eet-china.com/mp/a528751.html",
+      "title": "壁仞BR20X点亮：性能称超英伟达H200",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-03"
+    },
+    {
+      "key": "u:infoq.cn/article/m4mgbkf4rdv5aktwqvfh",
+      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-03"
+    },
+    {
+      "key": "u:engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
+      "title": "What are amplifiers for and how important are they to your sound system's quality?",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-03"
+    },
+    {
       "key": "u:news.qq.com/rain/a/20261002a08p6000?adchannelid=tech",
       "title": "苹果收紧Mac磁盘权限，AI代理风险成导火索",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-04"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20260903a0ayzi00",
-      "title": "苹果首款折叠屏iPhone曝光，起售价13440元",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-03"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20260903a0b1pg00",
-      "title": "星宇股份解约107名应届生，校招诚信引热议",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-03"
-    },
-    {
-      "key": "u:ifanr.com/1678196",
-      "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-03"
-    },
-    {
-      "key": "u:engadget.com/2246427/best-waterproof-bluetooth-speaker-rating/",
-      "title": "What Is The Best Waterproof Rating For Bluetooth Speakers?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-03"
-    },
-    {
-      "key": "u:engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
-      "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-03"
     }
   ],
-  "updatedAt": "2026-10-03T02:12:43.777Z"
+  "updatedAt": "2026-10-04T02:48:48.500Z"
 }
