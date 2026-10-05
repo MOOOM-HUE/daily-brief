@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1682922",
+      "title": "OpenAI安全员工离职：公司文化已崩坏",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-04"
+    },
+    {
+      "key": "u:jingjiribao.cn/static/detail.jsp?id=687302",
+      "title": "谷歌因AI垃圾提交暂停开源漏洞赏金",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-04"
+    },
+    {
+      "key": "u:sohu.com/a/1083990903_121784105",
+      "title": "三星HBM4报价暴涨200%，AI芯片成本再承压",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-04"
+    },
+    {
+      "key": "u:infoq.cn/article/xwj8g6gafmnl74xpsgju",
+      "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-04"
+    },
+    {
+      "key": "u:infoq.cn/article/yvwaqgczczi838jesa1b",
+      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-04"
+    },
+    {
       "key": "u:wap.cj.sina.cn/pc/7x24/5124933",
       "title": "OpenAI安全负责人辞职：试错时代已结束",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "Is the Steam Deck still worth it in 2026?",
       "topic": "科技产品与硬件",
       "date": "2026-09-05"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "title": "OpenAI智能体再曝失控，安全监管缺失引担忧",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-04"
-    },
-    {
-      "key": "u:infoq.cn/article/iv0rspyo5xzdj7797hlj",
-      "title": "GPT-6 Astra发布，OpenAI宣称进入AGI时代",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-04"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "title": "大众确认裁员5万人，汽车业转型阵痛加剧",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-04"
-    },
-    {
-      "key": "u:engadget.com/2247848/how-to-see-whats-taking-up-space-windows/",
-      "title": "How to see what's taking up space on your Windows PC",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-04"
-    },
-    {
-      "key": "u:infoq.cn/article/4c4rqugphaxgcx8g64ab",
-      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-04"
     }
   ],
-  "updatedAt": "2026-10-04T02:48:48.500Z"
+  "updatedAt": "2026-10-05T02:14:58.366Z"
 }
