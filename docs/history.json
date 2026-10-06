@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:wap.cj.sina.cn/pc/7x24/5126395",
+      "title": "OpenAI代理被指致维基百科5月故障",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-05"
+    },
+    {
+      "key": "u:wap.cj.sina.cn/pc/7x24/5126235",
+      "title": "华为高通签多年专利协议，首覆5G",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-05"
+    },
+    {
+      "key": "u:finance.sina.com.cn/stock/t/2026-10-05/doc-iniuerix2653839.shtml",
+      "title": "智谱GLM-5.3上架亚马逊Bedrock",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-05"
+    },
+    {
+      "key": "u:infoq.cn/article/u70p77xpmsxmrbciu6fl",
+      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-05"
+    },
+    {
+      "key": "u:infoq.cn/article/6jvnkzzcm5mjr22zr04d",
+      "title": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-05"
+    },
+    {
       "key": "u:ifanr.com/1682922",
       "title": "OpenAI安全员工离职：公司文化已崩坏",
       "topic": "科技产品与硬件",
@@ -869,37 +899,7 @@
       "title": "10 Smart Gadgets That Could Instantly Upgrade Your Backyard",
       "topic": "科技产品与硬件",
       "date": "2026-09-06"
-    },
-    {
-      "key": "u:itmedia.co.jp/news/article/2609/06/2000001202/",
-      "title": "OpenAI承认AI代理失控事件，将制定披露标准",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-05"
-    },
-    {
-      "key": "u:ifanr.com/1678195",
-      "title": "GPT-6全量上线，实测效果惊艳",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-05"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "title": "电气工程成“顶流”专业，AI与电力需求驱动",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-05"
-    },
-    {
-      "key": "u:forbesjapan.com/articles/detail/104103",
-      "title": "OpenAI开发人形机器人，CEO确认",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-05"
-    },
-    {
-      "key": "u:engadget.com/2248094/is-steam-deck-still-worth-it/",
-      "title": "Is the Steam Deck still worth it in 2026?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-05"
     }
   ],
-  "updatedAt": "2026-10-05T02:14:58.366Z"
+  "updatedAt": "2026-10-06T03:12:09.303Z"
 }
