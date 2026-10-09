@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1085420562_120094090",
+      "title": "OpenAI年化营收下修至500亿美元，科技股承压",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-08"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "title": "谷歌把Gemini升级为跨应用工作代理",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-08"
+    },
+    {
+      "key": "u:sspai.com/post/115532",
+      "title": "Anthropic开放开源项目免费安全扫描",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-08"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "title": "被解雇OpenAI安全研究员发公开信警告寒蝉效应",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-08"
+    },
+    {
+      "key": "u:infoq.cn/article/832rv3o8ireedjpo9h4v",
+      "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-08"
+    },
+    {
       "key": "u:wap.cj.sina.cn/pc/7x24/5131124",
       "title": "微软英伟达发布RTX Spark AI PC，2599美元起",
       "topic": "科技产品与硬件",
@@ -869,37 +899,7 @@
       "title": "从 Harness 到 Loop 的持续进化",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-09"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/%e4%bb%8e%e5%ba%95%e5%b1%82%e7%ae%97%e5%8a%9b%e5%88%b0%e4%b8%8a%e5%b1%82%e5%ba%94%e7%94%a8-%e4%bb%8e%e6%a8%a1%e5%9e%8b%e8%83%bd%e5%8a%9b%e5%88%b0%e6%99%ba%e8%83%bd%e4%bd%93%e5%b7%a5%e7%a8%8b-%e7%99%be%e5%ba%a6%e6%99%ba%e8%83%bd%e4%ba%91%e4%bb%a5%e5%85%a8%e6%a0%88ai%e5%ba%95%e5%ba%a7%e6%b7%b1%e8%80%95%e9%87%91%e8%9e%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%b8%82%e5%9c%ba/ar-aa2bpufh",
-      "title": "Meta发布个人AI代理Muse，隐私与信任成焦点",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-08"
-    },
-    {
-      "key": "u:engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
-      "title": "OpenAI宣称攻克纳维-斯托克斯难题，遭质疑",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-08"
-    },
-    {
-      "key": "u:engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
-      "title": "苹果秋季发布会明日举行，折叠屏iPhone或涨价",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-08"
-    },
-    {
-      "key": "u:engadget.com/2251193/how-to-change-customize-apple-carplay-display/",
-      "title": "How to change and customize your Apple CarPlay display",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-08"
-    },
-    {
-      "key": "u:engadget.com/2251124/benefits-restarting-pc-more-often/",
-      "title": "Is there any benefit to restarting your PC regularly?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-08"
     }
   ],
-  "updatedAt": "2026-10-08T02:49:36.118Z"
+  "updatedAt": "2026-10-09T03:01:13.871Z"
 }
