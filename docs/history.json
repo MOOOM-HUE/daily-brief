@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/autos/%e9%80%9a%e7%94%a8/%e5%88%ab%e5%85%8b%e5%85%a8%e6%96%b0%e5%90%9b%e8%b6%8a%e5%b0%86%e4%b8%8a%e7%ba%bf%e8%b1%86%e5%8c%85ai%e5%a4%a7%e6%a8%a1%e5%9e%8b-%e5%90%88%e8%b5%84%e7%87%83%e6%b2%b9%e8%bd%a6%e9%a6%96%e5%8f%91/ar-aa2dvszq",
+      "title": "OpenAI全面上线GPT-6，宣称解决数学难题",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-09"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "title": "Anthropic智能体向警方提交虚假凶案线索",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-09"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e7%a1%85%e8%b0%b7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9c%9f%e7%9a%84%e4%b8%8d%e8%a3%85%e4%ba%86-claude%e6%8e%80%e8%b5%b7%e4%bb%b7%e6%a0%bc%e6%88%98-gpt%e5%85%a8%e9%9d%a2%e4%b8%8b%e6%94%be%e5%85%8d%e8%b4%b9%e5%b1%82/ar-aa2dvmew",
+      "title": "Claude掀价格战，GPT全面下放免费层",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-09"
+    },
+    {
+      "key": "u:sohu.com/a/1085709845_99970452",
+      "title": "谷歌云发布Gemini Agent，办公智能体开战",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-09"
+    },
+    {
+      "key": "u:infoq.cn/article/0liyfbyjtkttvmpdvkwc",
+      "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-09"
+    },
+    {
       "key": "u:sohu.com/a/1085420562_120094090",
       "title": "OpenAI年化营收下修至500亿美元，科技股承压",
       "topic": "大学 / 专业 / 就业",
@@ -869,37 +899,7 @@
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-10"
-    },
-    {
-      "key": "u:ifanr.com/1679435",
-      "title": "苹果发布首款折叠屏iPhone Duo，起售价1999美元",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-09"
-    },
-    {
-      "key": "u:ifanr.com/1679218",
-      "title": "OpenAI宣称解决世纪数学难题，学界质疑",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-09"
-    },
-    {
-      "key": "u:infoq.cn/article/zebw8yc4qtzrbdjxagcc",
-      "title": "Anthropic研究员辞职警告：AI或灭绝人类",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-09"
-    },
-    {
-      "key": "u:infoq.cn/article/txjbzyquebtvesshrrfh",
-      "title": "Meta发布AI代理Muse，进军Agent市场",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-09"
-    },
-    {
-      "key": "u:infoq.cn/video/52550fxfrmazhmqwrsc5",
-      "title": "从 Harness 到 Loop 的持续进化",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-09"
     }
   ],
-  "updatedAt": "2026-10-09T03:01:13.871Z"
+  "updatedAt": "2026-10-10T02:33:02.852Z"
 }
