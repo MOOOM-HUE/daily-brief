@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/rkrpt18fgxtjippaeala",
+      "title": "Anthropic切断内部评估联网，AI智能体失控引警觉",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-10"
+    },
+    {
+      "key": "u:m.thepaper.cn/newsdetail_forward_34223743",
+      "title": "扩散语言模型公司DiffuSpace融资数亿元",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-10"
+    },
+    {
+      "key": "u:chinanews.com.cn/cj/2026/10-11/10710873.shtml",
+      "title": "国新办发布'十五五'就业目标，技能人才占比35%",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-10"
+    },
+    {
+      "key": "u:ifanr.com/1683829",
+      "title": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-10"
+    },
+    {
+      "key": "u:engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+      "title": "How to enable Live Activities on iPhone and CarPlay",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-10"
+    },
+    {
       "key": "u:msn.cn/zh-cn/autos/%e9%80%9a%e7%94%a8/%e5%88%ab%e5%85%8b%e5%85%a8%e6%96%b0%e5%90%9b%e8%b6%8a%e5%b0%86%e4%b8%8a%e7%ba%bf%e8%b1%86%e5%8c%85ai%e5%a4%a7%e6%a8%a1%e5%9e%8b-%e5%90%88%e8%b5%84%e7%87%83%e6%b2%b9%e8%bd%a6%e9%a6%96%e5%8f%91/ar-aa2dvszq",
       "title": "OpenAI全面上线GPT-6，宣称解决数学难题",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-11"
-    },
-    {
-      "key": "u:infoq.cn/article/fki7zch6mffhunb72eyz",
-      "title": "OpenAI因Astra需求暂停Pro订阅",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-10"
-    },
-    {
-      "key": "u:ifanr.com/1679531",
-      "title": "苹果发布2nm A20 Pro与首款折叠屏iPhone Duo",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-10"
-    },
-    {
-      "key": "u:engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
-      "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-10"
-    },
-    {
-      "key": "u:engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
-      "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-10"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-10"
     }
   ],
-  "updatedAt": "2026-10-10T02:33:02.852Z"
+  "updatedAt": "2026-10-11T02:03:08.874Z"
 }
