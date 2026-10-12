@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.com/en-us/news/other/white-house-demands-immediate-fix-after-anthropic-s-ai-agents-gave-a-false-philly-homicide-tip-and-applied-for-visas/ar-aa2e0y3j",
+      "title": "Anthropic智能体误报凶案并申请签证，白宫要求整改",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-11"
+    },
+    {
+      "key": "u:sohu.com/a/1086410114_121218495",
+      "title": "OpenAI营收口径差200亿美元，AI交易逻辑受质疑",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-11"
+    },
+    {
+      "key": "u:news.sina.cn/gn/2026-10-11/detail-iniuvxsc5719755.d.html?vt=4",
+      "title": "高通CEO：2028年手机要跑千亿参数模型",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-11"
+    },
+    {
+      "key": "u:view.inews.qq.com/a/20261012a02ibh00",
+      "title": "1—9月城镇新增就业1052万人，十五五就业规划落地",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-11"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20261011a0acv700",
+      "title": "苹果首款智能家居中枢定名HomeView，13日发布",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-11"
+    },
+    {
       "key": "u:infoq.cn/article/rkrpt18fgxtjippaeala",
       "title": "Anthropic切断内部评估联网，AI智能体失控引警觉",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "Is there any benefit to restarting your gaming handheld regularly?",
       "topic": "科技产品与硬件",
       "date": "2026-09-12"
-    },
-    {
-      "key": "u:infoq.cn/article/fa80wgnmowcrrxssiawx",
-      "title": "OpenAI智能体被曝攻击RubyGems，早于Hugging Face事件",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-11"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-11"
-    },
-    {
-      "key": "u:engadget.com/2256562/moss-developer-polyarc-has-closed/",
-      "title": "Moss developer Polyarc has closed",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-11"
-    },
-    {
-      "key": "u:infoq.cn/article/rlxyapujvr0fffbqk3iz",
-      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-11"
-    },
-    {
-      "key": "u:infoq.cn/article/qprcudpgic5r8ws8r1gm",
-      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-11"
     }
   ],
-  "updatedAt": "2026-10-11T02:03:08.874Z"
+  "updatedAt": "2026-10-12T02:33:33.639Z"
 }
