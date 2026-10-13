@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:chinaz.com/ainews/31584.shtml",
+      "title": "Meta发布首款前沿模型Muse Wonder",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-12"
+    },
+    {
+      "key": "u:wap.cj.sina.cn/pc/7x24/5140650",
+      "title": "微软发布Maia 300，明年部署超百万颗",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-12"
+    },
+    {
+      "key": "u:finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzzhk0424578.shtml",
+      "title": "字节Seed单独设立大模型安全与对齐部门",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-12"
+    },
+    {
+      "key": "u:chinastarmarket.cn/detail/2502670",
+      "title": "上海启动智能制造行动：8000台人形机器人进工厂",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-12"
+    },
+    {
+      "key": "u:infoq.cn/article/z9orbe470qjdhdibcc8s",
+      "title": "星尘智能完成新一轮融资，公司估值达150亿元",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-12"
+    },
+    {
       "key": "u:msn.com/en-us/news/other/white-house-demands-immediate-fix-after-anthropic-s-ai-agents-gave-a-false-philly-homicide-tip-and-applied-for-visas/ar-aa2e0y3j",
       "title": "Anthropic智能体误报凶案并申请签证，白宫要求整改",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "Make long drives easier with this Android Auto feature",
       "topic": "科技产品与硬件",
       "date": "2026-09-13"
-    },
-    {
-      "key": "u:sohu.com/a/1075271972_120638611",
-      "title": "Altman称OpenAI 2026年不上市",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-12"
-    },
-    {
-      "key": "u:itbear.com.cn/html/2026-09/1557037.html",
-      "title": "Anthropic CEO呼吁给AI开发踩刹车",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-12"
-    },
-    {
-      "key": "u:ifanr.com/1679530",
-      "title": "苹果折叠屏iPhone Duo预售火爆",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-12"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20260912a08zax00",
-      "title": "32名硕士入职一月被调去拧螺丝",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-12"
-    },
-    {
-      "key": "u:engadget.com/2252809/benefits-restarting-gaming-handheld-more-often/",
-      "title": "Is there any benefit to restarting your gaming handheld regularly?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-12"
     }
   ],
-  "updatedAt": "2026-10-12T02:33:33.639Z"
+  "updatedAt": "2026-10-13T03:43:56.403Z"
 }
