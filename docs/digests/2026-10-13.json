@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-14T02:03:35.185Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "苹果HomeView与Siri AI进军客厅、谷歌Gemini 4 Argon回归、微软Maia 300挑战英伟达，AI终端与算力格局同夜生变。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 14371
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "谷歌发布Gemini 4 Argon，重返前沿竞赛",
+      "summary": "谷歌正式推出等待数月的Gemini 4 Argon模型，官方称其在代码生成与复杂推理上可与竞品正面竞争，并同步接入Google AI Studio与Android生态。此前谷歌在前沿模型竞赛中一度被认为落后于OpenAI与Anthropic。",
+      "why": "这是谷歌在经历数月'掉队'质疑后的关键反击，直接决定其云业务、Workspace与Android端AI能力的竞争力。对开发者而言，模型选择与迁移成本将再次被重新评估，Agent与代码生成工具链的生态站队也可能随之变化。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+      },
+      "image": {
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "alt": "谷歌发布Gemini 4 Argon，重返前沿竞赛"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "苹果发布HomeView，Siri AI全面进客厅",
+      "summary": "苹果在'欢迎回家'发布会上推出首款智能家居中枢HomeView（299美元）、HomePod mini 2（149美元）与新款Apple TV 4K，全线接入基于Apple Foundation Models的新Siri AI。这是苹果首次系统性进军由亚马逊和谷歌主导的智能家居市场。",
+      "why": "智能家居是AI助手落地家庭场景的最大入口，苹果补齐硬件后，语音助手的竞争将从手机延伸到客厅控制权。对国内厂商而言，端侧模型+家居中枢的组合路径值得对照，也意味着智能家居生态的阵营划分会更清晰。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.mpaypass.com.cn/news/202610/14091640.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "AI面试渐成银行招聘常规环节，不透明的评分机制或是最大争议"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "微软发布Maia 300，挑战英伟达主导地位",
+      "summary": "微软推出自研AI芯片Maia 300，瞄准训练与推理负载，试图降低对英伟达GPU的依赖。分析认为该芯片计划可能带动Marvell等配套厂商受益，同时英伟达同日宣布入股四家法国科技公司以推进欧洲AI采用。",
+      "why": "自研芯片是云厂商控制AI成本与供应链的关键一步，Maia 300的成败将影响Azure的毛利结构与英伟达的议价能力。对关注算力产业链的读者，这是判断'去英伟达化'进度与国产替代逻辑的重要参照。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:NVIDIA chip launch",
+        "url": "https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/20/82/2003f08ecd54f897308fa42b4a612382.png",
+        "alt": "微软发布Maia 300，挑战英伟达主导地位"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "OpenAI办公室被装窃听器，工程师被捕",
+      "summary": "OpenAI称在一间高管会议室发现伪装成USB设备的'精密录音装置'，公司用自家模型协助识别出安装者。FBI随后逮捕了一名35岁沙特籍工程师，指控其意图窃取敏感通信。",
+      "why": "AI实验室的核心资产是模型权重与内部讨论，此案暴露前沿公司面临的内部威胁与商业间谍风险。对从业者而言，AI公司安全合规岗位需求与内部数据管控强度都将上升，也可能推动行业建立更严格的人员审查机制。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg",
+        "alt": "OpenAI says it found a 'sophisticated recording device' hidden in its offices"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "阶跃星辰发布3999元智能体手机STEPX Neo",
+      "summary": "阶跃终端在上海发布首款'大模型原生'智能体手机STEPX Neo，搭载智能体原生操作系统Step AOS，解锁后先见AI而非App，定价3999元并在京东、天猫同步开售。",
+      "why": "这是'模型原生终端'从概念走向量产的一次标志性尝试，直接挑战现有以App为中心的手机交互范式。对关注AI硬件与就业方向的读者，它提示手机厂商、OS团队与Agent开发者的能力需求正在重构，也值得观察消费者是否买单。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E5%8C%97%E8%88%AA%E5%90%8C%E6%B5%8E%E5%88%86%E6%95%B0%E9%83%BD%E5%A4%9F%E4%BA%86%E5%8D%B4%E8%BF%B7%E8%8C%AB-99-%E8%80%83%E7%94%9F%E9%87%8D%E8%B9%88%E7%9A%84%E7%9B%B8%E5%90%8C%E5%A4%B1%E8%AF%AF/ar-AA2ebuCK"
+      },
+      "image": {
+        "url": "",
+        "alt": "北航同济分数都够了却迷茫? 99%考生重蹈的相同失误"
+      },
+      "matchedKeywords": []
+    }
+  ]
+}
