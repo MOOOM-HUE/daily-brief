@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncw1503858.shtml",
+      "title": "Meta开源8160亿参数模型，联手苹果本地跑",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-15"
+    },
+    {
+      "key": "u:infoq.cn/article/hc8sagazmhc6sfwp9gc9",
+      "title": "FTC传唤OpenAI与Anthropic调查安全问题",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-15"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e6%8a%80%e6%9c%af%e5%85%ac%e5%8f%b8/%e5%81%9c%e5%b7%a5%e8%bf%915%e5%b0%8f%e6%97%b6-deepseek%e5%b4%a9%e4%ba%86-%e7%82%b8%e4%b8%8a%e7%83%ad%e6%90%9c-%e6%80%a7%e8%83%bd%e4%b9%8b%e5%a4%96%e5%9b%bd%e4%ba%a7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%bf%98%e9%9c%80%e8%a1%a5%e4%b8%8a-%e7%a8%b3%e5%ae%9a%e8%af%be/ar-aa2ekruz",
+      "title": "DeepSeek宕机近5小时，稳定性成上市问询点",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-15"
+    },
+    {
+      "key": "u:msn.com/zh-cn/%e7%a7%91%e5%ad%a6/%e9%80%9a%e7%94%a8/%e5%8e%86%e5%8f%b2%e6%80%a7%e7%aa%81%e7%a0%b4-%e4%b8%ad%e5%9b%bd%e5%a4%a7%e6%a8%a1%e5%9e%8b%e9%a6%96%e6%ac%a1%e6%94%bb%e5%85%8b%e4%b8%96%e7%95%8c%e7%ba%a7%e6%95%b0%e5%ad%a6%e9%9a%be%e9%a2%98-%e4%b8%89%e7%bb%b4ghys%e7%8c%9c%e6%83%b3%e8%a2%ab%e7%a0%b4%e8%a7%a3/ar-aa2ejtq8",
+      "title": "中国大模型首次破解三维Ghys猜想",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-15"
+    },
+    {
+      "key": "u:infoq.cn/article/dfjza7hp0ohkmpaaifg0",
+      "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-15"
+    },
+    {
       "key": "u:theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
       "title": "谷歌发布Gemini 4 Argon，重返前沿竞赛",
       "topic": "AI / Agent / 大模型",
@@ -839,67 +869,7 @@
       "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
       "topic": "科技产品与硬件",
       "date": "2026-09-16"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/ai%e5%9c%86%e4%ba%86%e6%88%91%e7%9a%84%e5%af%bc%e6%bc%94%e6%a2%a6/ar-aa2ce94l",
-      "title": "OpenAI、Anthropic、谷歌酝酿AI安全标准自律组织",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-15"
-    },
-    {
-      "key": "u:sohu.com/a/1076409723_115949",
-      "title": "联发科发布天玑9600 Pro，台积电2nm+双NPU",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-15"
-    },
-    {
-      "key": "u:sohu.com/a/1076339833_122034146",
-      "title": "2027届秋招：AI能力考察成标配，1270万人竞争",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-15"
-    },
-    {
-      "key": "u:infoq.cn/article/j5ijdjq6bierzhzf8fxo",
-      "title": "Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-15"
-    },
-    {
-      "key": "u:infoq.cn/article/foezsr8xfg0stq1wgbti",
-      "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-15"
-    },
-    {
-      "key": "u:infoq.cn/article/ckzbmaxb1lluu4gezuhy",
-      "title": "AI减速之争升级：黄仁勋唱反调，芯片股重挫",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-14"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20260914a0doq600",
-      "title": "国内大模型「压力测试周」：DeepSeek调价、智谱融资",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-14"
-    },
-    {
-      "key": "u:infoq.cn/article/i6k1motq9fltk7ep1hze",
-      "title": "在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-14"
-    },
-    {
-      "key": "u:engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
-      "title": "How to use Meta Display glasses while driving with the Audio Only feature",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-14"
-    },
-    {
-      "key": "u:theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-14"
     }
   ],
-  "updatedAt": "2026-10-14T02:03:35.186Z"
+  "updatedAt": "2026-10-16T01:34:08.387Z"
 }

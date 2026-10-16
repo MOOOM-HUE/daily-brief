@@ -1,101 +1,100 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-14T02:03:35.185Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-16T01:34:08.340Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "苹果HomeView与Siri AI进军客厅、谷歌Gemini 4 Argon回归、微软Maia 300挑战英伟达，AI终端与算力格局同夜生变。",
+  "overview": "10月15日：Meta开源8160亿参数模型绑定苹果，FTC调查OpenAI与Anthropic，算力涨价与国产模型价格战并行。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 119,
+    "afterDedup": 120,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 14371
+    "durationMs": 15334
   },
   "items": [
     {
       "rank": 1,
       "topic": "AI / Agent / 大模型",
-      "title": "谷歌发布Gemini 4 Argon，重返前沿竞赛",
-      "summary": "谷歌正式推出等待数月的Gemini 4 Argon模型，官方称其在代码生成与复杂推理上可与竞品正面竞争，并同步接入Google AI Studio与Android生态。此前谷歌在前沿模型竞赛中一度被认为落后于OpenAI与Anthropic。",
-      "why": "这是谷歌在经历数月'掉队'质疑后的关键反击，直接决定其云业务、Workspace与Android端AI能力的竞争力。对开发者而言，模型选择与迁移成本将再次被重新评估，Agent与代码生成工具链的生态站队也可能随之变化。",
-      "divergence": "",
+      "title": "Meta开源8160亿参数模型，联手苹果本地跑",
+      "summary": "Meta发布开放权重多模态模型Muse Spark Open，采用混合专家架构，总参数8160亿、活跃参数420亿，并与苹果合作使其在Apple Silicon Mac上本地运行。Meta称其为“美国迄今最强开放权重模型”，但完整运行需要约1TB内存。",
+      "why": "这是美国厂商在开放权重路线上的最大一次下注，且首次把“本地跑大模型”与苹果硬件生态绑定。对开发者意味着可离线、可控成本的Agent底座多了一个选项，也意味着开源与闭源阵营的路线之争进一步升级。",
+      "divergence": "Meta宣称是“美国最强开放权重模型”，但Engadget等指出其完整运行需约1TB内存，实际可用性与宣传口径存在落差。",
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+        "name": "TechCrunch AI",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncw1503858.shtml"
       },
       "image": {
-        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "alt": "谷歌发布Gemini 4 Argon，重返前沿竞赛"
+        "url": "",
+        "alt": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行"
       },
       "matchedKeywords": []
     },
     {
       "rank": 2,
-      "topic": "科技产品与硬件",
-      "title": "苹果发布HomeView，Siri AI全面进客厅",
-      "summary": "苹果在'欢迎回家'发布会上推出首款智能家居中枢HomeView（299美元）、HomePod mini 2（149美元）与新款Apple TV 4K，全线接入基于Apple Foundation Models的新Siri AI。这是苹果首次系统性进军由亚马逊和谷歌主导的智能家居市场。",
-      "why": "智能家居是AI助手落地家庭场景的最大入口，苹果补齐硬件后，语音助手的竞争将从手机延伸到客厅控制权。对国内厂商而言，端侧模型+家居中枢的组合路径值得对照，也意味着智能家居生态的阵营划分会更清晰。",
+      "topic": "AI / Agent / 大模型",
+      "title": "FTC传唤OpenAI与Anthropic调查安全问题",
+      "summary": "美国联邦贸易委员会向OpenAI和Anthropic发出传票，调查两家公司在模型安全失效后可能对消费者造成的伤害。此举发生在多家AI公司被曝模型越界、安全事件频发之后。",
+      "why": "这是美国监管机构首次以消费者保护名义直接调查头部大模型公司，可能为后续AI安全合规确立判例。对从业者而言，安全与披露能力正从“加分项”变成“准入项”，相关岗位与审计需求会明显上升。",
       "divergence": "",
       "source": {
-        "name": "爱范儿",
-        "url": "https://www.mpaypass.com.cn/news/202610/14091640.html"
+        "name": "Engadget",
+        "url": "https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "AI面试渐成银行招聘常规环节，不透明的评分机制或是最大争议"
+        "url": "https://static001.infoq.cn/resource/image/b8/b1/b8a5673378e42ce753c2e2ddeb1092b1.png",
+        "alt": "FTC传唤OpenAI与Anthropic调查安全问题"
       },
       "matchedKeywords": []
     },
     {
       "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "微软发布Maia 300，挑战英伟达主导地位",
-      "summary": "微软推出自研AI芯片Maia 300，瞄准训练与推理负载，试图降低对英伟达GPU的依赖。分析认为该芯片计划可能带动Marvell等配套厂商受益，同时英伟达同日宣布入股四家法国科技公司以推进欧洲AI采用。",
-      "why": "自研芯片是云厂商控制AI成本与供应链的关键一步，Maia 300的成败将影响Azure的毛利结构与英伟达的议价能力。对关注算力产业链的读者，这是判断'去英伟达化'进度与国产替代逻辑的重要参照。",
+      "topic": "AI / Agent / 大模型",
+      "title": "DeepSeek宕机近5小时，稳定性成上市问询点",
+      "summary": "DeepSeek服务中断近5小时并登上热搜，故障发生在第二轮融资交割与递交招股书的窗口期。报道指出，性能之外，国产大模型还需补上“稳定课”，此次事故或成为上市审核问询的现成素材。",
+      "why": "大模型从“能跑分”进入“能扛生产流量”的阶段，可用性直接关系到企业客户续约与资本市场估值。对求职者而言，SRE、容量规划、故障演练等传统工程能力在大模型公司重新变得稀缺。",
       "divergence": "",
       "source": {
-        "name": "Bing:NVIDIA chip launch",
-        "url": "https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&utm_medium=article"
+        "name": "Bing:大模型",
+        "url": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8/%E5%81%9C%E5%B7%A5%E8%BF%915%E5%B0%8F%E6%97%B6-deepseek%E5%B4%A9%E4%BA%86-%E7%82%B8%E4%B8%8A%E7%83%AD%E6%90%9C-%E6%80%A7%E8%83%BD%E4%B9%8B%E5%A4%96%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%98%E9%9C%80%E8%A1%A5%E4%B8%8A-%E7%A8%B3%E5%AE%9A%E8%AF%BE/ar-AA2ekrUZ"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/20/82/2003f08ecd54f897308fa42b4a612382.png",
-        "alt": "微软发布Maia 300，挑战英伟达主导地位"
+        "url": "",
+        "alt": "停工近5小时，“DeepSeek崩了”炸上热搜，性能之外国产大模型还需补上“稳定课”"
       },
       "matchedKeywords": []
     },
     {
       "rank": 4,
-      "topic": "科技产品与硬件",
-      "title": "OpenAI办公室被装窃听器，工程师被捕",
-      "summary": "OpenAI称在一间高管会议室发现伪装成USB设备的'精密录音装置'，公司用自家模型协助识别出安装者。FBI随后逮捕了一名35岁沙特籍工程师，指控其意图窃取敏感通信。",
-      "why": "AI实验室的核心资产是模型权重与内部讨论，此案暴露前沿公司面临的内部威胁与商业间谍风险。对从业者而言，AI公司安全合规岗位需求与内部数据管控强度都将上升，也可能推动行业建立更严格的人员审查机制。",
+      "topic": "AI / Agent / 大模型",
+      "title": "中国大模型首次破解三维Ghys猜想",
+      "summary": "上海人工智能实验室宣布，困扰学界30余年的三维Ghys猜想被破解，由中国数学家团队领衔、借助中国大模型完成。这是中国科学家首次用中国大模型攻克世界级数学难题。",
+      "why": "这标志着大模型在“AI for Math”方向从辅助计算走向实质性的数学发现，验证了模型在长链条推理上的潜力。对高校与研究者而言，AI+基础科学的交叉方向可能成为新的经费与就业增长点。",
       "divergence": "",
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/"
+        "name": "Bing:大模型",
+        "url": "https://www.msn.com/zh-cn/%E7%A7%91%E5%AD%A6/%E9%80%9A%E7%94%A8/%E5%8E%86%E5%8F%B2%E6%80%A7%E7%AA%81%E7%A0%B4-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A6%96%E6%AC%A1%E6%94%BB%E5%85%8B%E4%B8%96%E7%95%8C%E7%BA%A7%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98-%E4%B8%89%E7%BB%B4ghys%E7%8C%9C%E6%83%B3%E8%A2%AB%E7%A0%B4%E8%A7%A3/ar-AA2ejTq8"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg",
-        "alt": "OpenAI says it found a 'sophisticated recording device' hidden in its offices"
+        "url": "",
+        "alt": "历史性突破! 中国大模型首次攻克世界级数学难题：三维Ghys猜想被破解"
       },
       "matchedKeywords": []
     },
     {
       "rank": 5,
-      "topic": "科技产品与硬件",
-      "title": "阶跃星辰发布3999元智能体手机STEPX Neo",
-      "summary": "阶跃终端在上海发布首款'大模型原生'智能体手机STEPX Neo，搭载智能体原生操作系统Step AOS，解锁后先见AI而非App，定价3999元并在京东、天猫同步开售。",
-      "why": "这是'模型原生终端'从概念走向量产的一次标志性尝试，直接挑战现有以App为中心的手机交互范式。对关注AI硬件与就业方向的读者，它提示手机厂商、OS团队与Agent开发者的能力需求正在重构，也值得观察消费者是否买单。",
+      "topic": "AI / Agent / 大模型",
+      "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E5%8C%97%E8%88%AA%E5%90%8C%E6%B5%8E%E5%88%86%E6%95%B0%E9%83%BD%E5%A4%9F%E4%BA%86%E5%8D%B4%E8%BF%B7%E8%8C%AB-99-%E8%80%83%E7%94%9F%E9%87%8D%E8%B9%88%E7%9A%84%E7%9B%B8%E5%90%8C%E5%A4%B1%E8%AF%AF/ar-AA2ebuCK"
+        "url": "https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "北航同济分数都够了却迷茫? 99%考生重蹈的相同失误"
-      },
-      "matchedKeywords": []
+        "url": "https://static001.infoq.cn/resource/image/29/bd/29b3aee42c1a6fa10bc2ca40df09e0bd.jpg",
+        "alt": "GitLab 漏洞遭利用，可实现未认证数据外泄"
+      }
     }
   ]
 }
