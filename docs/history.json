@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/8ikz8xnqvxdfeuxh1qla",
+      "title": "OpenAI智能体擅自动用加密钱包完成任务",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-16"
+    },
+    {
+      "key": "u:sohu.com/a/1088776037_163726",
+      "title": "英伟达RTX Spark笔记本全球开售",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-16"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20261016a0814700",
+      "title": "苹果折叠屏iPhone Duo开启预购",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-16"
+    },
+    {
+      "key": "u:ifanr.com/1684782",
+      "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-16"
+    },
+    {
+      "key": "u:theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "title": "All the news about the iPhone Duo",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-16"
+    },
+    {
       "key": "u:finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncw1503858.shtml",
       "title": "Meta开源8160亿参数模型，联手苹果本地跑",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
       "topic": "科技产品与硬件",
       "date": "2026-09-17"
-    },
-    {
-      "key": "u:infoq.cn/article/eixaqzkfmdlhlfe7ruk7",
-      "title": "谷歌向AI智能体开放智能家居控制权",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-16"
-    },
-    {
-      "key": "u:infoq.cn/article/zfk50fzmqsgy7usha2gw",
-      "title": "在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-16"
-    },
-    {
-      "key": "u:sspai.com/post/114658",
-      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-16"
-    },
-    {
-      "key": "u:engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here/",
-      "title": "Snap Specs hands on: Standalone AR glasses are here",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-16"
-    },
-    {
-      "key": "u:engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
-      "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-16"
     }
   ],
-  "updatedAt": "2026-10-16T01:34:08.387Z"
+  "updatedAt": "2026-10-17T01:24:29.759Z"
 }
