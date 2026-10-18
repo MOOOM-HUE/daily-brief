@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-18T01:22:24.138Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "今日聚焦AI从技术热转向产业与监管落地：国常会部署\"人工智能+”、网站封堵智能体、金融业拦截AI代理，叠加就业与人才信号。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 14111
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "网站开始对AI智能体\"关门\"",
+      "summary": "The Verge报道，随着OpenAI、Meta、Google等纷纷推出可自主浏览网页的智能体，越来越多网站开始部署反爬与访问限制，拒绝AI代理抓取内容。此前Meta刚因条款中暗示可抓取新闻网站训练AI而遭反弹并修改措辞。",
+      "why": "这标志着开放互联网与AI训练/代理之间的利益冲突进入正面博弈阶段。内容方议价权上升，可能催生授权付费、代理身份认证等新生态，也直接影响依赖网页抓取的Agent产品可用性与成本。",
+      "divergence": "Meta称修改条款不代表爬取方式变化，但外界普遍解读为对内容方压力的让步。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.sohu.com/a/1089045974_121117454"
+      },
+      "image": {
+        "url": "https://q4.itc.cn/q_70/images03/20261017/99f87a73c1fd483ead02f8082492f81b.jpeg",
+        "alt": "网站开始对AI智能体\"关门\""
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "DeepSeek更新V4.1-Flash，低价挑战Claude Opus 5",
+      "summary": "DeepSeek发布V4.1-Flash-1017更新，宣称性能更快更精简，在编程基准上以远低于对手的成本超过Claude Opus 5。同期Replit CEO确认已将OpenAI设为默认模型供应商、替代Anthropic，Claude仍对客户开放。",
+      "why": "国产模型以极致性价比持续挤压头部厂商定价空间，模型层的\"默认供应商\"地位正被成本与编程能力重新洗牌。对开发者和企业选型而言，多模型可切换架构与成本核算比绑定单一厂商更重要。",
+      "divergence": "DeepSeek的基准领先为自报数据，第三方复现与真实工程场景表现尚待验证。",
+      "source": {
+        "name": "Bing:OpenAI",
+        "url": "https://www.sohu.com/a/1089050978_121124024"
+      },
+      "image": {
+        "url": "https://q9.itc.cn/q_70/images03/20261017/f0895b8d368b4e05a72dcc0a30433f88.jpeg",
+        "alt": "DeepSeek更新V4.1-Flash，低价挑战Claude Opus 5"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/4BUR4DmMxSBxyzYh6Fxz?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ed/b1/edd13cc2d18012a3609b31da1e8441b1.jpg",
+        "alt": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
+      "summary": "Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg",
+        "alt": "You don't have to turn off your phone to switch SIM cards (but you probably should)"
+      },
+      "translation": {
+        "title": "更换SIM卡时不必关机（但最好还是关掉）",
+        "summary": "更换SIM卡并不是你经常要做的事，但真需要换的时候，还是应该小心操作。",
+        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "What to check if your Nintendo Switch 2 isn't connecting to the TV",
+      "summary": "Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv/l-intro-1791896347.jpg",
+        "alt": "What to check if your Nintendo Switch 2 isn't connecting to the TV"
+      },
+      "translation": {
+        "title": "Nintendo Switch 2无法连接电视时该检查什么",
+        "summary": "Nintendo Switch 2可将画面投射到电视上。如果无法正常工作，有几项内容需要检查。",
+        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    }
+  ]
+}

@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1089045974_121117454",
+      "title": "网站开始对AI智能体\"关门\"",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-17"
+    },
+    {
+      "key": "u:sohu.com/a/1089050978_121124024",
+      "title": "DeepSeek更新V4.1-Flash，低价挑战Claude Opus 5",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-17"
+    },
+    {
+      "key": "u:infoq.cn/article/4bur4dmmxsbxyzyh6fxz",
+      "title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-17"
+    },
+    {
+      "key": "u:engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/",
+      "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-17"
+    },
+    {
+      "key": "u:engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/",
+      "title": "What to check if your Nintendo Switch 2 isn't connecting to the TV",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-17"
+    },
+    {
       "key": "u:infoq.cn/article/8ikz8xnqvxdfeuxh1qla",
       "title": "OpenAI智能体擅自动用加密钱包完成任务",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-18"
-    },
-    {
-      "key": "u:sohu.com/a/1077411255_122066679",
-      "title": "华为昇腾960提前至2027Q1，对标英伟达",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-17"
-    },
-    {
-      "key": "u:infoq.cn/article/jxliiddvtydatm73eosu",
-      "title": "OpenAI自曝6起模型失控，建披露框架",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-17"
-    },
-    {
-      "key": "u:infoq.cn/article/w3toiqhv5pkhsxp6mgww",
-      "title": "700个AI智能体自行建留言板联手攻击",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-17"
-    },
-    {
-      "key": "u:sspai.com/post/114699",
-      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-17"
-    },
-    {
-      "key": "u:ifanr.com/1680525",
-      "title": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-17"
     }
   ],
-  "updatedAt": "2026-10-17T01:24:29.759Z"
+  "updatedAt": "2026-10-18T01:22:24.139Z"
 }
