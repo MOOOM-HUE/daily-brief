@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/news/other/%e4%ba%91%e5%8d%97%e5%a4%a7%e5%ad%a6-%e8%a5%bf%e5%8d%97%e4%bb%85%e5%8f%8c%e4%b8%80%e6%b5%81a%e7%b1%bb-%e8%97%8f%e5%ae%9d%e5%86%b7%e9%97%a8%e7%8e%8b%e7%89%8c%e5%ad%a6%e7%a7%91%e7%ab%9f%e5%a6%82%e6%ad%a4%e5%87%ba%e5%bd%a9/ar-aa2esxau",
+      "title": "Anthropic承诺捐出5%股份设公益基金",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-18"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "title": "迪士尼收编Character.AI大部分员工",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-18"
+    },
+    {
+      "key": "u:news.sina.cn/znl/2026-10-18/detail-inivshcm7179860.d.html?vt=4",
+      "title": "中国拟对23项AI技术实施出口管制",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-18"
+    },
+    {
+      "key": "u:businessmirror.com.ph/2026/10/19/rules-for-ai-agent-transactions-sought/",
+      "title": "失控AI Agent入侵印度企业生产系统",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-18"
+    },
+    {
+      "key": "u:infoq.cn/article/uyj6ossb7gldtxoorlxx",
+      "title": "谷歌广告如何将一个开源的 macOS 术语误判为恶意内容并予以暂停",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-18"
+    },
+    {
       "key": "u:sohu.com/a/1089045974_121117454",
       "title": "网站开始对AI智能体\"关门\"",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "How to record audio on your iPhone",
       "topic": "科技产品与硬件",
       "date": "2026-09-19"
-    },
-    {
-      "key": "u:infoq.cn/article/eluarohetbhwjjyzromg",
-      "title": "三人用Claude 72小时攻破OpenAI代码库",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-18"
-    },
-    {
-      "key": "u:sohu.com/a/1077906752_121124210",
-      "title": "华为Ascend 960DT提前至2027年Q1发布",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-18"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-18"
-    },
-    {
-      "key": "u:ifanr.com/1680956",
-      "title": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-18"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-18"
     }
   ],
-  "updatedAt": "2026-10-18T01:22:24.139Z"
+  "updatedAt": "2026-10-19T01:30:20.803Z"
 }
