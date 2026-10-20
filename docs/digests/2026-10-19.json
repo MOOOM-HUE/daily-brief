@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-20T01:59:16.680Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "昨日焦点：AI算力与资本竞速升温，Agent安全风险集中暴露，苹果触屏MacBook定档。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 21079
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "微软：AI Agent 是内部威胁",
+      "summary": "微软安全团队公开表示，企业应像防范内部威胁一样监控员工使用的第三方AI Agent，理由是“前沿模型不可信”。同期路透报道，一名黑客借助成群的AI Agent自主攻破上百个网站，包括John Deere与SharkNinja。",
+      "why": "Agent从演示走向生产后，权限过大、行为不可审计正成为企业安全的新缺口。对正在部署Agent的企业和开发者，这意味着权限最小化、行为日志与人工审批环节需要前置设计，而非事后补救。",
+      "divergence": "微软强调企业应重点管控非AI实验室控制的Agent；安全研究者则认为攻击者已能低成本批量调用Agent，防御方在攻防节奏上明显落后。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+        "alt": "微软：AI Agent 是内部威胁"
+      },
+      "matchedKeywords": [
+        "AI Agent",
+        "安全",
+        "内部威胁"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "CoreWeave债务成AI行业隐忧",
+      "summary": "The Verge报道，CoreWeave债券已滑入困境区间，投资者要求的利差超过1000个基点。文章指出，这家GPU云厂商的债务问题正在外溢为整个AI基础设施行业的融资风险。",
+      "why": "AI算力扩张高度依赖债务融资，一旦头部算力租赁商信用恶化，数据中心建设节奏和GPU采购订单都可能被推迟。对关注AI产业链的读者，这是判断算力泡沫与资本周期的重要先行指标。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.stdaily.com/web/gdxw/2026-10/20/content_598835.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "科技创新世界潮 | 大模型竞争进入下半场：高质量数据成AI领域硬通货"
+      },
+      "matchedKeywords": [
+        "CoreWeave",
+        "算力",
+        "债务"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "苹果定档10月28日发布触屏MacBook",
+      "summary": "苹果向媒体发出邀请函，将于10月28日在洛杉矶举行“Pro and Tell”活动，外界普遍预计推出首款触屏MacBook Pro，并可能同步更新M6芯片iMac与OLED版iPad mini，新品预计11月6日开售。",
+      "why": "触屏MacBook意味着苹果在交互形态上向iPad与Windows阵营靠拢，可能重新定义高端笔记本的产品分层。对关注硬件与生态的读者，这是观察苹果如何在AI PC竞争中定位自身的关键节点。",
+      "divergence": "多家媒体对是否同场发布M6 iMac与iPad mini 8说法不一，苹果官方仅确认活动时间与“Pro”主题，具体产品线仍属推测。",
+      "source": {
+        "name": "The Verge",
+        "url": "https://www.eet-china.com/news/202610207374.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "苹果宣布10月28日洛杉矶发布会：首款触屏MacBook或登场"
+      },
+      "matchedKeywords": [
+        "苹果",
+        "MacBook",
+        "触屏"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/b0/6c/b0997ecde48ef76c20b270de9eb55c6c.jpg",
+        "alt": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+        "alt": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back"
+      },
+      "translation": {
+        "title": "马姆达尼称联邦政府在AI问题上失职，呼吁纽约人反击",
+        "summary": "市长佐赫兰·马姆达尼周一晚间表示，纽约人必须抵制“AI接管不可避免”的叙事，并要求出台保护公众、将权力交还民众的监管措施。",
+        "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    }
+  ]
+}

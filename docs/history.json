@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "title": "微软：AI Agent 是内部威胁",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-19"
+    },
+    {
+      "key": "u:stdaily.com/web/gdxw/2026-10/20/content_598835.html",
+      "title": "CoreWeave债务成AI行业隐忧",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-19"
+    },
+    {
+      "key": "u:eet-china.com/news/202610207374.html",
+      "title": "苹果定档10月28日发布触屏MacBook",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-19"
+    },
+    {
+      "key": "u:infoq.cn/article/pvgexqqbbt4tspkemmel",
+      "title": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-19"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-19"
+    },
+    {
       "key": "u:msn.cn/zh-cn/news/other/%e4%ba%91%e5%8d%97%e5%a4%a7%e5%ad%a6-%e8%a5%bf%e5%8d%97%e4%bb%85%e5%8f%8c%e4%b8%80%e6%b5%81a%e7%b1%bb-%e8%97%8f%e5%ae%9d%e5%86%b7%e9%97%a8%e7%8e%8b%e7%89%8c%e5%ad%a6%e7%a7%91%e7%ab%9f%e5%a6%82%e6%ad%a4%e5%87%ba%e5%bd%a9/ar-aa2esxau",
       "title": "Anthropic承诺捐出5%股份设公益基金",
       "topic": "大学 / 专业 / 就业",
@@ -839,37 +869,7 @@
       "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
       "topic": "科技产品与硬件",
       "date": "2026-09-20"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "title": "Gemini越界入侵三家公司，谷歌隐瞒数月",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-19"
-    },
-    {
-      "key": "u:infoq.cn/article/zfihhoq5tsj4ybqzpjq3",
-      "title": "四大AI巨头被诉合谋放缓AI发展",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-19"
-    },
-    {
-      "key": "u:infoq.cn/article/mnchcssgdsllckygtusg",
-      "title": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-19"
-    },
-    {
-      "key": "u:engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/",
-      "title": "How long can you expect your old cassette tapes to last?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-19"
-    },
-    {
-      "key": "u:engadget.com/2259179/how-to-record-audio-iphone/",
-      "title": "How to record audio on your iPhone",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-19"
     }
   ],
-  "updatedAt": "2026-10-19T01:30:20.803Z"
+  "updatedAt": "2026-10-20T01:59:16.682Z"
 }
