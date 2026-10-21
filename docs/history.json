@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sspai.com/post/116887",
+      "title": "美政府令联邦机构全面移除DeepSeek",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-20"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e5%a5%87%e7%91%9e%e5%8f%91%e5%b8%83cherymind%e5%9e%82%e7%b1%bb%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%b8%8e%e7%b4%ab%e5%be%ae%e8%8a%af%e7%89%87-%e6%89%93%e9%80%9a400%e5%a4%9a%e4%b8%aa%e4%bc%81%e4%b8%9a%e7%b3%bb%e7%bb%9f/ar-aa2ffzns",
+      "title": "奇瑞发布CheryMind垂类大模型与紫微芯片",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-20"
+    },
+    {
+      "key": "u:infoq.cn/article/ywvgvdvlssu7r47jk6lq",
+      "title": "大行秋招缩编：AI替代柜员岗，金融科技需求增",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-20"
+    },
+    {
+      "key": "u:infoq.cn/article/39xm9ckcb4jcz9yra6o6",
+      "title": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-20"
+    },
+    {
+      "key": "u:ifanr.com/1685107",
+      "title": "三十而立，奇瑞不想只做一家汽车公司",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-20"
+    },
+    {
       "key": "u:techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "title": "微软：AI Agent 是内部威胁",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "Rustls 十周年：发展历程、基准测试与未来路线图",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-21"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "title": "中国大模型调用量连续20周超美国",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-20"
-    },
-    {
-      "key": "u:jiemian.com/article/15119375.html",
-      "title": "华为发布昇腾960超节点与韬定律芯片",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-20"
-    },
-    {
-      "key": "u:sspai.com/post/114788",
-      "title": "OpenAI预计到2030年烧钱近2800亿美元",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-20"
-    },
-    {
-      "key": "u:infoq.cn/article/z3ra77ahmlro8zmy7sl3",
-      "title": "人工智能时代的代码正在变为只写且可丢弃的",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-20"
-    },
-    {
-      "key": "u:engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
-      "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-20"
     }
   ],
-  "updatedAt": "2026-10-20T01:59:16.682Z"
+  "updatedAt": "2026-10-21T01:50:09.316Z"
 }

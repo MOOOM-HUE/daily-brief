@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-21T01:50:09.315Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "美国政府禁用DeepSeek、Meta Muse泄露隐私、苹果触屏Mac定档，AI治理与硬件变局同日至。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 26184
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "美政府令联邦机构全面移除DeepSeek",
+      "summary": "TechCrunch报道，美国政府以国家安全为由，要求联邦文职机构从系统中移除DeepSeek产品及基于其技术构建的第三方服务。这是继此前多轮审查后首次落到联邦机构层面的强制清除指令，涉及范围包括直接部署与间接集成。",
+      "why": "这是中美AI生态脱钩从芯片、模型出口管制延伸到政府终端采购的标志性一步。对国内大模型厂商而言，海外政企市场窗口进一步收窄；对读者所在企业，若涉及跨境业务或使用第三方AI服务，需尽快排查DeepSeek依赖链的合规风险。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://sspai.com/post/116887"
+      },
+      "image": {
+        "url": "",
+        "alt": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等"
+      },
+      "matchedKeywords": [
+        "DeepSeek",
+        "美国政府",
+        "国家安全"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "奇瑞发布CheryMind垂类大模型与紫微芯片",
+      "summary": "奇瑞在全球创新大会上发布定位“为物理AI而生”的垂类基础大模型CheryMind，同时亮出紫微芯片与人形机器人“墨宝”，称已打通400多个企业系统。奇瑞刻意与通用大模型划清界限，主打制造与物理场景。",
+      "why": "车企自研垂类大模型正成为新趋势，背后是数据闭环与场景落地的现实考量。对AI从业者而言，垂类模型+自研芯片的组合意味着岗位机会从通用大模型向行业落地迁移，值得关注汽车、制造等实体行业的AI岗位增量。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:大模型",
+        "url": "https://www.msn.cn/zh-cn/news/other/%E5%A5%87%E7%91%9E%E5%8F%91%E5%B8%83cherymind%E5%9E%82%E7%B1%BB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%B4%AB%E5%BE%AE%E8%8A%AF%E7%89%87-%E6%89%93%E9%80%9A400%E5%A4%9A%E4%B8%AA%E4%BC%81%E4%B8%9A%E7%B3%BB%E7%BB%9F/ar-AA2fFzNS"
+      },
+      "image": {
+        "url": "",
+        "alt": "奇瑞发布CheryMind垂类大模型与紫微芯片，打通400多个企业系统"
+      },
+      "matchedKeywords": [
+        "奇瑞",
+        "垂类大模型",
+        "紫微芯片"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "大学 / 专业 / 就业",
+      "title": "大行秋招缩编：AI替代柜员岗，金融科技需求增",
+      "summary": "国有大行HR透露，客服、柜台、管理支持等重复性岗位正被AI替代，秋招岗位数量压缩；与此同时金融科技研发、风控合规、营销岗位需求持续增加。智联招聘数据显示，应届生数据工程师岗位同比增长57.4%，芯片工程师增长43.6%，AI工程师增长36.9%。",
+      "why": "这是AI对就业结构影响最直接的一份一线样本：被替代的是标准化岗位，增量在技术与风控。对正在选专业和求职的读者，信号很明确——纯执行类岗位收缩，复合型技术岗与AI相关岗位是当前校招的确定性方向。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:校招 秋招",
+        "url": "https://www.infoq.cn/article/ywvgVDVLsSU7r47Jk6lq?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/f4/d6/f4dc7b49ab13bc9eab2d630366a06ed6.jpg",
+        "alt": "大行秋招缩编：AI替代柜员岗，金融科技需求增"
+      },
+      "matchedKeywords": [
+        "秋招",
+        "AI替代",
+        "金融科技"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/39xM9CkCb4jcZ9yra6o6?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/0d/4e/0d54e45a2b5a56721e652aa946c4e24e.jpg",
+        "alt": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "三十而立，奇瑞不想只做一家汽车公司",
+      "summary": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/QR-1-scaled.jpg",
+        "alt": "三十而立，奇瑞不想只做一家汽车公司"
+      }
+    }
+  ]
+}
