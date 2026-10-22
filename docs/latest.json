@@ -1,110 +1,97 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-21T01:50:09.315Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-22T01:41:23.356Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "美国政府禁用DeepSeek、Meta Muse泄露隐私、苹果触屏Mac定档，AI治理与硬件变局同日至。",
+  "overview": "Meta与Anthropic同日加码个人AI智能体，Agent入口战升级；AI发现PHP远古漏洞引发全网应急，安全与就业结构同步生变。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 119,
+    "afterDedup": 120,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 26184
+    "durationMs": 13457
   },
   "items": [
     {
       "rank": 1,
-      "topic": "科技产品与硬件",
-      "title": "美政府令联邦机构全面移除DeepSeek",
-      "summary": "TechCrunch报道，美国政府以国家安全为由，要求联邦文职机构从系统中移除DeepSeek产品及基于其技术构建的第三方服务。这是继此前多轮审查后首次落到联邦机构层面的强制清除指令，涉及范围包括直接部署与间接集成。",
-      "why": "这是中美AI生态脱钩从芯片、模型出口管制延伸到政府终端采购的标志性一步。对国内大模型厂商而言，海外政企市场窗口进一步收窄；对读者所在企业，若涉及跨境业务或使用第三方AI服务，需尽快排查DeepSeek依赖链的合规风险。",
-      "divergence": "",
+      "topic": "AI / Agent / 大模型",
+      "title": "Meta发新股融资AI，Muse用户破千万",
+      "summary": "Meta在Q3财报中宣布设立无投票权新股类别，为AI投入开辟融资通道；同时披露智能体Muse上线后用户已超1000万，约四分之一用户用它购物，人均日消费约200美元。扎克伯格称公司正“进入新阶段”，预期Muse的单用户收入将超过现有应用。",
+      "why": "这是大型平台首次把“AI智能体”直接当作可变现的核心资产来融资和讲故事，意味着Agent从功能试验转入收入模型验证阶段。对从业者而言，购物代理的转化数据将成为衡量Agent商业价值的新基准，也会加速电商与支付接口的开放竞争。",
+      "divergence": "Meta强调Muse增长与购物变现潜力，但第三方尚未独立验证其用户活跃度与消费数据口径。",
       "source": {
         "name": "TechCrunch AI",
-        "url": "https://sspai.com/post/116887"
+        "url": "https://www.msn.cn/zh-cn/money/%E6%8A%80%E6%9C%AF/%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86%E4%B8%A8ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A-%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%AB-%E9%9D%A0%E8%B0%B1%E5%90%97/ar-AA2fLHA4"
       },
       "image": {
         "url": "",
-        "alt": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等"
+        "alt": "真相来了丨AI大模型付费权益“低价共享”靠谱吗？"
       },
-      "matchedKeywords": [
-        "DeepSeek",
-        "美国政府",
-        "国家安全"
-      ]
+      "matchedKeywords": []
     },
     {
       "rank": 2,
-      "topic": "AI / Agent / 大模型",
-      "title": "奇瑞发布CheryMind垂类大模型与紫微芯片",
-      "summary": "奇瑞在全球创新大会上发布定位“为物理AI而生”的垂类基础大模型CheryMind，同时亮出紫微芯片与人形机器人“墨宝”，称已打通400多个企业系统。奇瑞刻意与通用大模型划清界限，主打制造与物理场景。",
-      "why": "车企自研垂类大模型正成为新趋势，背后是数据闭环与场景落地的现实考量。对AI从业者而言，垂类模型+自研芯片的组合意味着岗位机会从通用大模型向行业落地迁移，值得关注汽车、制造等实体行业的AI岗位增量。",
-      "divergence": "",
+      "topic": "大学 / 专业 / 就业",
+      "title": "Anthropic初级岗位占比一年半降33%",
+      "summary": "InfoQ报道，Anthropic初级员工招聘占比在一年半内骤降33%，几乎停招初级岗位；同时内部Agent承担的工作工时已是员工的6倍。这一变化发生在该公司冲刺IPO、扩大云算力投入的背景下。",
+      "why": "头部AI公司自身的用人结构就是行业风向标：入门级编码与研究工作正被Agent承接，校招与转行路径被压缩。对读者而言，这意味着“先做初级岗再成长”的传统职业阶梯正在变窄，技能组合需更早向系统设计与Agent编排倾斜。",
+      "divergence": "报道将停招归因于Agent替代，但公司未公开确认，也可能与IPO前的成本控制和招聘节奏调整有关。",
       "source": {
-        "name": "Bing:大模型",
-        "url": "https://www.msn.cn/zh-cn/news/other/%E5%A5%87%E7%91%9E%E5%8F%91%E5%B8%83cherymind%E5%9E%82%E7%B1%BB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%B4%AB%E5%BE%AE%E8%8A%AF%E7%89%87-%E6%89%93%E9%80%9A400%E5%A4%9A%E4%B8%AA%E4%BC%81%E4%B8%9A%E7%B3%BB%E7%BB%9F/ar-AA2fFzNS"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "奇瑞发布CheryMind垂类大模型与紫微芯片，打通400多个企业系统"
+        "url": "https://static001.infoq.cn/resource/image/19/36/195b13b365fbf74050cb9c25b9530936.png",
+        "alt": "Anthropic初级岗位占比一年半降33%"
       },
-      "matchedKeywords": [
-        "奇瑞",
-        "垂类大模型",
-        "紫微芯片"
-      ]
+      "matchedKeywords": []
     },
     {
       "rank": 3,
-      "topic": "大学 / 专业 / 就业",
-      "title": "大行秋招缩编：AI替代柜员岗，金融科技需求增",
-      "summary": "国有大行HR透露，客服、柜台、管理支持等重复性岗位正被AI替代，秋招岗位数量压缩；与此同时金融科技研发、风控合规、营销岗位需求持续增加。智联招聘数据显示，应届生数据工程师岗位同比增长57.4%，芯片工程师增长43.6%，AI工程师增长36.9%。",
-      "why": "这是AI对就业结构影响最直接的一份一线样本：被替代的是标准化岗位，增量在技术与风控。对正在选专业和求职的读者，信号很明确——纯执行类岗位收缩，复合型技术岗与AI相关岗位是当前校招的确定性方向。",
-      "divergence": "",
-      "source": {
-        "name": "Bing:校招 秋招",
-        "url": "https://www.infoq.cn/article/ywvgVDVLsSU7r47Jk6lq?utm_source=rss&utm_medium=article"
-      },
-      "image": {
-        "url": "https://static001.infoq.cn/resource/image/f4/d6/f4dc7b49ab13bc9eab2d630366a06ed6.jpg",
-        "alt": "大行秋招缩编：AI替代柜员岗，金融科技需求增"
-      },
-      "matchedKeywords": [
-        "秋招",
-        "AI替代",
-        "金融科技"
-      ]
-    },
-    {
-      "rank": 4,
       "topic": "AI / Agent / 大模型",
-      "title": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/39xM9CkCb4jcZ9yra6o6?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/0d/4e/0d54e45a2b5a56721e652aa946c4e24e.jpg",
-        "alt": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%"
+        "url": "https://static001.infoq.cn/resource/image/f0/c0/f0dd13ddeyy8378e96c4652a0011bec0.jpg",
+        "alt": "AWS Lambda推动无服务器向长时间运行的工作负载发展"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+      "summary": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/banner-colored-n.jpg",
+        "alt": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切"
       }
     },
     {
       "rank": 5,
       "topic": "科技产品与硬件",
-      "title": "三十而立，奇瑞不想只做一家汽车公司",
-      "summary": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。 查看全文",
       "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "爱范儿",
-        "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign="
+        "name": "少数派",
+        "url": "https://sspai.com/post/116953"
       },
       "image": {
-        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/QR-1-scaled.jpg",
-        "alt": "三十而立，奇瑞不想只做一家汽车公司"
+        "url": "https://rssfile.sspai.com/21/10/2026/article/e0b034aa-3988-71f1-2919-11d990dedbaa.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1",
+        "alt": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等"
       }
     }
   ]

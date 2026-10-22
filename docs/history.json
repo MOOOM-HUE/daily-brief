@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/money/%e6%8a%80%e6%9c%af/%e7%9c%9f%e7%9b%b8%e6%9d%a5%e4%ba%86%e4%b8%a8ai%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%bb%98%e8%b4%b9%e6%9d%83%e7%9b%8a-%e4%bd%8e%e4%bb%b7%e5%85%b1%e4%ba%ab-%e9%9d%a0%e8%b0%b1%e5%90%97/ar-aa2flha4",
+      "title": "Meta发新股融资AI，Muse用户破千万",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-21"
+    },
+    {
+      "key": "u:infoq.cn/article/btvdayaujy2ovnlyuhgz",
+      "title": "Anthropic初级岗位占比一年半降33%",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-21"
+    },
+    {
+      "key": "u:infoq.cn/article/0vwvmhufb66sbofwsvrz",
+      "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-21"
+    },
+    {
+      "key": "u:ifanr.com/1685251",
+      "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-21"
+    },
+    {
+      "key": "u:sspai.com/post/116953",
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-21"
+    },
+    {
       "key": "u:sspai.com/post/116887",
       "title": "美政府令联邦机构全面移除DeepSeek",
       "topic": "科技产品与硬件",
@@ -839,37 +869,7 @@
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-22"
-    },
-    {
-      "key": "u:ifanr.com/1681350",
-      "title": "Meta智能体Muse爆红，AMD市值破万亿",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-21"
-    },
-    {
-      "key": "u:yicai.com/news/103373086.html",
-      "title": "加州、欧盟同时收紧AI数据中心能耗监管",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-21"
-    },
-    {
-      "key": "u:ifanr.com/1679313",
-      "title": "不列颠哥伦比亚省起诉OpenAI与奥特曼",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-21"
-    },
-    {
-      "key": "u:engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/",
-      "title": "浪潮发布超节点服务器，单机跑2.8万亿参数",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-21"
-    },
-    {
-      "key": "u:infoq.cn/article/slzsm1qr5i1qji0jazjr",
-      "title": "Rustls 十周年：发展历程、基准测试与未来路线图",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-21"
     }
   ],
-  "updatedAt": "2026-10-21T01:50:09.316Z"
+  "updatedAt": "2026-10-22T01:41:23.357Z"
 }

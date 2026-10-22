@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-22T01:41:23.356Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "Meta与Anthropic同日加码个人AI智能体，Agent入口战升级；AI发现PHP远古漏洞引发全网应急，安全与就业结构同步生变。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 13457
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "Meta发新股融资AI，Muse用户破千万",
+      "summary": "Meta在Q3财报中宣布设立无投票权新股类别，为AI投入开辟融资通道；同时披露智能体Muse上线后用户已超1000万，约四分之一用户用它购物，人均日消费约200美元。扎克伯格称公司正“进入新阶段”，预期Muse的单用户收入将超过现有应用。",
+      "why": "这是大型平台首次把“AI智能体”直接当作可变现的核心资产来融资和讲故事，意味着Agent从功能试验转入收入模型验证阶段。对从业者而言，购物代理的转化数据将成为衡量Agent商业价值的新基准，也会加速电商与支付接口的开放竞争。",
+      "divergence": "Meta强调Muse增长与购物变现潜力，但第三方尚未独立验证其用户活跃度与消费数据口径。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.msn.cn/zh-cn/money/%E6%8A%80%E6%9C%AF/%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86%E4%B8%A8ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A-%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%AB-%E9%9D%A0%E8%B0%B1%E5%90%97/ar-AA2fLHA4"
+      },
+      "image": {
+        "url": "",
+        "alt": "真相来了丨AI大模型付费权益“低价共享”靠谱吗？"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "Anthropic初级岗位占比一年半降33%",
+      "summary": "InfoQ报道，Anthropic初级员工招聘占比在一年半内骤降33%，几乎停招初级岗位；同时内部Agent承担的工作工时已是员工的6倍。这一变化发生在该公司冲刺IPO、扩大云算力投入的背景下。",
+      "why": "头部AI公司自身的用人结构就是行业风向标：入门级编码与研究工作正被Agent承接，校招与转行路径被压缩。对读者而言，这意味着“先做初级岗再成长”的传统职业阶梯正在变窄，技能组合需更早向系统设计与Agent编排倾斜。",
+      "divergence": "报道将停招归因于Agent替代，但公司未公开确认，也可能与IPO前的成本控制和招聘节奏调整有关。",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/19/36/195b13b365fbf74050cb9c25b9530936.png",
+        "alt": "Anthropic初级岗位占比一年半降33%"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/f0/c0/f0dd13ddeyy8378e96c4652a0011bec0.jpg",
+        "alt": "AWS Lambda推动无服务器向长时间运行的工作负载发展"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+      "summary": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/banner-colored-n.jpg",
+        "alt": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。 查看全文",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "少数派",
+        "url": "https://sspai.com/post/116953"
+      },
+      "image": {
+        "url": "https://rssfile.sspai.com/21/10/2026/article/e0b034aa-3988-71f1-2919-11d990dedbaa.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1",
+        "alt": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等"
+      }
+    }
+  ]
+}
