@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/glavft7pwdz53mbgpbgc",
+      "title": "OpenAI拟按1.25万亿美元估值融资300亿",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-22"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e4%b8%8d%e6%ad%a2%e5%8d%96%e8%8a%af%e7%89%87-%e8%8b%b1%e4%bc%9f%e8%be%be%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83ai%e5%b7%a5%e5%8e%82%e8%bf%90%e7%bb%b4%e5%b9%b3%e5%8f%b0minerva/ar-aa2frt16",
+      "title": "英伟达发布AI工厂运维平台Minerva",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-22"
+    },
+    {
+      "key": "u:infoq.cn/article/vioyxiosp2ihxuuyg1rd",
+      "title": "DeepSeek据报完成150亿美元融资",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-22"
+    },
+    {
+      "key": "u:infoq.cn/article/pwu4fnsksb2cbkv9bzkq",
+      "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-22"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-22"
+    },
+    {
       "key": "u:msn.cn/zh-cn/money/%e6%8a%80%e6%9c%af/%e7%9c%9f%e7%9b%b8%e6%9d%a5%e4%ba%86%e4%b8%a8ai%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%bb%98%e8%b4%b9%e6%9d%83%e7%9b%8a-%e4%bd%8e%e4%bb%b7%e5%85%b1%e4%ba%ab-%e9%9d%a0%e8%b0%b1%e5%90%97/ar-aa2flha4",
       "title": "Meta发新股融资AI，Muse用户破千万",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
       "topic": "科技产品与硬件",
       "date": "2026-09-23"
-    },
-    {
-      "key": "u:sohu.com/a/1079578009_122492786",
-      "title": "OpenAI与Anthropic同日发新模型，价格战升级",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-22"
-    },
-    {
-      "key": "u:sohu.com/a/1079639229_121276387",
-      "title": "阿里平头哥发布最强国产AI芯片真武V900",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-22"
-    },
-    {
-      "key": "u:infoq.cn/article/3tjh8fzzinb50qzz9tjx",
-      "title": "高通发布两款2纳米旗舰芯片，主打端侧Agent",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-22"
-    },
-    {
-      "key": "u:infoq.cn/article/izptfj6mjkyfd03qfhk9",
-      "title": "Cloudflare 测试通过缓存转码来减少存储需求",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-22"
-    },
-    {
-      "key": "u:theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-22"
     }
   ],
-  "updatedAt": "2026-10-22T01:41:23.357Z"
+  "updatedAt": "2026-10-23T01:44:21.708Z"
 }
