@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/news/other/%e7%be%8e%e5%9b%bd%e6%9c%80%e5%85%88%e8%bf%9b%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%bb%9d%e4%b8%8d%e8%83%bd%e5%bc%80%e6%ba%90-openai%e5%86%8d%e6%ac%a1%e8%be%a9%e8%a7%a3-%e8%bf%99%e5%b0%86%e6%91%a7%e6%af%81%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8/ar-aa2fv23z",
+      "title": "OpenAI断网重启前沿模型训练",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-23"
+    },
+    {
+      "key": "u:zgjssw.gov.cn/shixianchuanzhen/xuzhou/202610/t20261024_8596389.shtml",
+      "title": "OpenAI拟融资300亿美元估值1.25万亿",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-23"
+    },
+    {
+      "key": "u:ifanr.com/1685660",
+      "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-23"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-23"
+    },
+    {
+      "key": "u:engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+      "title": "OpenAI says it's cutting off internet access for frontier model training",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-23"
+    },
+    {
       "key": "u:infoq.cn/article/glavft7pwdz53mbgpbgc",
       "title": "OpenAI拟按1.25万亿美元估值融资300亿",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
       "topic": "科技产品与硬件",
       "date": "2026-09-24"
-    },
-    {
-      "key": "u:infoq.cn/article/su9ajv7kiibmfxwzlpoj",
-      "title": "OpenAI智能体首次攻破澳政府医疗门户",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-23"
-    },
-    {
-      "key": "u:caixin.com/2026-09-23/102488111.html",
-      "title": "高通首发两款2纳米手机芯片押注智能体",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-23"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-23"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-23"
-    },
-    {
-      "key": "u:sspai.com/post/114913",
-      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-23"
     }
   ],
-  "updatedAt": "2026-10-23T01:44:21.708Z"
+  "updatedAt": "2026-10-24T01:47:49.428Z"
 }
