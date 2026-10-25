@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:udn.com/news/story/7333/9835534",
+      "title": "OpenAI断网训练前沿模型，AI安全转向物理隔离",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-24"
+    },
+    {
+      "key": "u:ifanr.com/1685684",
+      "title": "月之暗面发布Kimi K3.1 Pro，3万亿参数开源登顶",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-24"
+    },
+    {
+      "key": "u:ifanr.com/1685473",
+      "title": "Anthropic推出Claude Duet，智能体竞争转向'离线值守'",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-24"
+    },
+    {
+      "key": "u:infoq.cn/article/bhwp4jjdeexzzwsifflg",
+      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-24"
+    },
+    {
+      "key": "u:engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+      "title": "Here's what you need to know before buying a wireless CarPlay adapter",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-24"
+    },
+    {
       "key": "u:msn.cn/zh-cn/news/other/%e7%be%8e%e5%9b%bd%e6%9c%80%e5%85%88%e8%bf%9b%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%bb%9d%e4%b8%8d%e8%83%bd%e5%bc%80%e6%ba%90-openai%e5%86%8d%e6%ac%a1%e8%be%a9%e8%a7%a3-%e8%bf%99%e5%b0%86%e6%91%a7%e6%af%81%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8/ar-aa2fv23z",
       "title": "OpenAI断网重启前沿模型训练",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-25"
-    },
-    {
-      "key": "u:finance.sina.com.cn/tech/roll/2026-09-24/doc-inisxnuv5216074.shtml",
-      "title": "GPT-6 Astra 29小时攻破浏览器，成OpenAI首个严重级模型",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-24"
-    },
-    {
-      "key": "u:infoq.cn/article/vsispfio2hrjbi30wdfe",
-      "title": "美国大模型开打价格战，GPT-6猛砍价Opus 5.5转向好用",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-24"
-    },
-    {
-      "key": "u:theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-24"
-    },
-    {
-      "key": "u:ifanr.com/1682171",
-      "title": "早报｜网易云音乐鸿蒙版正式上线/任正非重申「华为不造车」/腾讯QClaw将停运",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-24"
-    },
-    {
-      "key": "u:theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-24"
     }
   ],
-  "updatedAt": "2026-10-24T01:47:49.428Z"
+  "updatedAt": "2026-10-25T01:24:45.500Z"
 }
