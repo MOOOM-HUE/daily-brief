@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-26T01:28:42.039Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "SpaceX举债400亿美元买GPU、英伟达拟按GPU收智能体软件费，算力资本化加速；国内政策与就业结构同步生变。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 118,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 18088
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "SpaceX举债400亿美元购GPU，马斯克预警新云洗牌",
+      "summary": "马斯克10月25日在X上确认，SpaceX已完成400亿美元债务融资，主要用于采购英伟达GPU，芯片预计2027年上半年交付，资金依托Starlink收入与发射业务支撑。他同时预警neocloud（新兴GPU云）将出现一轮洗牌。",
+      "why": "这是迄今单笔规模最大的GPU采购融资之一，说明AI算力正从股权融资转向举债扩张，风险开始向债券投资者转移。对关注算力产业链的读者，需重新评估英伟达订单的可持续性与新兴GPU云的信用风险。",
+      "divergence": "部分报道强调SpaceX借此获得投资级信用、扩张AI业务；也有分析指出其以Starlink现金流加杠杆，一旦芯片交付或需求节奏错配，偿债压力将放大。",
+      "source": {
+        "name": "Bing:NVIDIA chip launch",
+        "url": "https://www.msn.cn/zh-cn/money/%E6%8A%80%E6%9C%AF/%E6%B9%96%E5%8D%97%E7%9C%81%E7%BD%91%E4%BF%A1%E5%8A%9E%E9%9B%86%E4%B8%AD%E7%BA%A6%E8%B0%88%E6%9F%90%E6%96%87%E5%8C%96%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%E7%AD%894%E5%AE%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%90%A5%E5%8D%95%E4%BD%8D/ar-AA2g2xdG"
+      },
+      "image": {
+        "url": "",
+        "alt": "湖南省网信办集中约谈某文化传媒公司等4家大模型运营单位"
+      },
+      "matchedKeywords": [
+        "GPU",
+        "SpaceX",
+        "英伟达",
+        "算力"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "国务院发文：AI发展须构建就业友好型方式",
+      "summary": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，要求放大AI创造岗位、赋能传统岗位的正面效应，减缓替代冲击，并鼓励高校、职业学校超常规布局人工智能相关学科专业、动态优化专业设置。",
+      "why": "这是把AI就业影响纳入国家政策框架的标志性文件，高校专业设置将被直接牵引。对考生与家长，AI相关专业的扩招与调整会加速；对在职者，政策信号意味着岗位转型支持与技能培训资源将增加。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:人工智能 行业",
+        "url": "https://www.myzaker.com/article/6ade8af68e9f095769432ad5"
+      },
+      "image": {
+        "url": "",
+        "alt": "高分报了 AI 专业，毕业薪资却不如材料机械？"
+      },
+      "matchedKeywords": [
+        "就业",
+        "学科专业",
+        "政策"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "CircleCI 正式发布 Machine Runner Orchestrator",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/e5/46/e587949f5c1d301656a6a60661bb5f46.jpg",
+        "alt": "CircleCI 正式发布 Machine Runner Orchestrator"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+      "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/7M305348-scaled.jpg",
+        "alt": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "Can you run regular Ethernet cables outside?",
+      "summary": "Just because you can do something doesn't mean you should.",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/"
+      },
+      "image": {
+        "url": "https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg",
+        "alt": "Can you run regular Ethernet cables outside?"
+      },
+      "translation": {
+        "title": "普通以太网线可以在户外使用吗？",
+        "summary": "能做某事并不意味着就应该去做。",
+        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    }
+  ]
+}

@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/money/%e6%8a%80%e6%9c%af/%e6%b9%96%e5%8d%97%e7%9c%81%e7%bd%91%e4%bf%a1%e5%8a%9e%e9%9b%86%e4%b8%ad%e7%ba%a6%e8%b0%88%e6%9f%90%e6%96%87%e5%8c%96%e4%bc%a0%e5%aa%92%e5%85%ac%e5%8f%b8%e7%ad%894%e5%ae%b6%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%bf%90%e8%90%a5%e5%8d%95%e4%bd%8d/ar-aa2g2xdg",
+      "title": "SpaceX举债400亿美元购GPU，马斯克预警新云洗牌",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-25"
+    },
+    {
+      "key": "u:myzaker.com/article/6ade8af68e9f095769432ad5",
+      "title": "国务院发文：AI发展须构建就业友好型方式",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-25"
+    },
+    {
+      "key": "u:infoq.cn/article/y7yqmp1p42uj69h1c6uf",
+      "title": "CircleCI 正式发布 Machine Runner Orchestrator",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-25"
+    },
+    {
+      "key": "u:ifanr.com/1685755",
+      "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-25"
+    },
+    {
+      "key": "u:engadget.com/2294283/ethernet-cables-use-outside-explained/",
+      "title": "Can you run regular Ethernet cables outside?",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-25"
+    },
+    {
       "key": "u:udn.com/news/story/7333/9835534",
       "title": "OpenAI断网训练前沿模型，AI安全转向物理隔离",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
       "topic": "科技产品与硬件",
       "date": "2026-09-26"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "title": "OpenAI承认失控Agent波及数十家机构并泄露用户图片",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-25"
-    },
-    {
-      "key": "u:sspai.com/post/114957",
-      "title": "Anthropic签116亿美元云协议并谋求IPO前创始人控股权",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-25"
-    },
-    {
-      "key": "u:news.ifeng.com/c/8wismpbh0bk",
-      "title": "Meta Muse登顶应用榜，AI Agent竞争格局生变",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-25"
-    },
-    {
-      "key": "u:infoq.cn/article/gk4rwsqg09pwtftzlje3",
-      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-25"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-25"
     }
   ],
-  "updatedAt": "2026-10-25T01:24:45.500Z"
+  "updatedAt": "2026-10-26T01:28:42.041Z"
 }
