@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-28T02:30:01.855Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "苹果M6芯片Mac发布、OpenAI自证数学突破却遭质疑、OpenAI拟购谷歌芯片、Anthropic IPO治理与亚马逊获利、AI代理安全与就业筛选争议。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 16156
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "OpenAI宣称AI证明三大数学难题，学界质疑其封闭",
+      "summary": "OpenAI 10月26日宣布其模型在数学、计算机科学和物理学取得三项新发现，包括反驳指数时间假设（ETH）并触及千禧年难题的一部分。TechCrunch采访了负责解读该成果的MIT计算机科学家，The Verge则报道研究者对OpenAI不公开突破细节、把持成果的做法日益不满。",
+      "why": "若ETH被证伪，将动摇理论计算机科学的基础假设；但OpenAI以安全为由不公开方法与证明，正引发学界对'可验证性'的公开争论。对从事算法、密码学与理论研究的读者，这既是机会也是判断AI科研可信度的试金石。",
+      "divergence": "OpenAI称已取得可复现的重大数学突破，部分研究者则认为缺少公开证明与同行评审，结论尚不能采信。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/7b/03/7b58477c3c62157727ed50f6b2026d03.jpg",
+        "alt": "OpenAI宣称AI证明三大数学难题，学界质疑其封闭"
+      },
+      "matchedKeywords": [
+        "OpenAI",
+        "数学突破",
+        "ETH"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+      "summary": "AI 眼镜既要好看好戴，也要拍得好、够聪明，刚刚发布的 Rokid Glasses 2 就做到了，显示清晰、戴着好看、画质优秀而且 AI 好用好玩，让我一个不戴眼镜的人也愿意每天出门都戴上它。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/Rokid20261027.jpg",
+        "alt": "Rokid Glasses 2：想每天戴的 AI 眼镜"
+      }
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+        "alt": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more"
+      },
+      "translation": {
+        "title": "风投将从Anthropic的IPO中获利数十亿美元，但亚马逊将赚得（多得多）更多",
+        "summary": "大规模票据转换揭示了亚马逊在Anthropic持股的真实规模。",
+        "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "苹果终于对「摇一摇」广告动手了！",
+      "summary": "众生苦摇一摇广告久矣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/ifanr-paste-1793148893896-1.jpg",
+        "alt": "苹果终于对「摇一摇」广告动手了！"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+      "summary": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/Mac-scaled.jpg",
+        "alt": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告"
+      }
+    }
+  ]
+}

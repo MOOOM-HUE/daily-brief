@@ -1,110 +1,106 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-27T02:17:35.261Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-28T02:30:01.855Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "Anthropic递交IPO文件、博通630亿美元芯片融资、OpenAI新模型降价与数学突破，AI资本与算力竞赛全面提速。",
+  "overview": "苹果M6芯片Mac发布、OpenAI自证数学突破却遭质疑、OpenAI拟购谷歌芯片、Anthropic IPO治理与亚马逊获利、AI代理安全与就业筛选争议。",
   "stats": {
     "candidates": 120,
     "afterDedup": 119,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 14488
+    "durationMs": 16156
   },
   "items": [
     {
       "rank": 1,
-      "topic": "科技产品与硬件",
-      "title": "Anthropic递交IPO文件，冲击史上最大IPO",
-      "summary": "Anthropic正式向SEC提交S-1招股书，披露营收高速增长但亏损扩大，企业客户采用率高，并采用特殊治理结构。公司计划抢先OpenAI上市，同时公开其用Claude平台与自有应用交叉销售锁定企业客户的策略。",
-      "why": "这是大模型公司首次以公开市场标准接受审视，招股书暴露的亏损结构、算力成本与客户留存数据，将成为判断AI泡沫与否的关键参照。对关注AI行业估值和就业机会的读者，这份文件是理解头部模型公司商业模式的原始材料。",
-      "divergence": "部分媒体强调其营收飙升与企业渗透，另一些则聚焦巨额亏损与AI泡沫风险，对上市时机解读不一。",
+      "topic": "AI / Agent / 大模型",
+      "title": "OpenAI宣称AI证明三大数学难题，学界质疑其封闭",
+      "summary": "OpenAI 10月26日宣布其模型在数学、计算机科学和物理学取得三项新发现，包括反驳指数时间假设（ETH）并触及千禧年难题的一部分。TechCrunch采访了负责解读该成果的MIT计算机科学家，The Verge则报道研究者对OpenAI不公开突破细节、把持成果的做法日益不满。",
+      "why": "若ETH被证伪，将动摇理论计算机科学的基础假设；但OpenAI以安全为由不公开方法与证明，正引发学界对'可验证性'的公开争论。对从事算法、密码学与理论研究的读者，这既是机会也是判断AI科研可信度的试金石。",
+      "divergence": "OpenAI称已取得可复现的重大数学突破，部分研究者则认为缺少公开证明与同行评审，结论尚不能采信。",
       "source": {
         "name": "TechCrunch AI",
-        "url": "https://wap.cj.sina.cn/pc/7x24/5171109"
+        "url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "博通与华尔街达成630亿美元融资交易 支持向Anthropic供应芯片"
-      },
-      "matchedKeywords": [
-        "Anthropic",
-        "IPO",
-        "S-1"
-      ]
-    },
-    {
-      "rank": 2,
-      "topic": "AI / Agent / 大模型",
-      "title": "OpenAI发布GPT-6.1 Terra，价格减半并宣称证明ETH不成立",
-      "summary": "OpenAI推出GPT-6.1 Terra，称在复杂电脑操作任务上达到GPT-6 Astra级别表现，而token价格仅为后者约10%。同期公司宣布三项数学与科学新发现，并称其模型否证了计算复杂性理论中的指数时间假说（ETH）。",
-      "why": "以十分之一价格提供接近旗舰的能力，会直接压缩竞品定价空间并加速Agent类应用落地。而ETH声明若被学界验证，将是AI辅助科研的标志性事件；若被证伪，则暴露AI成果宣称的审慎问题。",
-      "divergence": "OpenAI称已否证ETH并称将改变计算机科学，但审阅专家表示结论仍需严格验证，学界对其证明完整性存在质疑。",
-      "source": {
-        "name": "Bing:OpenAI",
-        "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article"
-      },
-      "image": {
-        "url": "https://static001.infoq.cn/resource/image/0e/5c/0e7821cb89fffc1880ac458297ccd95c.png",
-        "alt": "OpenAI发布GPT-6.1 Terra，价格减半并宣称证明ETH不成立"
+        "url": "https://static001.infoq.cn/resource/image/7b/03/7b58477c3c62157727ed50f6b2026d03.jpg",
+        "alt": "OpenAI宣称AI证明三大数学难题，学界质疑其封闭"
       },
       "matchedKeywords": [
         "OpenAI",
-        "GPT-6.1",
+        "数学突破",
         "ETH"
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "topic": "科技产品与硬件",
-      "title": "微软向6万员工提供自愿买断，超全球员工四分之一",
-      "summary": "微软向美国、英国、加拿大和印度最多6万名员工提供自愿离职买断方案，首席人事官在内部信中说明此举为削减成本。这是AI投资挤压传统人力开支的最新信号。",
-      "why": "头部科技公司一边加码AI资本开支，一边压缩人力，说明AI对白领岗位的替代正从讨论进入组织调整阶段。对关注就业与职业选择的读者，这类买断方案是判断科技行业招聘收缩的重要先行指标。",
+      "title": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+      "summary": "AI 眼镜既要好看好戴，也要拍得好、够聪明，刚刚发布的 Rokid Glasses 2 就做到了，显示清晰、戴着好看、画质优秀而且 AI 好用好玩，让我一个不戴眼镜的人也愿意每天出门都戴上它。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/"
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg",
-        "alt": "6+ ways you can use your PlayStation 5's USB ports"
-      },
-      "matchedKeywords": [
-        "微软",
-        "买断",
-        "裁员"
-      ]
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/Rokid20261027.jpg",
+        "alt": "Rokid Glasses 2：想每天戴的 AI 眼镜"
+      }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "topic": "AI / Agent / 大模型",
-      "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
-      "summary": "点击查看原文>",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article"
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/d0/08/d015cf78241a3722204b9b702286b408.jpg",
-        "alt": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet"
+        "url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+        "alt": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more"
+      },
+      "translation": {
+        "title": "风投将从Anthropic的IPO中获利数十亿美元，但亚马逊将赚得（多得多）更多",
+        "summary": "大规模票据转换揭示了亚马逊在Anthropic持股的真实规模。",
+        "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "苹果终于对「摇一摇」广告动手了！",
+      "summary": "众生苦摇一摇广告久矣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/ifanr-paste-1793148893896-1.jpg",
+        "alt": "苹果终于对「摇一摇」广告动手了！"
       }
     },
     {
       "rank": 5,
       "topic": "科技产品与硬件",
-      "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
-      "summary": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+      "summary": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "爱范儿",
-        "url": "https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign="
+        "url": "https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793063482025-30.jpg",
-        "alt": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/Mac-scaled.jpg",
+        "alt": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告"
       }
     }
   ]

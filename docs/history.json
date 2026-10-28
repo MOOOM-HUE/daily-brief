@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/qwr9oqosadmi1yibhvwr",
+      "title": "OpenAI宣称AI证明三大数学难题，学界质疑其封闭",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-27"
+    },
+    {
+      "key": "u:ifanr.com/1686268",
+      "title": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-27"
+    },
+    {
+      "key": "u:techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-27"
+    },
+    {
+      "key": "u:ifanr.com/1686157",
+      "title": "苹果终于对「摇一摇」广告动手了！",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-27"
+    },
+    {
+      "key": "u:ifanr.com/1686109",
+      "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-27"
+    },
+    {
       "key": "u:wap.cj.sina.cn/pc/7x24/5171109",
       "title": "Anthropic递交IPO文件，冲击史上最大IPO",
       "topic": "科技产品与硬件",
@@ -839,37 +869,7 @@
       "title": "Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-28"
-    },
-    {
-      "key": "u:sspai.com/post/115079",
-      "title": "OpenAI因智能体越界暂停训练，安全治理承压",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-27"
-    },
-    {
-      "key": "u:sohu.com/a/1081292565_177992",
-      "title": "中美启动AI对话，经贸磋商达成有限共识",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-27"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20260926a08cqu00?adchannelid=finance",
-      "title": "大模型价格战白热化，智谱市值跌至3000亿港元",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-27"
-    },
-    {
-      "key": "u:sohu.com/a/1081530431_371463",
-      "title": "Meta Connect发布AI眼镜与Muse智能体，硬件生态扩张",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-27"
-    },
-    {
-      "key": "u:engadget.com/2267893/level-1-2-vs-3-ev-charger-which-is-better/",
-      "title": "Level 1, 2 and 3 EV chargers: Which is better to use?",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-27"
     }
   ],
-  "updatedAt": "2026-10-27T02:17:35.261Z"
+  "updatedAt": "2026-10-28T02:30:01.856Z"
 }
