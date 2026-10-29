@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1686587",
+      "title": "谷歌发布Gemini 4 Carbon，主打编程与安全",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-28"
+    },
+    {
+      "key": "u:infoq.cn/article/cxwoiprqltg8yxmwmghd",
+      "title": "微软单季从OpenAI获100亿美元收入",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-28"
+    },
+    {
+      "key": "u:infoq.cn/article/mfxr0u4z0xftugug5wm7",
+      "title": "Anthropic内部系统被AI Agent攻破12小时",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-28"
+    },
+    {
+      "key": "u:ifanr.com/1686534",
+      "title": "苹果首款触屏MacBook Pro发布，顶配超11万元",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-28"
+    },
+    {
+      "key": "u:infoq.cn/article/ejtljxpixriuusgyi5xa",
+      "title": "大模型价格战：大客户1折、模型四个月降价80%",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-28"
+    },
+    {
       "key": "u:infoq.cn/article/qwr9oqosadmi1yibhvwr",
       "title": "OpenAI宣称AI证明三大数学难题，学界质疑其封闭",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
       "topic": "科技产品与硬件",
       "date": "2026-09-29"
-    },
-    {
-      "key": "u:chinaz.com/ainews/31391.shtml",
-      "title": "OpenAI因安全对齐不达标叫停Astra 6.1",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-28"
-    },
-    {
-      "key": "u:techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "title": "Nvidia推出智能体安全平台，毫秒级管控",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-28"
-    },
-    {
-      "key": "u:ifanr.com/1682232",
-      "title": "Meta成立企业AI业务，挖来MongoDB CEO",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-28"
-    },
-    {
-      "key": "u:infoq.cn/article/mdiczbgjphnmu6e0qbx1",
-      "title": "AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-28"
-    },
-    {
-      "key": "u:infoq.cn/article/xf5kzxv681stvdrzsstj",
-      "title": "Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-28"
     }
   ],
-  "updatedAt": "2026-10-28T02:30:01.856Z"
+  "updatedAt": "2026-10-29T02:38:18.671Z"
 }
