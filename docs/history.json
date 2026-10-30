@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:news.qq.com/rain/a/20261029a0e9ky00",
+      "title": "Reddit全面转向强制登录，AI搜索断流",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "u:infoq.cn/article/eqtckj5gqqymiqes22bo",
+      "title": "Anthropic取消编程面试，招聘逻辑生变",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%ae%9a%e4%b9%89%e8%8a%af%e7%89%87-xheart%e5%8f%91%e5%b8%83x7-ultra-%e9%87%8a%e6%94%be10%e5%80%8d%e6%a8%a1%e5%9e%8b%e5%8f%82%e6%95%b0/ar-aa2gmxck",
+      "title": "新芯航途发布X7 Ultra大模型智驾芯片",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e6%8b%9b%e5%95%86%e8%af%81%e5%88%b8%e6%8b%9f%e8%ae%be%e7%ab%8b50%e4%ba%bf%e5%85%83%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%ba%a7%e4%b8%9a%e7%a7%81%e5%8b%9f%e5%9f%ba%e9%87%91-%e6%8a%95%e5%90%91%e7%ae%97%e5%8a%9b%e5%8f%8a%e7%94%b5%e5%8a%9b%e4%ba%a7%e4%b8%9a%e9%93%be%e7%ad%89/ar-aa2gnlo6",
+      "title": "招商证券设50亿AI产业基金投算力电力",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-29"
+    },
+    {
+      "key": "u:infoq.cn/article/u23wuvudcfql7hlbwxuw",
+      "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-29"
+    },
+    {
       "key": "u:ifanr.com/1686587",
       "title": "谷歌发布Gemini 4 Carbon，主打编程与安全",
       "topic": "科技产品与硬件",
@@ -839,37 +869,7 @@
       "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
       "topic": "AI / Agent / 大模型",
       "date": "2026-09-30"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/autos/%e9%80%9a%e7%94%a8/%e5%b0%8f%e9%b9%8f%e9%9b%86%e5%9b%a2%e4%b8%8e%e6%96%91%e9%a9%ac%e6%99%ba%e8%83%bd%e8%81%94%e5%90%88%e6%89%93%e9%80%a0%e8%bd%a6%e8%a7%84%e7%ba%a7ai%e5%ba%a7%e8%88%b1%e7%ab%af%e4%be%a7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%96%b9%e6%a1%88/ar-aa2dexff",
-      "title": "OpenAI DevDay：Dots智能体与办公套件齐发",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-29"
-    },
-    {
-      "key": "u:infoq.cn/article/kaakqs6x5kislha5uvvz",
-      "title": "AMD 82亿美元全股票收购World Labs",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-29"
-    },
-    {
-      "key": "u:infoq.cn/article/obqpdcb1xurrjmrlrjz1",
-      "title": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-29"
-    },
-    {
-      "key": "u:infoq.cn/article/dbowzu6l6tr8nahcqrc8",
-      "title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-29"
-    },
-    {
-      "key": "u:ifanr.com/1682644",
-      "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-29"
     }
   ],
-  "updatedAt": "2026-10-29T02:38:18.671Z"
+  "updatedAt": "2026-10-30T02:46:23.231Z"
 }
