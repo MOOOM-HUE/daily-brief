@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T02:37:59.406Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "AI资本热潮现裂缝：OpenAI融资缩水、英特尔暴跌；苹果国行AI落地牵手千问，太空数据中心首响应。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 13532
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "OpenAI融资目标缩水百亿，估值1.25万亿",
+      "summary": "据FT与路透报道，OpenAI将最新一轮融资目标下调100亿美元，现寻求以1.25万亿美元估值募资200亿美元，低于原定300亿目标与1.4万亿估值。此前市场已传出其募资进度不及预期。",
+      "why": "这是AI资本热潮降温的最直接信号，头部公司估值与募资双双缩水，将影响后续大模型创业公司的融资环境与估值锚点。对关注AI行业就业与创业机会的读者，意味着行业从'讲故事'转向'看现金流'。",
+      "divergence": "TechCrunch称其仅募到300亿目标的一半以下，FT与路透则强调目标已主动下调至200亿，两者对'募资失败'还是'主动收缩'的解读存在分歧。",
+      "source": {
+        "name": "Bing:OpenAI",
+        "url": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/vgfca.jpg",
+        "alt": "OpenAI融资目标缩水百亿，估值1.25万亿"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "苹果国行AI官宣，千问接入Siri",
+      "summary": "苹果在中国官网宣布Apple Intelligence随iOS 27.3登陆中国市场，阿里千问成为Siri的新搭档。这是苹果AI在华落地的关键一步，但完整版Siri AI仍需等待。",
+      "why": "国行AI落地方式选择本土大模型合作，为'合规+本地化'提供了范本，也意味着阿里在大模型To C入口上拿到关键筹码。对开发者而言，iOS端AI能力开放节奏将直接影响应用生态机会。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/Apple-Intelligence-hero-CN_big.jpg.large_2x.jpg",
+        "alt": "苹果国行AI官宣，千问接入Siri"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/64/03/64aed3d76ceae3aa1151c6b612881903.jpg",
+        "alt": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/be/3f/bed55503e10aae7784f071a8e19e513f.jpg",
+        "alt": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "summary": "等了好久终于等到今天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/ifanr-paste-1793410532807-1.jpg",
+        "alt": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等"
+      }
+    }
+  ]
+}

@@ -1,99 +1,97 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-30T02:46:23.230Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T02:37:59.406Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "今日焦点：AI重塑流量与就业格局，国产大模型芯片与算力资本同步升温。",
+  "overview": "AI资本热潮现裂缝：OpenAI融资缩水、英特尔暴跌；苹果国行AI落地牵手千问，太空数据中心首响应。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 120,
+    "afterDedup": 119,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 13956
+    "durationMs": 13532
   },
   "items": [
     {
       "rank": 1,
-      "topic": "大学 / 专业 / 就业",
-      "title": "Reddit全面转向强制登录，AI搜索断流",
-      "summary": "Reddit宣布将要求所有用户登录才能浏览内容，先在美以外地区测试。CEO霍夫曼在财报电话会上直言谷歌AI Mode“不带来流量”，平台开放网页根基被迫收缩。",
-      "why": "这是AI搜索侵蚀内容平台流量后，头部社区首次以“封闭化”自保，可能引发更多内容方跟进限制抓取。对依赖公开数据训练与检索的AI产品，以及做SEO/内容分发的团队，成本与合规风险都会上升。",
-      "divergence": "部分媒体强调这是保护用户与商业收入的主动转型，也有观点认为这是搜索流量枯竭下的被动防守，且可能进一步削弱Reddit的开放网络影响力。",
+      "topic": "科技产品与硬件",
+      "title": "OpenAI融资目标缩水百亿，估值1.25万亿",
+      "summary": "据FT与路透报道，OpenAI将最新一轮融资目标下调100亿美元，现寻求以1.25万亿美元估值募资200亿美元，低于原定300亿目标与1.4万亿估值。此前市场已传出其募资进度不及预期。",
+      "why": "这是AI资本热潮降温的最直接信号，头部公司估值与募资双双缩水，将影响后续大模型创业公司的融资环境与估值锚点。对关注AI行业就业与创业机会的读者，意味着行业从'讲故事'转向'看现金流'。",
+      "divergence": "TechCrunch称其仅募到300亿目标的一半以下，FT与路透则强调目标已主动下调至200亿，两者对'募资失败'还是'主动收缩'的解读存在分歧。",
       "source": {
-        "name": "The Verge",
-        "url": "https://news.qq.com/rain/a/20261029A0E9KY00"
+        "name": "Bing:OpenAI",
+        "url": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://inews.gtimg.com/om_ls/O0HpVuWrgT7ke9ig5u2lrJVWHViHNgHx1A54opzC8dk_oAA_640330/0",
-        "alt": "Reddit全面转向强制登录，AI搜索断流"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/vgfca.jpg",
+        "alt": "OpenAI融资目标缩水百亿，估值1.25万亿"
       },
       "matchedKeywords": []
     },
     {
       "rank": 2,
-      "topic": "AI / Agent / 大模型",
-      "title": "Anthropic取消编程面试，招聘逻辑生变",
-      "summary": "Anthropic宣布取消编程面试环节，新人首次有机会直接与资深工程师同场竞争。此举被视为对传统算法刷题筛选机制的公开否定。",
-      "why": "头部AI公司率先改写工程师招聘标准，意味着“刷题能力”的权重下降，工程判断与协作能力更受重视。对准备求职的学生和转岗者，这是调整准备方向的明确信号，也可能被其他大厂效仿。",
+      "topic": "科技产品与硬件",
+      "title": "苹果国行AI官宣，千问接入Siri",
+      "summary": "苹果在中国官网宣布Apple Intelligence随iOS 27.3登陆中国市场，阿里千问成为Siri的新搭档。这是苹果AI在华落地的关键一步，但完整版Siri AI仍需等待。",
+      "why": "国行AI落地方式选择本土大模型合作，为'合规+本地化'提供了范本，也意味着阿里在大模型To C入口上拿到关键筹码。对开发者而言，iOS端AI能力开放节奏将直接影响应用生态机会。",
       "divergence": "",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/EQTckj5GQQymiQES22Bo?utm_source=rss&utm_medium=article"
+        "name": "The Verge AI",
+        "url": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/51/1b/5177e6d426834169ba41973dafe8c01b.png",
-        "alt": "Anthropic取消编程面试，招聘逻辑生变"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/Apple-Intelligence-hero-CN_big.jpg.large_2x.jpg",
+        "alt": "苹果国行AI官宣，千问接入Siri"
       },
       "matchedKeywords": []
     },
     {
       "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "新芯航途发布X7 Ultra大模型智驾芯片",
-      "summary": "XHEART新芯航途10月29日发布X7 Ultra，大模型算力700 TOPS，采用中国首发量产的Armv9车规级CPU，上汽、台积电、Momenta等产业伙伴到场。公司提出“让大模型定义芯片”。",
-      "why": "智驾芯片从多小模型转向端到端大模型承载，算力与工具链重构成为竞争焦点。国产车规芯片在量产节点上加速，对芯片、算法与整车供应链的岗位和合作格局都有直接影响。",
-      "divergence": "",
-      "source": {
-        "name": "IT之家",
-        "url": "https://www.msn.cn/zh-cn/news/other/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9A%E4%B9%89%E8%8A%AF%E7%89%87-xheart%E5%8F%91%E5%B8%83x7-ultra-%E9%87%8A%E6%94%BE10%E5%80%8D%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0/ar-AA2gmXCk"
-      },
-      "image": {
-        "url": "",
-        "alt": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数"
-      },
-      "matchedKeywords": []
-    },
-    {
-      "rank": 4,
       "topic": "AI / Agent / 大模型",
-      "title": "招商证券设50亿AI产业基金投算力电力",
-      "summary": "招商证券公告，全资子公司招商致远资本拟出资10亿元作为GP，联合招商公路等发起设立招商局（深圳）人工智能产业私募股权基金，总规模50亿元，投向算力及电力产业链等。",
-      "why": "券商系资本以“算力+电力”为切口布局AI基础设施，反映产业投资正从模型层转向底层供给。对创业者和从业者，这意味着算力、能源配套方向的融资与岗位机会增加。",
-      "divergence": "",
-      "source": {
-        "name": "Bing:人工智能 行业",
-        "url": "https://www.msn.cn/zh-cn/news/other/%E6%8B%9B%E5%95%86%E8%AF%81%E5%88%B8%E6%8B%9F%E8%AE%BE%E7%AB%8B50%E4%BA%BF%E5%85%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91-%E6%8A%95%E5%90%91%E7%AE%97%E5%8A%9B%E5%8F%8A%E7%94%B5%E5%8A%9B%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%AD%89/ar-AA2gnLo6"
-      },
-      "image": {
-        "url": "",
-        "alt": "招商证券拟设立50亿元人工智能产业私募基金，投向算力及电力产业链等"
-      },
-      "matchedKeywords": []
-    },
-    {
-      "rank": 5,
-      "topic": "AI / Agent / 大模型",
-      "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/7c/c4/7c5b81a1f519c26b415768b21070b2c4.png",
-        "alt": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed"
+        "url": "https://static001.infoq.cn/resource/image/64/03/64aed3d76ceae3aa1151c6b612881903.jpg",
+        "alt": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/be/3f/bed55503e10aae7784f071a8e19e513f.jpg",
+        "alt": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "summary": "等了好久终于等到今天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/ifanr-paste-1793410532807-1.jpg",
+        "alt": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等"
       }
     }
   ]

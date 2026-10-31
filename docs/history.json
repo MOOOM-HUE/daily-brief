@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1686953",
+      "title": "OpenAI融资目标缩水百亿，估值1.25万亿",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-30"
+    },
+    {
+      "key": "u:ifanr.com/1686979",
+      "title": "苹果国行AI官宣，千问接入Siri",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-30"
+    },
+    {
+      "key": "u:infoq.cn/article/tnlfh02j0koqswly5oqe",
+      "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-30"
+    },
+    {
+      "key": "u:infoq.cn/article/fcdaad69u452t9b39rlu",
+      "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-30"
+    },
+    {
+      "key": "u:ifanr.com/1687012",
+      "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-30"
+    },
+    {
       "key": "u:news.qq.com/rain/a/20261029a0e9ky00",
       "title": "Reddit全面转向强制登录，AI搜索断流",
       "topic": "大学 / 专业 / 就业",
@@ -839,37 +869,7 @@
       "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-01"
-    },
-    {
-      "key": "u:ifanr.com/1682765",
-      "title": "谷歌发布Gemini 4 Argon，仅限\"可信网络防御者\"使用",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-30"
-    },
-    {
-      "key": "u:infoq.cn/article/tljncybg9z72hv5kj2kp",
-      "title": "特朗普签行政令将AI更名\"超级智能\"，科技巨头签自律协议",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-30"
-    },
-    {
-      "key": "u:cls.cn/detail/2496781",
-      "title": "韩国9月芯片出口激增263%至603亿美元创纪录",
-      "topic": "科技产品与硬件",
-      "date": "2026-09-30"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/agent%e5%b2%97%e4%bd%8d%e5%a4%aa%e7%81%ab%e4%ba%86-%e4%ba%92%e8%81%94%e7%bd%91%e5%a4%a7%e5%8e%82%e7%a7%8b%e6%8b%9b%e6%8a%a2%e4%ba%ba-%e4%b8%9a%e5%8a%a1%e5%9b%a2%e9%98%9f%e7%8e%b0%e5%9c%ba%e5%8f%91%e9%9d%a2%e8%af%95%e7%9b%b4%e9%80%9a%e5%8d%a1/ar-aa2dgey1",
-      "title": "互联网大厂秋招抢\"Agent岗位\"，现场发面试直通卡",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-09-30"
-    },
-    {
-      "key": "u:infoq.cn/article/ayxlumiemzccrkrruq9b",
-      "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-09-30"
     }
   ],
-  "updatedAt": "2026-10-30T02:46:23.231Z"
+  "updatedAt": "2026-10-31T02:37:59.407Z"
 }
