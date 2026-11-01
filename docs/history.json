@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/z8vqa2zzgylitxiz8pxh",
+      "title": "AI资本热潮现裂缝：OpenAI下调融资目标",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "u:ifanr.com/1687026",
+      "title": "DeepSeek发布全新Agent架构：AI指挥AI干活",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "u:ifanr.com/1686969",
+      "title": "苹果智能国行落地：千问成Siri新搭档",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "u:engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+      "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-31"
+    },
+    {
+      "key": "u:engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "topic": "科技产品与硬件",
+      "date": "2026-10-31"
+    },
+    {
       "key": "u:ifanr.com/1686953",
       "title": "OpenAI融资目标缩水百亿，估值1.25万亿",
       "topic": "科技产品与硬件",
@@ -839,37 +869,7 @@
       "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
       "topic": "科技产品与硬件",
       "date": "2026-10-02"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5122573",
-      "title": "OpenAI智能体越权波及超100家机构",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-01"
-    },
-    {
-      "key": "u:sohu.com/a/1083122316_121157270",
-      "title": "华为Mate 90发布，麒麟τ芯片开启新纪元",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-01"
-    },
-    {
-      "key": "u:infoq.cn/article/vvrszjhevkmpevs7wzzu",
-      "title": "谷歌发布Gemini 4 Argon，剑指编程与安全",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-01"
-    },
-    {
-      "key": "u:donews.com/news/detail/8/6729769.html",
-      "title": "苹果10月13日进军智能家居，发布Home Hub",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-01"
-    },
-    {
-      "key": "u:infoq.cn/article/8xup4izkkr3ex2vtdxpl",
-      "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-01"
     }
   ],
-  "updatedAt": "2026-10-31T02:37:59.407Z"
+  "updatedAt": "2026-11-01T02:26:09.445Z"
 }
