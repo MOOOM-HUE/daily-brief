@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-02T02:40:38.533Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "11月1日：推理数据首超训练标志AI进入应用期，OpenAI转向谷歌TPU、苹果市值反超英伟达，算力格局生变。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 113,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 16786
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "我国AI推理数据量首次超过训练数据量",
+      "summary": "中国电子信息产业发展研究院11月1日在大湾区科学论坛发布《新域新质创新发展十大趋势》，显示截至2026年6月我国日均词元调用量超175万亿，推理数据量首次超过训练数据量。报告认为这标志AI从模型训练研发阶段迈入规模化产业应用阶段。同日发布的《颠覆性技术前瞻2026》遴选出40项近期突破显著的技术。",
+      "why": "这是AI产业重心从“造模型”转向“用模型”的官方量化信号，意味着算力采购、云服务定价和Agent类应用的需求结构都会随之改变。对从业者而言，推理侧的工程、成本优化与行业落地能力将比训练侧更稀缺。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:人工智能 行业",
+        "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/42/01/421c26c093be9yyc83308yyd7818cb01.jpg",
+        "alt": "我国AI推理数据量首次超过训练数据量"
+      },
+      "matchedKeywords": [
+        "推理数据",
+        "词元调用量",
+        "产业应用"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "GPT-6.2与Fable 5.5同日曝光，11月模型大战开场",
+      "summary": "11月2日凌晨报道称，GPT-6.2 Astra与Fable 5.5两款模型信息在一夜之间双双曝光，被视为全球基础模型新一轮密集发布的起点。同期ChatGPT Pro额度翻倍、ChatGPT与Codex将共享使用额度，免费额度重置时代趋于结束。",
+      "why": "模型迭代节奏与配额政策同时变化，说明厂商正从“抢用户”转向“控成本、分层收费”。对开发者和企业选型而言，模型版本窗口期缩短、API成本结构变动，需要更灵活的迁移与评测机制。",
+      "divergence": "曝光信息多来自非官方渠道，模型命名、参数与发布时间均未获厂商确认，可信度存疑。",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://feng.ifeng.com/c/8xhA1Cd4iUr"
+      },
+      "image": {
+        "url": "https://x0.ifengimg.com/res/2026/118BBB1ED86F672186E2C6FC3D09F91B155F38EA_size22_w640_h715.jpg",
+        "alt": "GPT-6.2与Fable 5.5同日曝光，11月模型大战开场"
+      },
+      "matchedKeywords": [
+        "GPT-6.2",
+        "Fable 5.5",
+        "模型发布"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/33/58/33191e4ceec0f3281c71cf930db15d58.jpg",
+        "alt": "CI 出错后，谁来把关？Buildkite 的智能体新思路"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ee/c4/ee3dcc7502a6f01094091538ff1998c4.jpg",
+        "alt": "ChatGPT Pro 额度翻倍：是让步，不是福利？"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ba/6e/bae4a55ea8a20c9a4a17a7631a00f16e.jpg",
+        "alt": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI"
+      }
+    }
+  ]
+}

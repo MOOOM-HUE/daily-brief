@@ -1,110 +1,105 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-11-01T02:26:09.444Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-02T02:40:38.533Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "AI资本热潮现裂缝：OpenAI下调融资目标、Meta信用预警；同时DeepSeek新Agent架构与苹果中国AI落地成看点。",
+  "overview": "11月1日：推理数据首超训练标志AI进入应用期，OpenAI转向谷歌TPU、苹果市值反超英伟达，算力格局生变。",
   "stats": {
-    "candidates": 119,
-    "afterDedup": 114,
+    "candidates": 120,
+    "afterDedup": 113,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 14261
+    "durationMs": 16786
   },
   "items": [
     {
       "rank": 1,
       "topic": "AI / Agent / 大模型",
-      "title": "AI资本热潮现裂缝：OpenAI下调融资目标",
-      "summary": "OpenAI将最新一轮融资目标从3000亿美元估值下调至约1.25万亿美元估值、募资约200亿美元，此前曾报1.4万亿估值。同期标普全球将Meta信用展望下调至负面，市场对AI基建高负债、负现金流的质疑升温。",
-      "why": "这是AI泡沫争论从口水战转向资本市场定价的关键信号：融资缩水与信用预警同时出现，意味着后续AI公司估值、招聘节奏和基础设施投资都可能收紧，从业者应关注融资环境变化对岗位与项目预算的传导。",
-      "divergence": "部分媒体强调这是'AI热潮撞墙'的转折点，也有报道指出该轮融资尚未关闭、数字仍可能变化，不宜过度解读为融资失败。",
+      "title": "我国AI推理数据量首次超过训练数据量",
+      "summary": "中国电子信息产业发展研究院11月1日在大湾区科学论坛发布《新域新质创新发展十大趋势》，显示截至2026年6月我国日均词元调用量超175万亿，推理数据量首次超过训练数据量。报告认为这标志AI从模型训练研发阶段迈入规模化产业应用阶段。同日发布的《颠覆性技术前瞻2026》遴选出40项近期突破显著的技术。",
+      "why": "这是AI产业重心从“造模型”转向“用模型”的官方量化信号，意味着算力采购、云服务定价和Agent类应用的需求结构都会随之改变。对从业者而言，推理侧的工程、成本优化与行业落地能力将比训练侧更稀缺。",
+      "divergence": "",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article"
+        "name": "Bing:人工智能 行业",
+        "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/75/5c/75a869d88a6f6a644fde1854ec7bfd5c.jpg",
-        "alt": "AI资本热潮现裂缝：OpenAI下调融资目标"
+        "url": "https://static001.infoq.cn/resource/image/42/01/421c26c093be9yyc83308yyd7818cb01.jpg",
+        "alt": "我国AI推理数据量首次超过训练数据量"
       },
-      "matchedKeywords": []
+      "matchedKeywords": [
+        "推理数据",
+        "词元调用量",
+        "产业应用"
+      ]
     },
     {
       "rank": 2,
-      "topic": "科技产品与硬件",
-      "title": "DeepSeek发布全新Agent架构：AI指挥AI干活",
-      "summary": "DeepSeek重磅发布全新Agent架构，主打多智能体协同，由上层AI调度下层AI执行任务，被视为Agent从单点工具走向编排层的重要尝试。",
-      "why": "Agent竞争正从'模型能力'转向'编排与执行架构'，若该架构被验证有效，将影响企业Agent基础设施选型与开发者技术栈，也直接关系到Agent能否真正落地生产环境。",
-      "divergence": "",
+      "topic": "大学 / 专业 / 就业",
+      "title": "GPT-6.2与Fable 5.5同日曝光，11月模型大战开场",
+      "summary": "11月2日凌晨报道称，GPT-6.2 Astra与Fable 5.5两款模型信息在一夜之间双双曝光，被视为全球基础模型新一轮密集发布的起点。同期ChatGPT Pro额度翻倍、ChatGPT与Codex将共享使用额度，免费额度重置时代趋于结束。",
+      "why": "模型迭代节奏与配额政策同时变化，说明厂商正从“抢用户”转向“控成本、分层收费”。对开发者和企业选型而言，模型版本窗口期缩短、API成本结构变动，需要更灵活的迁移与评测机制。",
+      "divergence": "曝光信息多来自非官方渠道，模型命名、参数与发布时间均未获厂商确认，可信度存疑。",
       "source": {
         "name": "爱范儿",
-        "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign="
+        "url": "https://feng.ifeng.com/c/8xhA1Cd4iUr"
       },
       "image": {
-        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/7-1.jpg",
-        "alt": "DeepSeek发布全新Agent架构：AI指挥AI干活"
+        "url": "https://x0.ifengimg.com/res/2026/118BBB1ED86F672186E2C6FC3D09F91B155F38EA_size22_w640_h715.jpg",
+        "alt": "GPT-6.2与Fable 5.5同日曝光，11月模型大战开场"
       },
-      "matchedKeywords": []
+      "matchedKeywords": [
+        "GPT-6.2",
+        "Fable 5.5",
+        "模型发布"
+      ]
     },
     {
       "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "苹果智能国行落地：千问成Siri新搭档",
-      "summary": "苹果宣布随iOS 27.3在中国上线Apple Intelligence，国行版本由阿里千问作为合作模型支撑Siri等能力，标志苹果AI在中国市场正式落地。",
-      "why": "这是外资巨头在华AI合规落地的标志性案例，模型合作方格局生变将影响国内大模型厂商的生态位；对用户和开发者而言，国行iPhone的AI能力边界与可用场景将重新定义。",
+      "topic": "AI / Agent / 大模型",
+      "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign="
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793399607451-1.jpg",
-        "alt": "苹果智能国行落地：千问成Siri新搭档"
-      },
-      "matchedKeywords": []
+        "url": "https://static001.infoq.cn/resource/image/33/58/33191e4ceec0f3281c71cf930db15d58.jpg",
+        "alt": "CI 出错后，谁来把关？Buildkite 的智能体新思路"
+      }
     },
     {
       "rank": 4,
-      "topic": "科技产品与硬件",
-      "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
-      "summary": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.",
-      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "topic": "AI / Agent / 大模型",
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/5-expensive-hobbies-where-owning-a-3d-printer-actually-saves-you-money/l-intro-1793110234.jpg",
-        "alt": "5 expensive hobbies where owning a 3D printer actually saves you money"
-      },
-      "translation": {
-        "title": "拥有3D打印机反而省钱的5种昂贵爱好",
-        "summary": "虽然个人3D打印机无疑是一项投资，但如果你经常从事某项昂贵的爱好，它实际上可能帮你省下一些钱。",
-        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-        "divergence": ""
+        "url": "https://static001.infoq.cn/resource/image/ee/c4/ee3dcc7502a6f01094091538ff1998c4.jpg",
+        "alt": "ChatGPT Pro 额度翻倍：是让步，不是福利？"
       }
     },
     {
       "rank": 5,
-      "topic": "科技产品与硬件",
-      "title": "Amazon made the AUX input on older Alexa devices less useful",
-      "summary": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
-      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "topic": "AI / Agent / 大模型",
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
-        "alt": "Amazon made the AUX input on older Alexa devices less useful"
-      },
-      "translation": {
-        "title": "亚马逊让旧款Alexa设备的AUX输入变得不那么实用",
-        "summary": "亚马逊对旧款Echo音箱做出一项悄然改动，这将让用户重新思考如何使用这些设备以及如何管理家庭音频设置。",
-        "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-        "divergence": ""
+        "url": "https://static001.infoq.cn/resource/image/ba/6e/bae4a55ea8a20c9a4a17a7631a00f16e.jpg",
+        "alt": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI"
       }
     }
   ]

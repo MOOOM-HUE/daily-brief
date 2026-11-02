@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/8mcjwwfldjda2vb51qzs",
+      "title": "我国AI推理数据量首次超过训练数据量",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-01"
+    },
+    {
+      "key": "u:feng.ifeng.com/c/8xha1cd4iur",
+      "title": "GPT-6.2与Fable 5.5同日曝光，11月模型大战开场",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-01"
+    },
+    {
+      "key": "u:infoq.cn/article/wmlatgjudjwpkqhf4qgx",
+      "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-01"
+    },
+    {
+      "key": "u:infoq.cn/article/wptnht7guarweyejjfv6",
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-01"
+    },
+    {
+      "key": "u:infoq.cn/article/hjgtwfspaugnbj2juefj",
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-01"
+    },
+    {
       "key": "u:infoq.cn/article/z8vqa2zzgylitxiz8pxh",
       "title": "AI资本热潮现裂缝：OpenAI下调融资目标",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "What are amplifiers for and how important are they to your sound system's quality?",
       "topic": "科技产品与硬件",
       "date": "2026-10-03"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20261002a08p6000?adchannelid=tech",
-      "title": "苹果收紧Mac磁盘权限，AI代理风险成导火索",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-02"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20261002a05sr400",
-      "title": "华为麒麟9050 Pro押注“逻辑折叠”绕开制程限制",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-02"
-    },
-    {
-      "key": "u:bihainews.com/bhn-bulletin/ckcj/742804.html",
-      "title": "美国9月非农仅增2.9万，就业市场明显降温",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-02"
-    },
-    {
-      "key": "u:infoq.cn/article/blb8rq6sd3zgqts0d4tp",
-      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-02"
-    },
-    {
-      "key": "u:engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/",
-      "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-02"
     }
   ],
-  "updatedAt": "2026-11-01T02:26:09.445Z"
+  "updatedAt": "2026-11-02T02:40:38.535Z"
 }
