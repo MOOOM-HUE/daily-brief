@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:finance.sina.com.cn/jjxw/2026-11-02/doc-inixiynw2840636.shtml",
+      "title": "Anthropic警告已逼近AI自我改进临界点",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "u:infoq.cn/article/jmvl0yy2ryibnpud0xuu",
+      "title": "谷歌宁少卖云算力也要先保Gemini",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "u:infoq.cn/article/nixfxplelnvwntbyzpz2",
+      "title": "致敬每一份专业与热爱！QCon 上海 2026 优秀出品人与明星讲师揭晓",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "u:infoq.cn/article/xt0ovznnw9heaov59mcj",
+      "title": "Spring Security 7 中的服务端 DPoP 和令牌交换",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-02"
+    },
+    {
+      "key": "u:infoq.cn/article/m6q9i3dfrozjorex9ztl",
+      "title": "框架选不对，Claude 开发成本多一倍：前端十年框架膨胀，终于有人买单了",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-02"
+    },
+    {
       "key": "u:infoq.cn/article/8mcjwwfldjda2vb51qzs",
       "title": "我国AI推理数据量首次超过训练数据量",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-04"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5124933",
-      "title": "OpenAI安全负责人辞职：试错时代已结束",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-03"
-    },
-    {
-      "key": "u:sohu.com/a/1083762728_121119176",
-      "title": "加州就AI代理黑客事件传唤OpenAI",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-03"
-    },
-    {
-      "key": "u:eet-china.com/mp/a528751.html",
-      "title": "壁仞BR20X点亮：性能称超英伟达H200",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-03"
-    },
-    {
-      "key": "u:infoq.cn/article/m4mgbkf4rdv5aktwqvfh",
-      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-03"
-    },
-    {
-      "key": "u:engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
-      "title": "What are amplifiers for and how important are they to your sound system's quality?",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-03"
     }
   ],
-  "updatedAt": "2026-11-02T02:40:38.535Z"
+  "updatedAt": "2026-11-03T03:58:49.063Z"
 }
