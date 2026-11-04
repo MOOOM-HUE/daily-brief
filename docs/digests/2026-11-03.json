@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-04T03:06:30.954Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "AI资本与算力经济持续升温，苹果开放Siri生态、微软启动大裁员，教育与就业格局同步生变。",
+  "stats": {
+    "candidates": 87,
+    "afterDedup": 84,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 14904
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "AI推理公司Fal估值翻倍至160亿美元",
+      "summary": "成立五年的AI推理初创公司Fal完成13亿美元融资，由Bessemer领投，估值从80亿美元翻倍至160亿美元。公司称需求激增，推理侧算力成为新一轮资本竞逐焦点。",
+      "why": "推理侧而非训练侧正在成为AI资本的新战场，Fal估值半年翻倍说明市场愿意为\"把模型跑起来\"付费。对关注AI基础设施创业与就业的人来说，推理优化、部署工程类岗位的稀缺性会进一步上升。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/98/06/9842bf34361ff907ac155b198262c806.jpg",
+        "alt": "AI推理公司Fal估值翻倍至160亿美元"
+      },
+      "matchedKeywords": [
+        "AI",
+        "融资",
+        "推理"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "Anthropic算力成本恶化，毛利率承压",
+      "summary": "TechCrunch报道称，在本应改善的时点，Anthropic的算力利润率反而在恶化。此前其营收口径与成本结构已多次引发外界对AI公司盈利模型的质疑。",
+      "why": "头部模型公司\"越卖越亏\"的算力经济学正在被公开审视，这直接关系到AI行业的估值逻辑与融资节奏。对读者而言，判断AI公司真实竞争力时，毛利率比模型跑分更具参考价值。",
+      "divergence": "Anthropic未公开具体财务数据，外界对其成本恶化是源于推理需求激增还是定价策略存在不同解读。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      },
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+        "alt": "Anthropic算力成本恶化，毛利率承压"
+      },
+      "matchedKeywords": [
+        "Anthropic",
+        "算力",
+        "成本"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "苹果开放Siri跨第三方应用执行操作",
+      "summary": "随iOS 27.3推送，苹果宣布开发者可让Siri AI在第三方应用内执行操作，Siri从问答助手转向跨应用任务代理。同期Apple Watch的Audio Intelligence功能进入开发者测试。",
+      "why": "这是苹果在智能体赛道的关键让步：把系统级代理能力开放给第三方，意味着App的交互入口可能被重构。开发者需要重新思考\"应用内操作\"如何被语音代理调用，这将是明年产品设计的分水岭。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/AI-scaled.jpg",
+        "alt": "苹果开放Siri跨第三方应用执行操作"
+      },
+      "matchedKeywords": [
+        "Siri",
+        "Agent",
+        "苹果"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "微软向6万员工发出自愿离职邀请",
+      "summary": "微软向覆盖全球超四分之一员工的约6万人发出自愿离职邀请，副总裁级别也在列。这是该公司近年来规模最大的一次人员结构调整。",
+      "why": "AI投入挤压人力成本的结构性调整已从个案变成巨头级动作，6万人规模意味着组织形态正在被重新设计。对关注就业市场的读者，这类\"自愿离职\"往往是后续岗位结构变化的先行信号。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/42/0f/423b4ff572cb072be48ed509d698590f.png",
+        "alt": "微软向6万员工发出自愿离职邀请"
+      },
+      "matchedKeywords": [
+        "微软",
+        "裁员",
+        "就业"
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/24/03/249b541073d33aeffe378671c842bf03.jpeg",
+        "alt": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答"
+      }
+    }
+  ]
+}

@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/fvnwwyemke5xjvsheiii",
+      "title": "AI推理公司Fal估值翻倍至160亿美元",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-03"
+    },
+    {
+      "key": "u:techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "Anthropic算力成本恶化，毛利率承压",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-03"
+    },
+    {
+      "key": "u:ifanr.com/1687477",
+      "title": "苹果开放Siri跨第三方应用执行操作",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-03"
+    },
+    {
+      "key": "u:infoq.cn/article/untqkzasi7djuq65ksnz",
+      "title": "微软向6万员工发出自愿离职邀请",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-03"
+    },
+    {
+      "key": "u:infoq.cn/article/bfkteycolydwmyi91h4q",
+      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-03"
+    },
+    {
       "key": "u:finance.sina.com.cn/jjxw/2026-11-02/doc-inixiynw2840636.shtml",
       "title": "Anthropic警告已逼近AI自我改进临界点",
       "topic": "大学 / 专业 / 就业",
@@ -839,37 +869,7 @@
       "title": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-05"
-    },
-    {
-      "key": "u:ifanr.com/1682922",
-      "title": "OpenAI安全员工离职：公司文化已崩坏",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-04"
-    },
-    {
-      "key": "u:jingjiribao.cn/static/detail.jsp?id=687302",
-      "title": "谷歌因AI垃圾提交暂停开源漏洞赏金",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-04"
-    },
-    {
-      "key": "u:sohu.com/a/1083990903_121784105",
-      "title": "三星HBM4报价暴涨200%，AI芯片成本再承压",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-04"
-    },
-    {
-      "key": "u:infoq.cn/article/xwj8g6gafmnl74xpsgju",
-      "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-04"
-    },
-    {
-      "key": "u:infoq.cn/article/yvwaqgczczi838jesa1b",
-      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-04"
     }
   ],
-  "updatedAt": "2026-11-03T03:58:49.063Z"
+  "updatedAt": "2026-11-04T03:06:30.955Z"
 }
