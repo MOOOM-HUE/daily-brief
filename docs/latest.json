@@ -1,115 +1,101 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-04T03:06:30.954Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T03:36:57.818Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "AI资本与算力经济持续升温，苹果开放Siri生态、微软启动大裁员，教育与就业格局同步生变。",
+  "overview": "苹果与阿里合作将通义千问接入国行Apple智能，Meta收购AI编程公司Conductor，Uber数据揭示AI代理落地仍冷，美国中期选举重挫数据中心扩张，日本学历贬值引发就业思考。",
   "stats": {
-    "candidates": 87,
-    "afterDedup": 84,
+    "candidates": 120,
+    "afterDedup": 120,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 14904
+    "durationMs": 13363
   },
   "items": [
     {
       "rank": 1,
       "topic": "AI / Agent / 大模型",
-      "title": "AI推理公司Fal估值翻倍至160亿美元",
-      "summary": "成立五年的AI推理初创公司Fal完成13亿美元融资，由Bessemer领投，估值从80亿美元翻倍至160亿美元。公司称需求激增，推理侧算力成为新一轮资本竞逐焦点。",
-      "why": "推理侧而非训练侧正在成为AI资本的新战场，Fal估值半年翻倍说明市场愿意为\"把模型跑起来\"付费。对关注AI基础设施创业与就业的人来说，推理优化、部署工程类岗位的稀缺性会进一步上升。",
+      "title": "苹果国行AI接入通义千问，阿里成大模型赢家",
+      "summary": "苹果正式宣布与阿里巴巴合作，将通义千问大模型整合进中国大陆的Apple智能系统，11月4日起随iOS开发者Beta版接入Siri、写作工具及视觉智能，中国用户可直接调用千问能力。这是苹果首次在中国市场采用本土大模型作为AI底座。",
+      "why": "这标志着中国大模型厂商首次成为全球顶级硬件生态的默认AI供应商，阿里由此获得数亿级终端入口，可能重塑国内AI应用分发格局。对开发者而言，国行苹果生态的AI能力接口将带来新的产品机会，也意味着其他大模型厂商在端侧入口争夺中落后一步。",
       "divergence": "",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article"
+        "name": "Bing:大模型",
+        "url": "https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/98/06/9842bf34361ff907ac155b198262c806.jpg",
-        "alt": "AI推理公司Fal估值翻倍至160亿美元"
+        "url": "https://static001.infoq.cn/resource/image/3f/7c/3f58986db7124yy775a0bed1f1006f7c.jpg",
+        "alt": "苹果国行AI接入通义千问，阿里成大模型赢家"
       },
       "matchedKeywords": [
-        "AI",
-        "融资",
-        "推理"
+        "苹果",
+        "通义千问",
+        "阿里",
+        "大模型"
       ]
     },
     {
       "rank": 2,
       "topic": "AI / Agent / 大模型",
-      "title": "Anthropic算力成本恶化，毛利率承压",
-      "summary": "TechCrunch报道称，在本应改善的时点，Anthropic的算力利润率反而在恶化。此前其营收口径与成本结构已多次引发外界对AI公司盈利模型的质疑。",
-      "why": "头部模型公司\"越卖越亏\"的算力经济学正在被公开审视，这直接关系到AI行业的估值逻辑与融资节奏。对读者而言，判断AI公司真实竞争力时，毛利率比模型跑分更具参考价值。",
-      "divergence": "Anthropic未公开具体财务数据，外界对其成本恶化是源于推理需求激增还是定价策略存在不同解读。",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-      },
-      "image": {
-        "url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-        "alt": "Anthropic算力成本恶化，毛利率承压"
-      },
-      "matchedKeywords": [
-        "Anthropic",
-        "算力",
-        "成本"
-      ]
-    },
-    {
-      "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "苹果开放Siri跨第三方应用执行操作",
-      "summary": "随iOS 27.3推送，苹果宣布开发者可让Siri AI在第三方应用内执行操作，Siri从问答助手转向跨应用任务代理。同期Apple Watch的Audio Intelligence功能进入开发者测试。",
-      "why": "这是苹果在智能体赛道的关键让步：把系统级代理能力开放给第三方，意味着App的交互入口可能被重构。开发者需要重新思考\"应用内操作\"如何被语音代理调用，这将是明年产品设计的分水岭。",
-      "divergence": "",
-      "source": {
-        "name": "The Verge AI",
-        "url": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign="
-      },
-      "image": {
-        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/AI-scaled.jpg",
-        "alt": "苹果开放Siri跨第三方应用执行操作"
-      },
-      "matchedKeywords": [
-        "Siri",
-        "Agent",
-        "苹果"
-      ]
-    },
-    {
-      "rank": 4,
-      "topic": "AI / Agent / 大模型",
-      "title": "微软向6万员工发出自愿离职邀请",
-      "summary": "微软向覆盖全球超四分之一员工的约6万人发出自愿离职邀请，副总裁级别也在列。这是该公司近年来规模最大的一次人员结构调整。",
-      "why": "AI投入挤压人力成本的结构性调整已从个案变成巨头级动作，6万人规模意味着组织形态正在被重新设计。对关注就业市场的读者，这类\"自愿离职\"往往是后续岗位结构变化的先行信号。",
-      "divergence": "",
-      "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&utm_medium=article"
-      },
-      "image": {
-        "url": "https://static001.infoq.cn/resource/image/42/0f/423b4ff572cb072be48ed509d698590f.png",
-        "alt": "微软向6万员工发出自愿离职邀请"
-      },
-      "matchedKeywords": [
-        "微软",
-        "裁员",
-        "就业"
-      ]
-    },
-    {
-      "rank": 5,
-      "topic": "AI / Agent / 大模型",
-      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/24/03/249b541073d33aeffe378671c842bf03.jpeg",
-        "alt": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答"
+        "url": "https://static001.infoq.cn/resource/image/b1/d1/b1387a0c7084cd72f391d650783757d1.jpg",
+        "alt": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码"
+      }
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/7a/57/7a7e031f57f1bf25a08fba7c82e49557.jpg",
+        "alt": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/04/f2/04ca59ed02eea514015fc729916byyf2.png",
+        "alt": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/2c/5c/2cd946a83db44ceef8b5ac27d4e8e35c.jpg",
+        "alt": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存"
       }
     }
   ]

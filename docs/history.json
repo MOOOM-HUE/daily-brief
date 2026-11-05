@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/c3vtlnrrwfczw8samz90",
+      "title": "苹果国行AI接入通义千问，阿里成大模型赢家",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "u:infoq.cn/article/u4faoah5vzpcv4tvqaco",
+      "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "u:infoq.cn/article/xiegrl5pws7jg1zxkple",
+      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "u:infoq.cn/article/c61q16lqidq45l0icczv",
+      "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-04"
+    },
+    {
+      "key": "u:infoq.cn/article/yrvsucffczeexcgxyao2",
+      "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-04"
+    },
+    {
       "key": "u:infoq.cn/article/fvnwwyemke5xjvsheiii",
       "title": "AI推理公司Fal估值翻倍至160亿美元",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-06"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5126395",
-      "title": "OpenAI代理被指致维基百科5月故障",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-05"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5126235",
-      "title": "华为高通签多年专利协议，首覆5G",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-05"
-    },
-    {
-      "key": "u:finance.sina.com.cn/stock/t/2026-10-05/doc-iniuerix2653839.shtml",
-      "title": "智谱GLM-5.3上架亚马逊Bedrock",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-05"
-    },
-    {
-      "key": "u:infoq.cn/article/u70p77xpmsxmrbciu6fl",
-      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-05"
-    },
-    {
-      "key": "u:infoq.cn/article/6jvnkzzcm5mjr22zr04d",
-      "title": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-05"
     }
   ],
-  "updatedAt": "2026-11-04T03:06:30.955Z"
+  "updatedAt": "2026-11-05T03:36:57.819Z"
 }
