@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:sohu.com/a/1097738789_121157270",
+      "title": "美股AI硬件链遭抛售，民主党推禁超级智能立法",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "u:theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "title": "Claude接入银行账户，推个人财务功能",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "u:infoq.cn/article/5s2oa0bllgr8fplkq2uk",
+      "title": "2026 年 PyTorch 大会：谷歌和 Meta 开源 TorchTPU，在 TPU 上原生支持 PyTorch",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "u:infoq.cn/article/jbdvouxhewn0oe6nfklo",
+      "title": "从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-05"
+    },
+    {
+      "key": "u:infoq.cn/article/4iusd2wp28ua4jd5fhg2",
+      "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-05"
+    },
+    {
       "key": "u:infoq.cn/article/c3vtlnrrwfczw8samz90",
       "title": "苹果国行AI接入通义千问，阿里成大模型赢家",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-07"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/%e6%b3%95%e5%9b%bdmistral%e5%8f%91%e5%b8%83%e6%ac%a7%e6%b4%b2%e6%9c%80%e5%bc%ba%e5%bc%80%e6%ba%90%e5%a4%a7%e6%a8%a1%e5%9e%8b/ar-aa2dgjz6",
-      "title": "Mistral发布万亿参数开源模型Chonk",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-06"
-    },
-    {
-      "key": "u:m.163.com/news/article/l8kku9nm0519igf7.html",
-      "title": "AI代理被网站\"拒之门外\"成新瓶颈",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-06"
-    },
-    {
-      "key": "u:msn.com/zh-cn/%e7%a7%91%e5%ad%a6/%e9%80%9a%e7%94%a8/openai%e5%8f%91%e5%b8%83%e5%89%8d%e6%b2%bf%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e5%85%a8%e6%96%b0%e6%95%b0%e5%ad%a6%e8%83%bd%e5%8a%9b%e6%b5%8b%e8%af%95%e6%88%90%e6%9e%9c/ar-aa2dhpr3",
-      "title": "OpenAI再放722份数学成果，学界仍存疑",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-06"
-    },
-    {
-      "key": "u:jiemian.com/article/15163915.html",
-      "title": "苹果联手LG进军智能家居硬件",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-06"
-    },
-    {
-      "key": "u:infoq.cn/article/mwqylyzgsid16x36k9ef",
-      "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-11-05T03:36:57.819Z"
+  "updatedAt": "2026-11-06T03:31:25.805Z"
 }
