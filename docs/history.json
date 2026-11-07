@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.cn/zh-cn/news/other/ai%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e4%ba%ae%e7%9b%b8-%e4%b8%ad%e5%9b%bd%e7%a7%bb%e5%8a%a8%e6%99%ba%e8%83%bd%e7%bd%91%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83/ar-aa2gvfzm",
+      "title": "OpenAI再融110亿美元，估值1.25万亿",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-06"
+    },
+    {
+      "key": "u:infoq.cn/article/k1bcibhxeu3wlijdusgr",
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-06"
+    },
+    {
+      "key": "u:infoq.cn/article/pmngphellj8hkfikmjuu",
+      "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-06"
+    },
+    {
+      "key": "u:techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-06"
+    },
+    {
+      "key": "u:ifanr.com/1688251",
+      "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-06"
+    },
+    {
       "key": "u:sohu.com/a/1097738789_121157270",
       "title": "美股AI硬件链遭抛售，民主党推禁超级智能立法",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-08"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5131124",
-      "title": "微软英伟达发布RTX Spark AI PC，2599美元起",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-07"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5130666",
-      "title": "特朗普推10亿美元AI科研计划，OpenAI等承诺出资",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-07"
-    },
-    {
-      "key": "u:washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/",
-      "title": "内存暴涨300%，二手电脑用一年反涨价",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-07"
-    },
-    {
-      "key": "u:sohu.com/a/1084799020_121956425",
-      "title": "27考研大洗牌：延边大学告别B区线，英二转英一",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-07"
-    },
-    {
-      "key": "u:infoq.cn/article/0wk4g4czwbhgydenoqpv",
-      "title": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-07"
     }
   ],
-  "updatedAt": "2026-11-06T03:31:25.805Z"
+  "updatedAt": "2026-11-07T03:00:13.439Z"
 }

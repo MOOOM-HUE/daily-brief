@@ -1,97 +1,102 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-06T03:31:25.804Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-07T03:00:13.438Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "美股AI硬件链暴跌叠加中期选举蓝潮，AI扩张遇政治与资本双重阻力；同时智能体商业化加速，人才争夺升温。",
+  "overview": "美国中期选举重创AI板块后，OpenAI巨额融资与AI支出停滞形成反差；谷歌AI裁员、Meta智能体平台化，就业与生态同步生变。",
   "stats": {
     "candidates": 120,
     "afterDedup": 117,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 11896
+    "durationMs": 17981
   },
   "items": [
     {
       "rank": 1,
-      "topic": "AI / Agent / 大模型",
-      "title": "美股AI硬件链遭抛售，民主党推禁超级智能立法",
-      "summary": "11月5日美股AI硬件产业链全线重挫，费城半导体指数单日跌10.14%，AMD跌15.51%，纳指跌4.86%。同期民主党在中期选举拿下两院，部分议员推动'禁止人工超级智能'立法。",
-      "why": "这是本轮AI行情首次出现'资本+政治'双杀信号：算力股估值与政策风险同时被重新定价。对关注AI产业链的读者，需重新评估硬件投资节奏与合规风险，而非只看模型进展。",
-      "divergence": "市场解读分歧明显：一方视其为估值过高的技术性回调，另一方认为选举结果将带来实质性AI监管，抛售反映政策预期而非基本面。",
+      "topic": "科技产品与硬件",
+      "title": "OpenAI再融110亿美元，估值1.25万亿",
+      "summary": "据彭博与路透报道，OpenAI完成新一轮融资的首批110亿美元交割，公司估值达1.25万亿美元，整轮融资尚未关闭，预计数周内完成。此前一天美股AI硬件股因中期选举结果遭遇重挫，费城半导体指数单日暴跌12.25%。",
+      "why": "这是AI泡沫争论最激烈时点上的标志性定价：一级市场仍给出万亿估值，而二级市场刚用暴跌投票。对读者而言，它决定了未来一年AI人才、算力与创业融资的松紧程度，也直接影响Anthropic等竞对的IPO窗口。",
+      "divergence": "彭博与路透均称融资已交割，但强调整轮未关闭、最终金额可能变化；部分市场人士则质疑在AI支出放缓背景下该估值缺乏基本面支撑。",
       "source": {
-        "name": "Bing:人工智能 行业",
-        "url": "https://www.sohu.com/a/1097738789_121157270"
+        "name": "The Verge AI",
+        "url": "https://www.msn.cn/zh-cn/news/other/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%BA%AE%E7%9B%B8-%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E6%99%BA%E8%83%BD%E7%BD%91%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83/ar-AA2gVFZm"
       },
       "image": {
-        "url": "https://q8.itc.cn/q_70/images03/20261106/c194565926e34c418955111088afd590.jpeg",
-        "alt": "美股AI硬件链遭抛售，民主党推禁超级智能立法"
+        "url": "",
+        "alt": "AI基础设施亮相，中国移动智能网正式发布"
       },
       "matchedKeywords": []
     },
     {
       "rank": 2,
       "topic": "AI / Agent / 大模型",
-      "title": "Claude接入银行账户，推个人财务功能",
-      "summary": "Anthropic为Claude上线Personal Finance功能，用户可通过Plaid连接银行与信用卡账户，让Claude分析消费并回答财务问题。",
-      "why": "智能体首次大规模接入真实金融账户，标志AI从'信息助手'进入'资产操作'边界。对读者而言，便利性与隐私、授权风险并存，金融场景的智能体合规将成为下一个监管焦点。",
-      "divergence": "媒体普遍肯定体验创新，但同时质疑是否应把银行账户交给AI，安全与责任归属尚无定论。",
-      "source": {
-        "name": "TechCrunch AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
-      },
-      "image": {
-        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "alt": "Claude接入银行账户，推个人财务功能"
-      },
-      "matchedKeywords": []
-    },
-    {
-      "rank": 3,
-      "topic": "AI / Agent / 大模型",
-      "title": "2026 年 PyTorch 大会：谷歌和 Meta 开源 TorchTPU，在 TPU 上原生支持 PyTorch",
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/5s2oa0BLlgR8fplkq2uK?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/b2/73/b2ae1668b9799c281aa56232a1519473.jpg",
-        "alt": "2026 年 PyTorch 大会：谷歌和 Meta 开源 TorchTPU，在 TPU 上原生支持 PyTorch"
+        "url": "https://static001.infoq.cn/resource/image/be/2b/be87e1de794e86d5f66dd0846548952b.jpg",
+        "alt": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京"
+      }
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/a4/e4/a4a783580e12c16a87c818eba478bee4.jpg",
+        "alt": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图"
       }
     },
     {
       "rank": 4,
       "topic": "AI / Agent / 大模型",
-      "title": "从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践",
-      "summary": "点击查看原文>",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/jBdvoUXheWN0oe6NfklO?utm_source=rss&utm_medium=article"
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/2c/32/2cd9fdc6c6afcbf9c040e7ab05994932.jpeg",
-        "alt": "从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践"
+        "url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+        "alt": "Crusoe sells troubled Wyoming data center project to Google"
+      },
+      "translation": {
+        "title": "Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌",
+        "summary": "该交易凸显了开发大型人工智能数据中心的挑战。",
+        "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
       }
     },
     {
       "rank": 5,
-      "topic": "AI / Agent / 大模型",
-      "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
-      "summary": "点击查看原文>",
-      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "topic": "科技产品与硬件",
+      "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+      "summary": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&utm_medium=article"
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/f2/cd/f275c4b6e3be016487371bf6350eb8cd.jpg",
-        "alt": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/wpcover.jpg",
+        "alt": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票"
       }
     }
   ]
