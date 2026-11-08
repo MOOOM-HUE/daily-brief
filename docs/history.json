@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:finance.sina.cn/2026-11-07/detail-inixxcvy8144569.d.html?vt=4",
+      "title": "OpenAI融资110亿美元，估值1.25万亿低于预期",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-07"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20261107a07tmf00?adchannelid=news",
+      "title": "九大AI智能体挑战国家实验室开放课题全部未过关",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-07"
+    },
+    {
+      "key": "u:news.qq.com/rain/a/20261107a07bhk00",
+      "title": "苹果首款触屏MacBook Pro开售，22999元起",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-07"
+    },
+    {
+      "key": "u:sohu.com/a/1098596504_122747234",
+      "title": "2026届1270万毕业生离校，考研三年减少131万人",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-07"
+    },
+    {
+      "key": "u:infoq.cn/article/sy9xmk3zj3jpwhbn5fqv",
+      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-07"
+    },
+    {
       "key": "u:msn.cn/zh-cn/news/other/ai%e5%9f%ba%e7%a1%80%e8%ae%be%e6%96%bd%e4%ba%ae%e7%9b%b8-%e4%b8%ad%e5%9b%bd%e7%a7%bb%e5%8a%a8%e6%99%ba%e8%83%bd%e7%bd%91%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83/ar-aa2gvfzm",
       "title": "OpenAI再融110亿美元，估值1.25万亿",
       "topic": "科技产品与硬件",
@@ -839,37 +869,7 @@
       "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-09"
-    },
-    {
-      "key": "u:sohu.com/a/1085420562_120094090",
-      "title": "OpenAI年化营收下修至500亿美元，科技股承压",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-08"
-    },
-    {
-      "key": "u:techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "title": "谷歌把Gemini升级为跨应用工作代理",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-08"
-    },
-    {
-      "key": "u:sspai.com/post/115532",
-      "title": "Anthropic开放开源项目免费安全扫描",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-08"
-    },
-    {
-      "key": "u:techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "title": "被解雇OpenAI安全研究员发公开信警告寒蝉效应",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-08"
-    },
-    {
-      "key": "u:infoq.cn/article/832rv3o8ireedjpo9h4v",
-      "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-08"
     }
   ],
-  "updatedAt": "2026-11-07T03:00:13.439Z"
+  "updatedAt": "2026-11-08T02:38:28.325Z"
 }

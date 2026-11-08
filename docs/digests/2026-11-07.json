@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-08T02:38:28.324Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "OpenAI千亿融资估值缩水、智能体自主科研全线未过关、苹果触屏Mac开售，资本与能力双重校准。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 116,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 16174
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "大学 / 专业 / 就业",
+      "title": "OpenAI融资110亿美元，估值1.25万亿低于预期",
+      "summary": "据Bloomberg报道，OpenAI完成新一轮110亿美元融资，估值1.25万亿美元，低于其最初寻求的1.4万亿。同期竞争对手Anthropic正接近IPO，Gary Marcus公开警告OpenAI可能沦为\"AI界的WeWork\"。",
+      "why": "这是AI资本周期最直接的信号：头部公司融资规模与估值预期出现落差，意味着投资人开始对增长故事打折。对从业者而言，融资节奏放缓将传导至算力采购、招聘与创业公司估值，值得重新评估AI赛道的资金窗口。",
+      "divergence": "部分媒体强调\"110亿美元到账\"的融资成功面，另一些则聚焦估值低于预期与Marcus的看空言论，对同一事件的解读偏乐观与偏谨慎并存。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://finance.sina.cn/2026-11-07/detail-inixxcvy8144569.d.html?vt=4"
+      },
+      "image": {
+        "url": "",
+        "alt": "国家发展改革委主任郑栅洁，和5位企业负责人座谈"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "九大AI智能体挑战国家实验室开放课题全部未过关",
+      "summary": "\"Into the Unknown\"基准让九个AI智能体尝试攻克美国国家实验室的开放研究问题，135份提交无一通过专家评审门槛。该结果对当前\"智能体可自主做科研\"的叙事构成直接反驳。",
+      "why": "智能体商业化正从演示走向真实任务，这项基准给出了能力边界的硬数据。对企业和研究者而言，意味着短期内智能体更适合流程化任务而非开放式创新，采购与研发投入应据此分层。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:AI Agent",
+        "url": "https://news.qq.com/rain/a/20261107A07TMF00?adChannelId=news"
+      },
+      "image": {
+        "url": "https://inews.gtimg.com/om_ls/OUi0RU-PXSodW8GJ2QTfzT-1NF13p1Inj90Tb32ZgUuYwAA_640330/0",
+        "alt": "九大AI智能体挑战国家实验室开放课题全部未过关"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "苹果首款触屏MacBook Pro开售，22999元起",
+      "summary": "2026年11月6日苹果首款触控OLED MacBook Pro正式开售，起售价22999元，顶配超11万元；同期新款iPad mini 5499元起、M6版MacBook Pro与iMac同步上市。京东等渠道叠加补贴最高立省3700元。",
+      "why": "苹果首次把触控与OLED引入Mac产品线，标志笔记本屏幕从mini-LED向OLED的转向加速，Windows阵营的既有优势被追平。对开发者和创意工作者而言，交互形态变化可能带动新一轮换机与软件适配需求。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:苹果 新品",
+        "url": "https://news.qq.com/rain/a/20261107A07BHK00"
+      },
+      "image": {
+        "url": "https://inews.gtimg.com/om_ls/OHWloLf3B9MkN3NL7Qq-OGsyavdycacy5fk9371rj3dG4AA_640330/0",
+        "alt": "苹果首款触屏MacBook Pro开售，22999元起"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "大学 / 专业 / 就业",
+      "title": "2026届1270万毕业生离校，考研三年减少131万人",
+      "summary": "2026届全国高校毕业生预计1270万人，同比增加48万，创历史新高；离校近五个月后就业去向引发讨论。同期考研报名人数从峰值474万降至343万，三年减少131万人，但热门专业分数线不降反升。",
+      "why": "毕业生规模与考研退潮同时出现，说明就业压力正从\"学历竞争\"转向\"岗位竞争\"。对读者而言，选专业与升学的性价比需要重新计算，热门专业报录比居高不下意味着盲目跟风考研的风险在上升。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:校招 秋招",
+        "url": "https://www.sohu.com/a/1098596504_122747234"
+      },
+      "image": {
+        "url": "",
+        "alt": "2026年，1270万毕业生“天崩开局”，离校后的毕业生还可以去哪？"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/e6/1d/e6b8255c71ed907dcc4302db580b3c1d.jpg",
+        "alt": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京"
+      }
+    }
+  ]
+}
