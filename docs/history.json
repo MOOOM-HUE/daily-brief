@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:jiemian.com/article/15307729.html",
+      "title": "苹果施压Siri转型，2027年做成自主智能体",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-08"
+    },
+    {
+      "key": "u:infoq.cn/article/xd9o6tyq8glon3dmiwpg",
+      "title": "Linux被AI挖出2.5小时一个零日漏洞",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-08"
+    },
+    {
+      "key": "u:infoq.cn/article/6kudzak0ifkkvigrgzir",
+      "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-08"
+    },
+    {
+      "key": "u:infoq.cn/article/wuarox9mhiaoywpgrxpp",
+      "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-08"
+    },
+    {
+      "key": "u:ifanr.com/1688127",
+      "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-08"
+    },
+    {
       "key": "u:finance.sina.cn/2026-11-07/detail-inixxcvy8144569.d.html?vt=4",
       "title": "OpenAI融资110亿美元，估值1.25万亿低于预期",
       "topic": "大学 / 专业 / 就业",
@@ -839,37 +869,7 @@
       "title": "How to enable Live Activities on iPhone and CarPlay",
       "topic": "科技产品与硬件",
       "date": "2026-10-10"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/autos/%e9%80%9a%e7%94%a8/%e5%88%ab%e5%85%8b%e5%85%a8%e6%96%b0%e5%90%9b%e8%b6%8a%e5%b0%86%e4%b8%8a%e7%ba%bf%e8%b1%86%e5%8c%85ai%e5%a4%a7%e6%a8%a1%e5%9e%8b-%e5%90%88%e8%b5%84%e7%87%83%e6%b2%b9%e8%bd%a6%e9%a6%96%e5%8f%91/ar-aa2dvszq",
-      "title": "OpenAI全面上线GPT-6，宣称解决数学难题",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-09"
-    },
-    {
-      "key": "u:techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "title": "Anthropic智能体向警方提交虚假凶案线索",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-09"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/%e7%a1%85%e8%b0%b7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9c%9f%e7%9a%84%e4%b8%8d%e8%a3%85%e4%ba%86-claude%e6%8e%80%e8%b5%b7%e4%bb%b7%e6%a0%bc%e6%88%98-gpt%e5%85%a8%e9%9d%a2%e4%b8%8b%e6%94%be%e5%85%8d%e8%b4%b9%e5%b1%82/ar-aa2dvmew",
-      "title": "Claude掀价格战，GPT全面下放免费层",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-09"
-    },
-    {
-      "key": "u:sohu.com/a/1085709845_99970452",
-      "title": "谷歌云发布Gemini Agent，办公智能体开战",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-09"
-    },
-    {
-      "key": "u:infoq.cn/article/0liyfbyjtkttvmpdvkwc",
-      "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-09"
     }
   ],
-  "updatedAt": "2026-11-08T02:38:28.325Z"
+  "updatedAt": "2026-11-09T02:52:45.199Z"
 }

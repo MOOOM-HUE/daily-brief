@@ -1,99 +1,97 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-08T02:38:28.324Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T02:52:45.198Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "OpenAI千亿融资估值缩水、智能体自主科研全线未过关、苹果触屏Mac开售，资本与能力双重校准。",
+  "overview": "英伟达CEO涉间谍风波引发治理与供应链震荡，苹果AI转向智能体，AI安全与就业结构同步生变。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 116,
+    "afterDedup": 119,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 16174
+    "durationMs": 16572
   },
   "items": [
     {
       "rank": 1,
-      "topic": "大学 / 专业 / 就业",
-      "title": "OpenAI融资110亿美元，估值1.25万亿低于预期",
-      "summary": "据Bloomberg报道，OpenAI完成新一轮110亿美元融资，估值1.25万亿美元，低于其最初寻求的1.4万亿。同期竞争对手Anthropic正接近IPO，Gary Marcus公开警告OpenAI可能沦为\"AI界的WeWork\"。",
-      "why": "这是AI资本周期最直接的信号：头部公司融资规模与估值预期出现落差，意味着投资人开始对增长故事打折。对从业者而言，融资节奏放缓将传导至算力采购、招聘与创业公司估值，值得重新评估AI赛道的资金窗口。",
-      "divergence": "部分媒体强调\"110亿美元到账\"的融资成功面，另一些则聚焦估值低于预期与Marcus的看空言论，对同一事件的解读偏乐观与偏谨慎并存。",
+      "topic": "科技产品与硬件",
+      "title": "苹果施压Siri转型，2027年做成自主智能体",
+      "summary": "彭博社Gurman称，新任CEO John Ternus正闭门施压软件负责人Craig Federighi加快Siri路线图，目标最早2027年让Siri跨对话持续执行任务，从应答命令转向追求目标。iOS 27.3测试版代码还出现智能家居中枢HomeView支持聊天机器人的开关。",
+      "why": "苹果把智能体能力定为下一阶段核心战略，意味着其AI叙事从补课转向平台级重构；对开发者而言，Siri若开放自主任务执行，将重塑iOS生态的入口与分发逻辑，值得提前布局。",
+      "divergence": "",
       "source": {
         "name": "The Verge AI",
-        "url": "https://finance.sina.cn/2026-11-07/detail-inixxcvy8144569.d.html?vt=4"
+        "url": "https://www.jiemian.com/article/15307729.html"
       },
       "image": {
         "url": "",
-        "alt": "国家发展改革委主任郑栅洁，和5位企业负责人座谈"
+        "alt": "中国移动发布2027泛全联盟合作策略"
       },
       "matchedKeywords": []
     },
     {
       "rank": 2,
       "topic": "AI / Agent / 大模型",
-      "title": "九大AI智能体挑战国家实验室开放课题全部未过关",
-      "summary": "\"Into the Unknown\"基准让九个AI智能体尝试攻克美国国家实验室的开放研究问题，135份提交无一通过专家评审门槛。该结果对当前\"智能体可自主做科研\"的叙事构成直接反驳。",
-      "why": "智能体商业化正从演示走向真实任务，这项基准给出了能力边界的硬数据。对企业和研究者而言，意味着短期内智能体更适合流程化任务而非开放式创新，采购与研发投入应据此分层。",
+      "title": "Linux被AI挖出2.5小时一个零日漏洞",
+      "summary": "InfoQ报道，AI工具在Linux内核中批量发现400多个root提权漏洞，平均2.5小时产出一个零日，人类逆向分析数周才看懂其中一个。漏洞挖掘效率的跃升正把开源基础设施的安全维护推向新压力。",
+      "why": "AI把漏洞发现从稀缺能力变成流水线产能，防守方补丁与审计速度将被倒逼升级；对企业和开发者而言，依赖开源内核的系统面临更密集的修复窗口，安全团队的人力配置与自动化响应需重新评估。",
       "divergence": "",
       "source": {
-        "name": "Bing:AI Agent",
-        "url": "https://news.qq.com/rain/a/20261107A07TMF00?adChannelId=news"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://inews.gtimg.com/om_ls/OUi0RU-PXSodW8GJ2QTfzT-1NF13p1Inj90Tb32ZgUuYwAA_640330/0",
-        "alt": "九大AI智能体挑战国家实验室开放课题全部未过关"
+        "url": "https://static001.infoq.cn/resource/image/0f/9e/0f50490207f1bf58d94d19d967d1759e.png",
+        "alt": "Linux被AI挖出2.5小时一个零日漏洞"
       },
       "matchedKeywords": []
     },
     {
       "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "苹果首款触屏MacBook Pro开售，22999元起",
-      "summary": "2026年11月6日苹果首款触控OLED MacBook Pro正式开售，起售价22999元，顶配超11万元；同期新款iPad mini 5499元起、M6版MacBook Pro与iMac同步上市。京东等渠道叠加补贴最高立省3700元。",
-      "why": "苹果首次把触控与OLED引入Mac产品线，标志笔记本屏幕从mini-LED向OLED的转向加速，Windows阵营的既有优势被追平。对开发者和创意工作者而言，交互形态变化可能带动新一轮换机与软件适配需求。",
-      "divergence": "",
-      "source": {
-        "name": "Bing:苹果 新品",
-        "url": "https://news.qq.com/rain/a/20261107A07BHK00"
-      },
-      "image": {
-        "url": "https://inews.gtimg.com/om_ls/OHWloLf3B9MkN3NL7Qq-OGsyavdycacy5fk9371rj3dG4AA_640330/0",
-        "alt": "苹果首款触屏MacBook Pro开售，22999元起"
-      },
-      "matchedKeywords": []
-    },
-    {
-      "rank": 4,
-      "topic": "大学 / 专业 / 就业",
-      "title": "2026届1270万毕业生离校，考研三年减少131万人",
-      "summary": "2026届全国高校毕业生预计1270万人，同比增加48万，创历史新高；离校近五个月后就业去向引发讨论。同期考研报名人数从峰值474万降至343万，三年减少131万人，但热门专业分数线不降反升。",
-      "why": "毕业生规模与考研退潮同时出现，说明就业压力正从\"学历竞争\"转向\"岗位竞争\"。对读者而言，选专业与升学的性价比需要重新计算，热门专业报录比居高不下意味着盲目跟风考研的风险在上升。",
-      "divergence": "",
-      "source": {
-        "name": "Bing:校招 秋招",
-        "url": "https://www.sohu.com/a/1098596504_122747234"
-      },
-      "image": {
-        "url": "",
-        "alt": "2026年，1270万毕业生“天崩开局”，离校后的毕业生还可以去哪？"
-      },
-      "matchedKeywords": []
-    },
-    {
-      "rank": 5,
       "topic": "AI / Agent / 大模型",
-      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/e6/1d/e6b8255c71ed907dcc4302db580b3c1d.jpg",
-        "alt": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京"
+        "url": "https://static001.infoq.cn/resource/image/20/3f/200fdb593fdc5c789901be3f8a8da13f.png",
+        "alt": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/da/9f/daf11b674890e950bbd484f82a62f19f.jpg",
+        "alt": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+      "summary": "苹果的下一座围城，是创作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793954416871-1.png",
+        "alt": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体"
       }
     }
   ]

@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T02:52:45.198Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "英伟达CEO涉间谍风波引发治理与供应链震荡，苹果AI转向智能体，AI安全与就业结构同步生变。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 16572
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "苹果施压Siri转型，2027年做成自主智能体",
+      "summary": "彭博社Gurman称，新任CEO John Ternus正闭门施压软件负责人Craig Federighi加快Siri路线图，目标最早2027年让Siri跨对话持续执行任务，从应答命令转向追求目标。iOS 27.3测试版代码还出现智能家居中枢HomeView支持聊天机器人的开关。",
+      "why": "苹果把智能体能力定为下一阶段核心战略，意味着其AI叙事从补课转向平台级重构；对开发者而言，Siri若开放自主任务执行，将重塑iOS生态的入口与分发逻辑，值得提前布局。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.jiemian.com/article/15307729.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "中国移动发布2027泛全联盟合作策略"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "Linux被AI挖出2.5小时一个零日漏洞",
+      "summary": "InfoQ报道，AI工具在Linux内核中批量发现400多个root提权漏洞，平均2.5小时产出一个零日，人类逆向分析数周才看懂其中一个。漏洞挖掘效率的跃升正把开源基础设施的安全维护推向新压力。",
+      "why": "AI把漏洞发现从稀缺能力变成流水线产能，防守方补丁与审计速度将被倒逼升级；对企业和开发者而言，依赖开源内核的系统面临更密集的修复窗口，安全团队的人力配置与自动化响应需重新评估。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/0f/9e/0f50490207f1bf58d94d19d967d1759e.png",
+        "alt": "Linux被AI挖出2.5小时一个零日漏洞"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/20/3f/200fdb593fdc5c789901be3f8a8da13f.png",
+        "alt": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/da/9f/daf11b674890e950bbd484f82a62f19f.jpg",
+        "alt": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "科技产品与硬件",
+      "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+      "summary": "苹果的下一座围城，是创作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "why": "这是科技产品与硬件领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793954416871-1.png",
+        "alt": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体"
+      }
+    }
+  ]
+}
