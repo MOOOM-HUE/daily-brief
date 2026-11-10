@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/guys6ys7fskug8dltmjx",
+      "title": "澳洲强制AI事故上报，设新监管机构",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-09"
+    },
+    {
+      "key": "u:infoq.cn/article/dlf01vxluzplx40wmlv7",
+      "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-09"
+    },
+    {
+      "key": "u:infoq.cn/article/mzlisizl9c1eurrszrpo",
+      "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-09"
+    },
+    {
+      "key": "u:infoq.cn/article/sbjhhysfkzibzpxqzegy",
+      "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-09"
+    },
+    {
+      "key": "u:infoq.cn/article/w7vpoenbpx4y2u72wagm",
+      "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-09"
+    },
+    {
       "key": "u:jiemian.com/article/15307729.html",
       "title": "苹果施压Siri转型，2027年做成自主智能体",
       "topic": "科技产品与硬件",
@@ -839,37 +869,7 @@
       "title": "苹果首款智能家居中枢定名HomeView，13日发布",
       "topic": "科技产品与硬件",
       "date": "2026-10-11"
-    },
-    {
-      "key": "u:infoq.cn/article/rkrpt18fgxtjippaeala",
-      "title": "Anthropic切断内部评估联网，AI智能体失控引警觉",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-10"
-    },
-    {
-      "key": "u:m.thepaper.cn/newsdetail_forward_34223743",
-      "title": "扩散语言模型公司DiffuSpace融资数亿元",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-10"
-    },
-    {
-      "key": "u:chinanews.com.cn/cj/2026/10-11/10710873.shtml",
-      "title": "国新办发布'十五五'就业目标，技能人才占比35%",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-10"
-    },
-    {
-      "key": "u:ifanr.com/1683829",
-      "title": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-10"
-    },
-    {
-      "key": "u:engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
-      "title": "How to enable Live Activities on iPhone and CarPlay",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-10"
     }
   ],
-  "updatedAt": "2026-11-09T02:52:45.199Z"
+  "updatedAt": "2026-11-10T04:43:36.779Z"
 }
