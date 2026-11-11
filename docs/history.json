@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:news.qq.com/rain/a/20261110a0dzoh00",
+      "title": "Anthropic IPO定价70-78美元，隐含估值1.4万亿美元",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-10"
+    },
+    {
+      "key": "u:techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "title": "OpenAI三季度营收破百亿美元，亏损仍扩大",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-10"
+    },
+    {
+      "key": "u:ifanr.com/1688883",
+      "title": "谷歌Gemini 4 Carbon开放，主打智能体蜂群",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-10"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e6%8a%80%e6%9c%af%e5%85%ac%e5%8f%b8/%e9%98%bf%e9%87%8c%e5%85%a8%e6%96%b0%e4%b8%80%e4%bb%a3%e5%8d%83%e9%97%ae%e5%a4%a7%e6%a8%a1%e5%9e%8b-qwen4-%e5%8d%b3%e5%b0%86%e5%8f%91%e5%b8%83-%e9%a2%84%e8%a7%88%e7%89%88%e5%b7%b2%e9%a6%96%e5%8f%91%e4%b8%8a%e7%ba%bf/ar-aa2haxmt",
+      "title": "阿里官宣Qwen4即将发布，Max预览版已上线",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-10"
+    },
+    {
+      "key": "u:sohu.com/a/1099756878_121613636",
+      "title": "纽约AI安全法生效，州政府将独立测评模型",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-10"
+    },
+    {
       "key": "u:infoq.cn/article/guys6ys7fskug8dltmjx",
       "title": "澳洲强制AI事故上报，设新监管机构",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "星尘智能完成新一轮融资，公司估值达150亿元",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-12"
-    },
-    {
-      "key": "u:msn.com/en-us/news/other/white-house-demands-immediate-fix-after-anthropic-s-ai-agents-gave-a-false-philly-homicide-tip-and-applied-for-visas/ar-aa2e0y3j",
-      "title": "Anthropic智能体误报凶案并申请签证，白宫要求整改",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-11"
-    },
-    {
-      "key": "u:sohu.com/a/1086410114_121218495",
-      "title": "OpenAI营收口径差200亿美元，AI交易逻辑受质疑",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-11"
-    },
-    {
-      "key": "u:news.sina.cn/gn/2026-10-11/detail-iniuvxsc5719755.d.html?vt=4",
-      "title": "高通CEO：2028年手机要跑千亿参数模型",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-11"
-    },
-    {
-      "key": "u:view.inews.qq.com/a/20261012a02ibh00",
-      "title": "1—9月城镇新增就业1052万人，十五五就业规划落地",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-11"
-    },
-    {
-      "key": "u:news.qq.com/rain/a/20261011a0acv700",
-      "title": "苹果首款智能家居中枢定名HomeView，13日发布",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-11"
     }
   ],
-  "updatedAt": "2026-11-10T04:43:36.779Z"
+  "updatedAt": "2026-11-11T02:54:43.049Z"
 }
