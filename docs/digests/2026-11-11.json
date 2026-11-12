@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-12T04:00:39.920Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "英伟达董事会拟罢免黄仁勋引爆治理与国家安全争议；OpenAI季度营收破百亿但亏损更大；AI Agent遭航司与银行集体设限；字节自研Agent对标Meta Muse。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 21366
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "OpenAI季度营收首破100亿美元，亏损10.9亿",
+      "summary": "据TechCrunch援引知情人士，OpenAI第三季度营收首次突破100亿美元，较第二季度的67亿美元增长近50%；同期运营亏损达109亿美元。这一数据披露时点恰在竞争对手Anthropic IPO前夕。",
+      "why": "营收翻倍式增长与更大规模亏损同时出现，说明前沿模型公司的商业化在提速但单位经济仍未跑通。这对判断AI泡沫、云厂商与芯片厂的订单可持续性，以及Anthropic上市定价都有直接参照意义。",
+      "divergence": "不同来源对亏损口径表述不一，有报道称\"运营亏损109亿美元\"，也有报道将其与净亏损混用，具体财务定义尚未由OpenAI官方确认。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.infoq.cn/article/GUXzTTTFvwWY7yx6WMyS?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/c4/8e/c44d80a59ffd9b8a38f8092740e65b8e.jpg",
+        "alt": "OpenAI季度营收首破100亿美元，亏损10.9亿"
+      },
+      "matchedKeywords": [
+        "OpenAI",
+        "营收",
+        "亏损"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "美联航禁止AI Agent代客订票",
+      "summary": "美联航11月11日表示，不会允许个人AI助手在其平台上代为订票，理由是隐私与监管风险，并称可能违反美国交通部与联邦航空管理局的相关规定。这是继Capital One等金融机构封堵AI Agent之后，又一家大型企业主动对智能体\"关门\"。",
+      "why": "Agent商业化最大的障碍正从技术能力转向平台准入。航司、银行接连设限意味着\"代用户操作第三方系统\"的路径将长期受制于风控与合规，创业者需要重新评估绕开平台自建Agent的可行性，行业可能转向官方API授权模式。",
+      "divergence": "美联航强调安全与联邦法规风险，而部分评论认为实质是防止第三方比价与绕过直销渠道，双方对动机的解读存在分歧。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+      },
+      "image": {
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.721800295556%2C100%2C78.556399408888&amp;w=1200",
+        "alt": "美联航禁止AI Agent代客订票"
+      },
+      "matchedKeywords": [
+        "AI Agent",
+        "美联航",
+        "订票"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "字节据报自研AI Agent，对标Meta Muse",
+      "summary": "彭博社11月11日报道，字节跳动计划在未来几周推出一款类似Meta Muse的AI助手，联合创始人张一鸣近期在内部AI会议上提出目标：未来三年左右缩小与美国顶尖实验室的差距。此举意在巩固其在AI视频生成领域的领先地位。",
+      "why": "中国大厂正从\"模型追赶\"转向\"Agent形态竞争\"，字节若把豆包能力延伸到可执行任务的智能体，将直接改变国内AI助手的入口格局。对从业者而言，Agent产品岗与多模态工程能力的需求会进一步上升。",
+      "divergence": "彭博社称产品\"未来几周推出\"，国内报道多转述同一信源，字节官方未确认具体时间与形态。",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/c8/1f/c8614e40481e3707f192d462f3336b1f.jpeg",
+        "alt": "字节据报自研AI Agent，对标Meta Muse"
+      },
+      "matchedKeywords": [
+        "字节跳动",
+        "AI Agent",
+        "Muse"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "科技产品与硬件",
+      "title": "英国Fractile融资7.2亿美元，估值70亿",
+      "summary": "英国AI芯片初创公司Fractile完成7.2亿美元融资，估值达70亿美元，成为专用AI芯片赛道融资额最高的玩家之一。资金将用于推进其面向推理场景的定制芯片研发与量产。",
+      "why": "在英伟达主导、且自身正陷治理危机之际，资本正加速押注替代性AI芯片架构。这为关注芯片创业与供应链多元化的人提供了信号：推理侧专用芯片仍是2026年最热的融资方向之一。",
+      "divergence": "TechCrunch称本轮7.2亿美元，路透社报道侧重70亿美元估值，两者对融资总额与估值口径的表述略有差异。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.sohu.com/a/1100154166_122991168"
+      },
+      "image": {
+        "url": "",
+        "alt": "海学27考研冲刺密押营正式开营，封闭集训，全力冲刺上岸！"
+      },
+      "matchedKeywords": [
+        "Fractile",
+        "AI芯片",
+        "融资"
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ef/04/ef65132fb1df4bcda9975dyye55b8a04.png",
+        "alt": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%"
+      }
+    }
+  ]
+}

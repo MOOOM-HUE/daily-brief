@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:infoq.cn/article/guxztttfvwwy7yx6wmys",
+      "title": "OpenAI季度营收首破100亿美元，亏损10.9亿",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-11"
+    },
+    {
+      "key": "u:theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "title": "美联航禁止AI Agent代客订票",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-11"
+    },
+    {
+      "key": "u:infoq.cn/article/iacubu8fwz6g6bdlq9bv",
+      "title": "字节据报自研AI Agent，对标Meta Muse",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-11"
+    },
+    {
+      "key": "u:sohu.com/a/1100154166_122991168",
+      "title": "英国Fractile融资7.2亿美元，估值70亿",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-11"
+    },
+    {
+      "key": "u:infoq.cn/article/e7qkimuz3h0g0ie5paii",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-11"
+    },
+    {
       "key": "u:news.qq.com/rain/a/20261110a0dzoh00",
       "title": "Anthropic IPO定价70-78美元，隐含估值1.4万亿美元",
       "topic": "AI / Agent / 大模型",
@@ -839,37 +869,7 @@
       "title": "阶跃星辰发布3999元智能体手机STEPX Neo",
       "topic": "科技产品与硬件",
       "date": "2026-10-13"
-    },
-    {
-      "key": "u:chinaz.com/ainews/31584.shtml",
-      "title": "Meta发布首款前沿模型Muse Wonder",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-12"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5140650",
-      "title": "微软发布Maia 300，明年部署超百万颗",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-12"
-    },
-    {
-      "key": "u:finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzzhk0424578.shtml",
-      "title": "字节Seed单独设立大模型安全与对齐部门",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-12"
-    },
-    {
-      "key": "u:chinastarmarket.cn/detail/2502670",
-      "title": "上海启动智能制造行动：8000台人形机器人进工厂",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-12"
-    },
-    {
-      "key": "u:infoq.cn/article/z9orbe470qjdhdibcc8s",
-      "title": "星尘智能完成新一轮融资，公司估值达150亿元",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-12"
     }
   ],
-  "updatedAt": "2026-11-11T02:54:43.049Z"
+  "updatedAt": "2026-11-12T04:00:39.921Z"
 }
