@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T03:30:32.187Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "黄仁勋辞任英伟达CEO引发AI算力格局震荡，Gemini 4迭代与Agent落地受阻并行，就业与监管信号密集。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 14938
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "黄仁勋辞任英伟达CEO，市值单日蒸发1.2万亿",
+      "summary": "英伟达11月12日公告，创始人兼CEO黄仁勋辞去总裁、CEO及董事职务即刻生效，CFO科莱特·克雷斯出任临时CEO并启动全球遴选。消息致盘前跌超10%，收盘跌4.34%，市值单日蒸发约1.2万亿元人民币。黄仁勋同意本月赴国会就中国芯片销售作证，众议院多个委员会已启动调查。",
+      "why": "这是AI算力供应链最核心节点的突发权力交接，短期将放大英伟达政策与出口不确定性，AMD、博通等竞对已获资金押注。对国内云厂商与大模型公司而言，算力自主可控的紧迫性上升，采购与自研路线需重新评估。",
+      "divergence": "部分媒体聚焦性丑闻与国家安全风险，另一些则强调董事会调查程序与公司治理；对市值冲击的解读也有'风险出清'与'AI交易受扰'两种说法。",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://news.ifeng.com/c/8y0rKGyKX8N"
+      },
+      "image": {
+        "url": "https://x0.ifengimg.com/res/2026/54C3838DF75BD5FB58D815AF771B95A4B245BBFF_size444_w1600_h900.jpg",
+        "alt": "黄仁勋辞任英伟达CEO，市值单日蒸发1.2万亿"
+      },
+      "matchedKeywords": [
+        "英伟达",
+        "黄仁勋",
+        "芯片"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "谷歌连发Gemini 4新模型，全面开放使用",
+      "summary": "谷歌11月12日推出Gemini 4 Hydrogen，主打对多部分、难理解复杂问题的解析能力，并同步升级Search的AI Mode，提供更丰富链接与可视化结果。爱范儿称新模型'更快更便宜还更聪明'且终于人人可用。此前谷歌刚发布Gemini 4 Argon重返前沿竞赛。",
+      "why": "谷歌在两周内连续迭代Gemini 4系列，把复杂推理能力下放到搜索入口，直接压缩OpenAI与Anthropic的差异化空间。对开发者意味着模型选型成本下降，对应用层则是新一轮能力重估的窗口。",
+      "divergence": "",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794524212067-21.jpg",
+        "alt": "谷歌连发Gemini 4新模型，全面开放使用"
+      },
+      "matchedKeywords": [
+        "Gemini",
+        "谷歌",
+        "大模型"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "美联航禁止AI Agent代订机票",
+      "summary": "美联航宣布不允许客户使用AI智能体预订机票和管理订单，理由是网络安全风险。公司CEO称核心考量是客户体验与责任归属。消费者权益人士也认为涉及金钱与隐私的决策仍需人类介入。此前Muse等Agent已可代打电话订位。",
+      "why": "这是主流企业首次以安全为由对Agent'关门'，与近期网站集体屏蔽AI爬虫形成同一趋势。Agent商业化落地正撞上平台风控与责任边界，创业者需重新设计合规路径，而非假设开放接口。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+      },
+      "image": {
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&amp;strip=all&amp;crop=2.4327168367347%2C0%2C95.134566326531%2C100&amp;w=1200",
+        "alt": "美联航禁止AI Agent代订机票"
+      },
+      "matchedKeywords": [
+        "AI Agent",
+        "智能体"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "非营利组织起诉OpenAI等五家，要求叫停前沿AI",
+      "summary": "多家非营利组织11月12日在美起诉OpenAI、Anthropic、Meta、谷歌及SpaceX旗下AI部门，指控其明知技术存在灾难性风险仍继续开发，要求法院叫停前沿模型研发。同日纽约州上线AI安全注册门户，收紧行业监管。",
+      "why": "诉讼把'开发者能否控制自身技术'推上法庭，若获受理将改变前沿模型的合规成本与发布节奏。叠加纽约州注册制，美国AI监管正从立法讨论转向司法与地方行政双线施压，企业法务预算需提前准备。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:OpenAI",
+        "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg",
+        "alt": "非营利组织起诉OpenAI等五家，要求叫停前沿AI"
+      },
+      "matchedKeywords": [
+        "OpenAI",
+        "诉讼",
+        "监管"
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "大学 / 专业 / 就业",
+      "title": "具身智能高薪神话破灭：50万年薪多数员工没拿到",
+      "summary": "报道指出2024年国内具身智能赛道进入深度分化，头部企业凭运动控制与多模态大模型落地抢占工业、特种作业场景，中小玩家受研发资金与供应链制约。此前被宣传的50万年薪校招岗位，头部公司很多员工实际并未拿到。",
+      "why": "具身智能是今年校招最热赛道之一，这条报道戳破了薪资与岗位数量的预期泡沫。对正在选专业和投简历的读者，判断标准应从'赛道热度'转向企业现金流与真实交付场景，避免被宣传口径误导。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:校招 秋招",
+        "url": "https://eu.36kr.com/zh/p/4066763399190146"
+      },
+      "image": {
+        "url": "https://img.36krcdn.com/hsossms/20261112/v2_e518882e863e473696446eaa130a83f5@1743780481@ai_oswg884212oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+        "alt": "具身智能高薪神话破灭：50万年薪多数员工没拿到"
+      },
+      "matchedKeywords": [
+        "具身智能",
+        "校招",
+        "薪资"
+      ]
+    }
+  ]
+}

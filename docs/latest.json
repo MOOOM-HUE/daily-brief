@@ -1,116 +1,120 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-12T04:00:39.920Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T03:30:32.187Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "英伟达董事会拟罢免黄仁勋引爆治理与国家安全争议；OpenAI季度营收破百亿但亏损更大；AI Agent遭航司与银行集体设限；字节自研Agent对标Meta Muse。",
+  "overview": "黄仁勋辞任英伟达CEO引发AI算力格局震荡，Gemini 4迭代与Agent落地受阻并行，就业与监管信号密集。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 120,
+    "afterDedup": 119,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 21366
+    "durationMs": 14938
   },
   "items": [
     {
       "rank": 1,
-      "topic": "AI / Agent / 大模型",
-      "title": "OpenAI季度营收首破100亿美元，亏损10.9亿",
-      "summary": "据TechCrunch援引知情人士，OpenAI第三季度营收首次突破100亿美元，较第二季度的67亿美元增长近50%；同期运营亏损达109亿美元。这一数据披露时点恰在竞争对手Anthropic IPO前夕。",
-      "why": "营收翻倍式增长与更大规模亏损同时出现，说明前沿模型公司的商业化在提速但单位经济仍未跑通。这对判断AI泡沫、云厂商与芯片厂的订单可持续性，以及Anthropic上市定价都有直接参照意义。",
-      "divergence": "不同来源对亏损口径表述不一，有报道称\"运营亏损109亿美元\"，也有报道将其与净亏损混用，具体财务定义尚未由OpenAI官方确认。",
+      "topic": "科技产品与硬件",
+      "title": "黄仁勋辞任英伟达CEO，市值单日蒸发1.2万亿",
+      "summary": "英伟达11月12日公告，创始人兼CEO黄仁勋辞去总裁、CEO及董事职务即刻生效，CFO科莱特·克雷斯出任临时CEO并启动全球遴选。消息致盘前跌超10%，收盘跌4.34%，市值单日蒸发约1.2万亿元人民币。黄仁勋同意本月赴国会就中国芯片销售作证，众议院多个委员会已启动调查。",
+      "why": "这是AI算力供应链最核心节点的突发权力交接，短期将放大英伟达政策与出口不确定性，AMD、博通等竞对已获资金押注。对国内云厂商与大模型公司而言，算力自主可控的紧迫性上升，采购与自研路线需重新评估。",
+      "divergence": "部分媒体聚焦性丑闻与国家安全风险，另一些则强调董事会调查程序与公司治理；对市值冲击的解读也有'风险出清'与'AI交易受扰'两种说法。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://www.infoq.cn/article/GUXzTTTFvwWY7yx6WMyS?utm_source=rss&utm_medium=article"
+        "name": "爱范儿",
+        "url": "https://news.ifeng.com/c/8y0rKGyKX8N"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/c4/8e/c44d80a59ffd9b8a38f8092740e65b8e.jpg",
-        "alt": "OpenAI季度营收首破100亿美元，亏损10.9亿"
+        "url": "https://x0.ifengimg.com/res/2026/54C3838DF75BD5FB58D815AF771B95A4B245BBFF_size444_w1600_h900.jpg",
+        "alt": "黄仁勋辞任英伟达CEO，市值单日蒸发1.2万亿"
       },
       "matchedKeywords": [
-        "OpenAI",
-        "营收",
-        "亏损"
+        "英伟达",
+        "黄仁勋",
+        "芯片"
       ]
     },
     {
       "rank": 2,
-      "topic": "AI / Agent / 大模型",
-      "title": "美联航禁止AI Agent代客订票",
-      "summary": "美联航11月11日表示，不会允许个人AI助手在其平台上代为订票，理由是隐私与监管风险，并称可能违反美国交通部与联邦航空管理局的相关规定。这是继Capital One等金融机构封堵AI Agent之后，又一家大型企业主动对智能体\"关门\"。",
-      "why": "Agent商业化最大的障碍正从技术能力转向平台准入。航司、银行接连设限意味着\"代用户操作第三方系统\"的路径将长期受制于风控与合规，创业者需要重新评估绕开平台自建Agent的可行性，行业可能转向官方API授权模式。",
-      "divergence": "美联航强调安全与联邦法规风险，而部分评论认为实质是防止第三方比价与绕过直销渠道，双方对动机的解读存在分歧。",
+      "topic": "科技产品与硬件",
+      "title": "谷歌连发Gemini 4新模型，全面开放使用",
+      "summary": "谷歌11月12日推出Gemini 4 Hydrogen，主打对多部分、难理解复杂问题的解析能力，并同步升级Search的AI Mode，提供更丰富链接与可视化结果。爱范儿称新模型'更快更便宜还更聪明'且终于人人可用。此前谷歌刚发布Gemini 4 Argon重返前沿竞赛。",
+      "why": "谷歌在两周内连续迭代Gemini 4系列，把复杂推理能力下放到搜索入口，直接压缩OpenAI与Anthropic的差异化空间。对开发者意味着模型选型成本下降，对应用层则是新一轮能力重估的窗口。",
+      "divergence": "",
       "source": {
         "name": "The Verge AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+        "url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.721800295556%2C100%2C78.556399408888&amp;w=1200",
-        "alt": "美联航禁止AI Agent代客订票"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794524212067-21.jpg",
+        "alt": "谷歌连发Gemini 4新模型，全面开放使用"
       },
       "matchedKeywords": [
-        "AI Agent",
-        "美联航",
-        "订票"
+        "Gemini",
+        "谷歌",
+        "大模型"
       ]
     },
     {
       "rank": 3,
       "topic": "AI / Agent / 大模型",
-      "title": "字节据报自研AI Agent，对标Meta Muse",
-      "summary": "彭博社11月11日报道，字节跳动计划在未来几周推出一款类似Meta Muse的AI助手，联合创始人张一鸣近期在内部AI会议上提出目标：未来三年左右缩小与美国顶尖实验室的差距。此举意在巩固其在AI视频生成领域的领先地位。",
-      "why": "中国大厂正从\"模型追赶\"转向\"Agent形态竞争\"，字节若把豆包能力延伸到可执行任务的智能体，将直接改变国内AI助手的入口格局。对从业者而言，Agent产品岗与多模态工程能力的需求会进一步上升。",
-      "divergence": "彭博社称产品\"未来几周推出\"，国内报道多转述同一信源，字节官方未确认具体时间与形态。",
+      "title": "美联航禁止AI Agent代订机票",
+      "summary": "美联航宣布不允许客户使用AI智能体预订机票和管理订单，理由是网络安全风险。公司CEO称核心考量是客户体验与责任归属。消费者权益人士也认为涉及金钱与隐私的决策仍需人类介入。此前Muse等Agent已可代打电话订位。",
+      "why": "这是主流企业首次以安全为由对Agent'关门'，与近期网站集体屏蔽AI爬虫形成同一趋势。Agent商业化落地正撞上平台风控与责任边界，创业者需重新设计合规路径，而非假设开放接口。",
+      "divergence": "",
       "source": {
-        "name": "Engadget",
-        "url": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article"
+        "name": "TechCrunch AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/c8/1f/c8614e40481e3707f192d462f3336b1f.jpeg",
-        "alt": "字节据报自研AI Agent，对标Meta Muse"
+        "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&amp;strip=all&amp;crop=2.4327168367347%2C0%2C95.134566326531%2C100&amp;w=1200",
+        "alt": "美联航禁止AI Agent代订机票"
       },
       "matchedKeywords": [
-        "字节跳动",
         "AI Agent",
-        "Muse"
+        "智能体"
       ]
     },
     {
       "rank": 4,
-      "topic": "科技产品与硬件",
-      "title": "英国Fractile融资7.2亿美元，估值70亿",
-      "summary": "英国AI芯片初创公司Fractile完成7.2亿美元融资，估值达70亿美元，成为专用AI芯片赛道融资额最高的玩家之一。资金将用于推进其面向推理场景的定制芯片研发与量产。",
-      "why": "在英伟达主导、且自身正陷治理危机之际，资本正加速押注替代性AI芯片架构。这为关注芯片创业与供应链多元化的人提供了信号：推理侧专用芯片仍是2026年最热的融资方向之一。",
-      "divergence": "TechCrunch称本轮7.2亿美元，路透社报道侧重70亿美元估值，两者对融资总额与估值口径的表述略有差异。",
+      "topic": "AI / Agent / 大模型",
+      "title": "非营利组织起诉OpenAI等五家，要求叫停前沿AI",
+      "summary": "多家非营利组织11月12日在美起诉OpenAI、Anthropic、Meta、谷歌及SpaceX旗下AI部门，指控其明知技术存在灾难性风险仍继续开发，要求法院叫停前沿模型研发。同日纽约州上线AI安全注册门户，收紧行业监管。",
+      "why": "诉讼把'开发者能否控制自身技术'推上法庭，若获受理将改变前沿模型的合规成本与发布节奏。叠加纽约州注册制，美国AI监管正从立法讨论转向司法与地方行政双线施压，企业法务预算需提前准备。",
+      "divergence": "",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://www.sohu.com/a/1100154166_122991168"
+        "name": "Bing:OpenAI",
+        "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "海学27考研冲刺密押营正式开营，封闭集训，全力冲刺上岸！"
+        "url": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg",
+        "alt": "非营利组织起诉OpenAI等五家，要求叫停前沿AI"
       },
       "matchedKeywords": [
-        "Fractile",
-        "AI芯片",
-        "融资"
+        "OpenAI",
+        "诉讼",
+        "监管"
       ]
     },
     {
       "rank": 5,
-      "topic": "AI / Agent / 大模型",
-      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-      "summary": "点击查看原文>",
-      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "topic": "大学 / 专业 / 就业",
+      "title": "具身智能高薪神话破灭：50万年薪多数员工没拿到",
+      "summary": "报道指出2024年国内具身智能赛道进入深度分化，头部企业凭运动控制与多模态大模型落地抢占工业、特种作业场景，中小玩家受研发资金与供应链制约。此前被宣传的50万年薪校招岗位，头部公司很多员工实际并未拿到。",
+      "why": "具身智能是今年校招最热赛道之一，这条报道戳破了薪资与岗位数量的预期泡沫。对正在选专业和投简历的读者，判断标准应从'赛道热度'转向企业现金流与真实交付场景，避免被宣传口径误导。",
       "divergence": "",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article"
+        "name": "Bing:校招 秋招",
+        "url": "https://eu.36kr.com/zh/p/4066763399190146"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/ef/04/ef65132fb1df4bcda9975dyye55b8a04.png",
-        "alt": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%"
-      }
+        "url": "https://img.36krcdn.com/hsossms/20261112/v2_e518882e863e473696446eaa130a83f5@1743780481@ai_oswg884212oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+        "alt": "具身智能高薪神话破灭：50万年薪多数员工没拿到"
+      },
+      "matchedKeywords": [
+        "具身智能",
+        "校招",
+        "薪资"
+      ]
     }
   ]
 }
