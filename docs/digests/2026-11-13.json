@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T03:27:06.959Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "黄仁勋辞职震动英伟达与AI投资链，OpenAI钱包让Agent接管支付，LangChain估值30亿、考研报名止跌回升。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 119,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 20412
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "黄仁勋辞任英伟达，AI投资链与芯片管制承压",
+      "summary": "多家媒体报道黄仁勋因个人丑闻辞去英伟达CEO职务，公司未披露完整继任安排，Kress被指为接班人选。TechCrunch称其任内英伟达向AI初创投入数百亿美元，风投与创始人预期此后支票更小、估值更低；国会已就芯片销售与国家安全启动调查，黄与Lutnick将赴国会作证。路透调查另称中国境内逾30亿美元算力项目仍采用受管制英伟达芯片。",
+      "why": "英伟达是当前AI资本开支周期的定价锚，创始人突然离场会同时冲击初创融资节奏、供应链订单预期与出口管制执法走向。对关注AI就业与创业机会的读者，未来半年融资环境和芯片合规岗位需求都可能重排。",
+      "divergence": "关于辞职原因与影响，TechCrunch、The Verge侧重个人丑闻与公司治理，部分中文报道则强调显卡价格跳水与员工喊话回归，对基本面冲击的判断并不一致。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.msn.com/zh-cn/%E6%8A%80%E6%9C%AF/%E7%A1%AC%E4%BB%B6%E5%92%8C%E8%AE%BE%E5%A4%87/%E8%8B%B9%E6%9E%9Cai%E7%9C%BC%E9%95%9C-%E8%A2%AB-%E7%8C%AA%E9%98%9F%E5%8F%8B-%E5%AE%9E%E9%94%A4%E4%BA%86/ar-AA2hk7xh"
+      },
+      "image": {
+        "url": "",
+        "alt": "苹果AI眼镜，被“猪队友”实锤了"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "OpenAI推出ChatGPT Wallet，Agent可代用户下单",
+      "summary": "OpenAI宣布上线ChatGPT Wallet，允许其Dots智能体在用户不暴露卡号的前提下完成购物与结账，首批面向美国Pro订阅用户限量开放。该钱包与American Express、Mastercard、Visa合作，持卡人保留原有信用卡返现权益。路透与CNBC均确认这是支付能力而非单纯消费分析工具。",
+      "why": "这是Agent从“给建议”跨到“动钱”的关键一步，支付授权、责任归属与商户风控都会随之重构。对做Agent产品的团队，钱包与身份层可能成为新的必争入口；对普通用户，Agent代付的纠纷处理规则值得提前关注。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+        "alt": "OpenAI推出ChatGPT Wallet，Agent可代用户下单"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "大学 / 专业 / 就业",
+      "title": "2027考研报名347万，连降三年后首次回升",
+      "summary": "教育部公布2027年全国硕士研究生招生考试报名人数为347万，较2026年的343万增加约4万，增幅1.2%，结束连续三年下降，考试定于12月19日至20日举行。同期多家券商披露校招计划，财富管理、投研与金融科技成为补员重点，春招提前批网申已从11月启动。",
+      "why": "报名人数止跌意味着学历竞争并未真正降温，而券商招聘结构转向金融科技，说明岗位需求正从传统条线迁移。对正在准备考研或秋招的学生，这组数据直接影响择校与技能投入的优先级判断。",
+      "divergence": "部分自媒体称报名回升意味着竞争加剧，另一些分析认为降幅收窄只是趋稳信号，对“是否更卷”的解读存在分歧。",
+      "source": {
+        "name": "Bing:考研 分数线",
+        "url": "https://news.china.com/socialgd/10000169/20261113/49869904_all.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "2027研究生报考人数347万 降幅收窄竞争趋稳"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "OpenAI被曝解散机器人团队，通用模型接管具身智能",
+      "summary": "多家媒体报道OpenAI已解散独立机器人团队，理由是机器人只是通用模型下的一类垂直任务，无需单独成军；据称GPT-6 Astra在英伟达模拟操作基准上成功率达74.8%，高于最佳专用机器人模型的51.0%。OpenAI官方尚未置评。",
+      "why": "若通用大模型可直接驱动本体，具身智能的创业门槛与人才结构都会改变，专用机器人模型公司的估值逻辑面临重估。对关注具身智能就业的读者，通用模型工程能力可能比本体控制经验更被看重。",
+      "divergence": "报道均援引未具名消息，OpenAI未确认；74.8%与51.0%的对比来自二手转述，基准细节与可复现性尚未公开。",
+      "source": {
+        "name": "Bing:大模型",
+        "url": "https://www.itbear.com.cn/html/2026-11/1583869.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "OpenAI被曝解散独立机器人团队，具身智能或由通用大模型统一承载"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/31/c4/31c571ccea0c2eb804abe89ecaf906c4.jpg",
+        "alt": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突"
+      }
+    }
+  ]
+}

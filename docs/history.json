@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:msn.com/zh-cn/%e6%8a%80%e6%9c%af/%e7%a1%ac%e4%bb%b6%e5%92%8c%e8%ae%be%e5%a4%87/%e8%8b%b9%e6%9e%9cai%e7%9c%bc%e9%95%9c-%e8%a2%ab-%e7%8c%aa%e9%98%9f%e5%8f%8b-%e5%ae%9e%e9%94%a4%e4%ba%86/ar-aa2hk7xh",
+      "title": "黄仁勋辞任英伟达，AI投资链与芯片管制承压",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-13"
+    },
+    {
+      "key": "u:infoq.cn/video/fwboyyfoamkqpmtitmdn",
+      "title": "OpenAI推出ChatGPT Wallet，Agent可代用户下单",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-13"
+    },
+    {
+      "key": "u:news.china.com/socialgd/10000169/20261113/49869904_all.html",
+      "title": "2027考研报名347万，连降三年后首次回升",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-13"
+    },
+    {
+      "key": "u:itbear.com.cn/html/2026-11/1583869.html",
+      "title": "OpenAI被曝解散机器人团队，通用模型接管具身智能",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-13"
+    },
+    {
+      "key": "u:infoq.cn/article/yrxscvhsth0g6cvcjj0d",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-13"
+    },
+    {
       "key": "u:news.ifeng.com/c/8y0rkgykx8n",
       "title": "黄仁勋辞任英伟达CEO，市值单日蒸发1.2万亿",
       "topic": "科技产品与硬件",
@@ -871,5 +901,5 @@
       "date": "2026-10-15"
     }
   ],
-  "updatedAt": "2026-11-13T03:30:32.188Z"
+  "updatedAt": "2026-11-14T03:27:06.961Z"
 }
