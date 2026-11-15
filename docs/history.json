@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:news.china.com/socialgd/10000169/20261114/49872227_all.html",
+      "title": "黄仁勋辞职，英伟达与AI资本链震荡",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-14"
+    },
+    {
+      "key": "u:infoq.cn/article/e0aglhw78pzuik3cwqdo",
+      "title": "ChatGPT钱包上线，Agent可代用户下单支付",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-14"
+    },
+    {
+      "key": "u:sohu.com/a/1101542488_120454746",
+      "title": "27考研报名347万，小幅回升但结构性竞争加剧",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-14"
+    },
+    {
+      "key": "u:infoq.cn/article/fzsekdatl9xajg8pvi7g",
+      "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-14"
+    },
+    {
+      "key": "u:infoq.cn/article/0ipe2eoypcqmftl7z4z1",
+      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-14"
+    },
+    {
       "key": "u:msn.com/zh-cn/%e6%8a%80%e6%9c%af/%e7%a1%ac%e4%bb%b6%e5%92%8c%e8%ae%be%e5%a4%87/%e8%8b%b9%e6%9e%9cai%e7%9c%bc%e9%95%9c-%e8%a2%ab-%e7%8c%aa%e9%98%9f%e5%8f%8b-%e5%ae%9e%e9%94%a4%e4%ba%86/ar-aa2hk7xh",
       "title": "黄仁勋辞任英伟达，AI投资链与芯片管制承压",
       "topic": "科技产品与硬件",
@@ -869,37 +899,7 @@
       "title": "All the news about the iPhone Duo",
       "topic": "科技产品与硬件",
       "date": "2026-10-16"
-    },
-    {
-      "key": "u:finance.sina.com.cn/tech/roll/2026-10-16/doc-inivkncw1503858.shtml",
-      "title": "Meta开源8160亿参数模型，联手苹果本地跑",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "u:infoq.cn/article/hc8sagazmhc6sfwp9gc9",
-      "title": "FTC传唤OpenAI与Anthropic调查安全问题",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/%e6%8a%80%e6%9c%af/%e6%8a%80%e6%9c%af%e5%85%ac%e5%8f%b8/%e5%81%9c%e5%b7%a5%e8%bf%915%e5%b0%8f%e6%97%b6-deepseek%e5%b4%a9%e4%ba%86-%e7%82%b8%e4%b8%8a%e7%83%ad%e6%90%9c-%e6%80%a7%e8%83%bd%e4%b9%8b%e5%a4%96%e5%9b%bd%e4%ba%a7%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%bf%98%e9%9c%80%e8%a1%a5%e4%b8%8a-%e7%a8%b3%e5%ae%9a%e8%af%be/ar-aa2ekruz",
-      "title": "DeepSeek宕机近5小时，稳定性成上市问询点",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "u:msn.com/zh-cn/%e7%a7%91%e5%ad%a6/%e9%80%9a%e7%94%a8/%e5%8e%86%e5%8f%b2%e6%80%a7%e7%aa%81%e7%a0%b4-%e4%b8%ad%e5%9b%bd%e5%a4%a7%e6%a8%a1%e5%9e%8b%e9%a6%96%e6%ac%a1%e6%94%bb%e5%85%8b%e4%b8%96%e7%95%8c%e7%ba%a7%e6%95%b0%e5%ad%a6%e9%9a%be%e9%a2%98-%e4%b8%89%e7%bb%b4ghys%e7%8c%9c%e6%83%b3%e8%a2%ab%e7%a0%b4%e8%a7%a3/ar-aa2ejtq8",
-      "title": "中国大模型首次破解三维Ghys猜想",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-15"
-    },
-    {
-      "key": "u:infoq.cn/article/dfjza7hp0ohkmpaaifg0",
-      "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-15"
     }
   ],
-  "updatedAt": "2026-11-14T03:27:06.961Z"
+  "updatedAt": "2026-11-15T02:56:28.383Z"
 }
