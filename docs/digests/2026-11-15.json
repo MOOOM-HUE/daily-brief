@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-16T02:56:36.310Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "英伟达CEO黄仁勋辞职后拟回归、Anthropic启动IPO、中国大模型调用量领先，AI格局与就业信号交织。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 115,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 19550
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "一个被攻破的MCP服务器可劫持AI Agent",
+      "summary": "Palo Alto Networks旗下Unit 42实测显示，当单个AI Agent连接5个MCP服务器时，攻击成功率达78.3%，攻击者可借已被信任的工具链诱导Agent误用权限。研究同时指出，Agent已能自主花钱，但法律责任主体仍默认是自然人。",
+      "why": "MCP正成为Agent接入企业系统的标准接口，这一结果说明\"工具信任\"正在变成新的攻击面。对企业与开发者，Agent权限隔离、工具白名单与审计日志将从可选项变为上线前置条件，安全岗位需求随之上升。",
+      "divergence": "研究方强调这是真实规模下的可复现风险，部分厂商则认为测试未纳入其沙箱与人工确认机制，实际暴露面被高估。",
+      "source": {
+        "name": "Bing:AI Agent",
+        "url": "https://wap.cj.sina.cn/pc/7x24/5216690"
+      },
+      "image": {
+        "url": "",
+        "alt": "全球AI大模型周调用量榜单出炉：前四名被中国模型包揽"
+      },
+      "matchedKeywords": [
+        "MCP",
+        "AI Agent",
+        "安全"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "10月城镇调查失业率降至5.1%，秋招结构分化",
+      "summary": "国家统计局数据显示，10月全国城镇调查失业率5.1%，环比下降0.1个百分点，1—10月平均5.2%与上年持平。同期多家券商披露校招计划，财富管理、投研与金融科技成为补员重点，广发证券拟招20名金融科技人员；医学类岗位则持续缩招。",
+      "why": "宏观就业数据平稳，但结构变化明显：金融科技、AI相关岗位扩张，传统柜面与部分医学岗位收缩。对正在择校择业的读者，这组数据比单一招聘广告更能说明专业冷热与技能溢价的走向。",
+      "divergence": "官方口径强调就业形势总体稳定，而多篇校招与医学求职报道称岗位质量下降、竞争加剧，对\"稳定\"的体感解读存在差异。",
+      "source": {
+        "name": "Bing:就业形势",
+        "url": "https://www.msn.cn/zh-cn/money/%E7%BB%8F%E6%B5%8E/10%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3-%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98/ar-AA2huJVP"
+      },
+      "image": {
+        "url": "",
+        "alt": "10月份国民经济运行总体平稳、向新向优"
+      },
+      "matchedKeywords": [
+        "失业率",
+        "秋招",
+        "金融科技"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ee/95/ee39f1b331e220b0d3d32a895c734495.png",
+        "alt": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/d3/d9/d30c610c5248904697720d44cdc915d9.png",
+        "alt": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      },
+      "image": {
+        "url": "",
+        "alt": "Apple launches new app to study how people use AI for health"
+      },
+      "translation": {
+        "title": "苹果推出新应用，研究人们如何将AI用于健康",
+        "summary": "苹果推出的一款用于研究的新应用将回答日常医疗问题",
+        "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
+      }
+    }
+  ]
+}

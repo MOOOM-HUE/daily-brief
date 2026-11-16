@@ -1,110 +1,111 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-15T02:56:28.382Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-16T02:56:36.310Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "英伟达CEO黄仁勋因丑闻辞职引发AI权力与资本连锁震荡；同日LangChain高估值融资、ChatGPT钱包上线，标志Agent进入可治理与可支付阶段。",
+  "overview": "英伟达CEO黄仁勋辞职后拟回归、Anthropic启动IPO、中国大模型调用量领先，AI格局与就业信号交织。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 117,
+    "afterDedup": 115,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 18319
+    "durationMs": 19550
   },
   "items": [
     {
       "rank": 1,
       "topic": "AI / Agent / 大模型",
-      "title": "黄仁勋辞职，英伟达与AI资本链震荡",
-      "summary": "英伟达CEO黄仁勋因个人关系丑闻辞职，董事会已启动猎头寻找继任者，临时CEO Colette Kress被曝曾反对为OpenAI提供2500亿美元信贷背书。TechCrunch称黄仁勋任内对AI初创投入数百亿美元，风投与创始人预期融资额与估值将收缩；亚洲多国政府正评估芯片供应承诺与本地项目影响。",
-      "why": "英伟达是当前AI算力与资本循环的中枢，CEO更替直接牵动GPU供应、对OpenAI等大客户的信贷支持与初创融资环境。对读者而言，这既是AI泡沫风险的现实检验，也是观察下一轮算力议价权与创业融资窗口的关键节点。",
-      "divergence": "部分报道将辞职归因于个人丑闻与国家安全风险，另一些则强调继任者未定、供应链承诺不变；对融资收缩幅度，风投说法与官方口径存在温差。",
+      "title": "一个被攻破的MCP服务器可劫持AI Agent",
+      "summary": "Palo Alto Networks旗下Unit 42实测显示，当单个AI Agent连接5个MCP服务器时，攻击成功率达78.3%，攻击者可借已被信任的工具链诱导Agent误用权限。研究同时指出，Agent已能自主花钱，但法律责任主体仍默认是自然人。",
+      "why": "MCP正成为Agent接入企业系统的标准接口，这一结果说明\"工具信任\"正在变成新的攻击面。对企业与开发者，Agent权限隔离、工具白名单与审计日志将从可选项变为上线前置条件，安全岗位需求随之上升。",
+      "divergence": "研究方强调这是真实规模下的可复现风险，部分厂商则认为测试未纳入其沙箱与人工确认机制，实际暴露面被高估。",
       "source": {
-        "name": "TechCrunch AI",
-        "url": "https://news.china.com/socialgd/10000169/20261114/49872227_all.html"
+        "name": "Bing:AI Agent",
+        "url": "https://wap.cj.sina.cn/pc/7x24/5216690"
       },
       "image": {
         "url": "",
-        "alt": "五大AI巨头被诉叫停开发新模型 表面警告背后加速"
+        "alt": "全球AI大模型周调用量榜单出炉：前四名被中国模型包揽"
       },
       "matchedKeywords": [
-        "英伟达",
-        "黄仁勋",
-        "融资"
+        "MCP",
+        "AI Agent",
+        "安全"
       ]
     },
     {
       "rank": 2,
-      "topic": "AI / Agent / 大模型",
-      "title": "ChatGPT钱包上线，Agent可代用户下单支付",
-      "summary": "OpenAI推出ChatGPT Wallet，首批面向美国Pro订阅用户灰度，其Dots智能体可代用户购买商品、预订酒店，每笔交易需用户确认，且不直接接触卡号。该功能被视为Agent从信息处理走向交易执行的关键一步。",
-      "why": "支付是Agent商业闭环的最后一块拼图，一旦跑通，Agent将从“助手”变成有交易权限的执行者，直接冲击电商、OTA与支付风控体系。对从业者而言，Agent身份认证、授权与责任划分将成为新的产品与合规议题。",
-      "divergence": "",
+      "topic": "大学 / 专业 / 就业",
+      "title": "10月城镇调查失业率降至5.1%，秋招结构分化",
+      "summary": "国家统计局数据显示，10月全国城镇调查失业率5.1%，环比下降0.1个百分点，1—10月平均5.2%与上年持平。同期多家券商披露校招计划，财富管理、投研与金融科技成为补员重点，广发证券拟招20名金融科技人员；医学类岗位则持续缩招。",
+      "why": "宏观就业数据平稳，但结构变化明显：金融科技、AI相关岗位扩张，传统柜面与部分医学岗位收缩。对正在择校择业的读者，这组数据比单一招聘广告更能说明专业冷热与技能溢价的走向。",
+      "divergence": "官方口径强调就业形势总体稳定，而多篇校招与医学求职报道称岗位质量下降、竞争加剧，对\"稳定\"的体感解读存在差异。",
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article"
+        "name": "Bing:就业形势",
+        "url": "https://www.msn.cn/zh-cn/money/%E7%BB%8F%E6%B5%8E/10%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3-%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98/ar-AA2huJVP"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/a0/03/a048922169534bb1a148df266cbbca03.jpg",
-        "alt": "ChatGPT钱包上线，Agent可代用户下单支付"
+        "url": "",
+        "alt": "10月份国民经济运行总体平稳、向新向优"
       },
       "matchedKeywords": [
-        "ChatGPT",
-        "Agent",
-        "支付"
+        "失业率",
+        "秋招",
+        "金融科技"
       ]
     },
     {
       "rank": 3,
-      "topic": "大学 / 专业 / 就业",
-      "title": "27考研报名347万，小幅回升但结构性竞争加剧",
-      "summary": "27考研官方报名人数347万，较26考研的343万增加4万，结束自2023年峰值474万以来连续三年下滑，但增幅仅约1.2%。分析指出总量企稳背后是热门院校与专业竞争加剧，部分211院校热门专业复试线已逼近985水平。",
-      "why": "考研人数止跌回升意味着升学赛道并未降温，而是竞争从“总量”转向“结构”，对专业选择与院校策略的影响更直接。对关注就业与升学的读者，需重新评估读研的投入产出比与目标院校的真实录取难度。",
-      "divergence": "",
-      "source": {
-        "name": "Bing:考研 分数线",
-        "url": "https://www.sohu.com/a/1101542488_120454746"
-      },
-      "image": {
-        "url": "",
-        "alt": "27考研报名人数出炉，总量小幅回升，结构性竞争才是难点"
-      },
-      "matchedKeywords": [
-        "考研",
-        "报名人数",
-        "就业"
-      ]
-    },
-    {
-      "rank": 4,
       "topic": "AI / Agent / 大模型",
-      "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/86/d3/8698c5d36b2cc66b884a9c7a0af333d3.jpg",
-        "alt": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京"
+        "url": "https://static001.infoq.cn/resource/image/ee/95/ee39f1b331e220b0d3d32a895c734495.png",
+        "alt": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/d3/d9/d30c610c5248904697720d44cdc915d9.png",
+        "alt": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”"
       }
     },
     {
       "rank": 5,
       "topic": "AI / Agent / 大模型",
-      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
-      "summary": "点击查看原文>",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article"
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
       },
       "image": {
-        "url": "https://static001.infoq.cn/resource/image/7f/1b/7fcc55aba252a36d90f894d0b766391b.jpg",
-        "alt": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力"
+        "url": "",
+        "alt": "Apple launches new app to study how people use AI for health"
+      },
+      "translation": {
+        "title": "苹果推出新应用，研究人们如何将AI用于健康",
+        "summary": "苹果推出的一款用于研究的新应用将回答日常医疗问题",
+        "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+        "divergence": ""
       }
     }
   ]
