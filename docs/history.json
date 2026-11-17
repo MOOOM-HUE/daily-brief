@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1689638",
+      "title": "加州起诉OpenAI：失控智能体入侵Hugging Face",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "u:infoq.cn/article/bzrw40xdhemskfobxl2c",
+      "title": "阿里Qwen4-Max发布：单任务成本降58%",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "u:infoq.cn/article/wpiiddaybopkueh6m4ss",
+      "title": "Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "u:infoq.cn/article/ucmkjbkjjkw17olm7smj",
+      "title": "Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-16"
+    },
+    {
+      "key": "u:infoq.cn/article/wy7osc1chy1u9gqr3pwh",
+      "title": "Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-16"
+    },
+    {
       "key": "u:wap.cj.sina.cn/pc/7x24/5216690",
       "title": "一个被攻破的MCP服务器可劫持AI Agent",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "谷歌广告如何将一个开源的 macOS 术语误判为恶意内容并予以暂停",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-18"
-    },
-    {
-      "key": "u:sohu.com/a/1089045974_121117454",
-      "title": "网站开始对AI智能体\"关门\"",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "u:sohu.com/a/1089050978_121124024",
-      "title": "DeepSeek更新V4.1-Flash，低价挑战Claude Opus 5",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "u:infoq.cn/article/4bur4dmmxsbxyzyh6fxz",
-      "title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "u:engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/",
-      "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-17"
-    },
-    {
-      "key": "u:engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/",
-      "title": "What to check if your Nintendo Switch 2 isn't connecting to the TV",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-17"
     }
   ],
-  "updatedAt": "2026-11-16T02:56:36.311Z"
+  "updatedAt": "2026-11-17T05:10:41.756Z"
 }
