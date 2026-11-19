@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-19T04:21:46.784Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "Anthropic以83美元定价IPO、Gemini 4 Neon低价突袭、英伟达权力交接与对华停售，AI格局与职业冲击同日共振。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 15746
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "Anthropic IPO定价83美元，估值1.5万亿",
+      "summary": "Anthropic于11月18日将IPO发行价定为每股83美元，高于此前预期区间，按完全稀释口径估值约1.5万亿美元，有望成为史上最大IPO之一。华尔街已提前推出挂钩产品并造势，散户认购热情被指可能超过SpaceX。",
+      "why": "这是AI公司首次以万亿级估值接受公开市场定价，将为大模型公司的收入质量、亏损结构与治理透明度立下参照系。对从业者而言，它意味着AI实验室从私募叙事转向季度财报约束，薪酬结构与招聘节奏都可能随之变化。",
+      "divergence": "部分报道强调其营收领先OpenAI、亏损更小；也有观点认为高估值更多来自稀缺性溢价，长期仍取决于企业价值观与商业化执行力。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://eu.36kr.com/zh/p/4076048235008899"
+      },
+      "image": {
+        "url": "https://img.36krcdn.com/hsossms/20261119/v2_ce9f1ce116654b0182370ee707a07b77@5091053@ai_oswg955827oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+        "alt": "Anthropic IPO定价83美元，估值1.5万亿"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "Gemini 4 Neon突袭发布，主打低价复杂任务",
+      "summary": "Google于11月18日晚发布Gemini 4 Neon，主打复杂任务处理与更低单次成本，被媒体形容为在性价比上直接压制Opus 5.5。发布时点紧随OpenAI GPT-6.2系列，前沿模型价格战进一步升级。",
+      "why": "单次调用成本继续下探，会直接改变企业在Agent工作流中“多模型混用”的成本模型，也让高频调用型产品重新具备毛利空间。对开发者而言，选型逻辑正从“最强模型”转向“任务分层+成本路由”。",
+      "divergence": "",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795045977955-17.jpg",
+        "alt": "Gemini 4 Neon突袭发布，主打低价复杂任务"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "英伟达停售对华AI芯片，权力交接引震荡",
+      "summary": "英伟达已停止向中国出货先进AI芯片，尽管此前获得白宫批准；同时黄仁勋离职后由Colette Kress出任临时CEO，董事会拒绝其回归，公司宣布全员加薪。马斯克、纳德拉、Palmer Luckey等公开表态支持黄仁勋。",
+      "why": "对华停售叠加管理层更替，使全球AI算力供给与地缘政策同时进入不确定期，国内算力采购与国产替代节奏会被重新评估。领导层真空期也考验英伟达在CUDA生态与客户信任上的连续性。",
+      "divergence": "马斯克称罢免黄仁勋如同“把乔丹踢出球队”，认为其不忠说法不成立；也有分析认为单一领导人依赖恰恰暴露AI产业的脆弱性。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/55/41/553c67aa7d3299812e0f8c01696f4d41.jpeg",
+        "alt": "英伟达停售对华AI芯片，权力交接引震荡"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "纳德拉：Claude Code让微软二十年IDE优势半年动摇",
+      "summary": "微软CEO纳德拉回应首次向约6万名工程师提供自愿离职补偿，直言Claude Code类工具让微软措手不及，二十年IDE积累在半年内被撼动。他同时预测AI Agent将重塑网络广告经济。",
+      "why": "这是大型软件公司首次公开承认编码Agent对自身核心产品护城河的冲击，直接解释了大规模买断背后的成本与组织逻辑。对开发者而言，工具链话语权正从IDE厂商转向模型与Agent平台。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/d0/e8/d093313cf8f6a258f1ac83a8d9ed6ce8.png",
+        "alt": "纳德拉：Claude Code让微软二十年IDE优势半年动摇"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "银行划清界限：AI Agent被盗刷用户自担",
+      "summary": "花旗成为最新一家对个人理财AI Agent设限的大型银行，多家金融机构明确表示，若客户使用AI Agent操作账户后遭黑客攻击，损失由用户自行承担。加州对OpenAI的诉讼与参议院两党警告同期推进。",
+      "why": "Agent从演示走向代办转账、争议账单等真实金融操作，责任归属却仍空白，这会成为Agent商业化落地的第一道硬门槛。做Agent产品的团队需要提前设计授权、审计与赔付边界，否则难以进入金融等高价值场景。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+      },
+      "image": {
+        "url": "",
+        "alt": "Satya Nadella predicts AI agents will reshuffle the economics of the web"
+      },
+      "matchedKeywords": []
+    }
+  ]
+}

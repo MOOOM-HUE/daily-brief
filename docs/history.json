@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:eu.36kr.com/zh/p/4076048235008899",
+      "title": "Anthropic IPO定价83美元，估值1.5万亿",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-18"
+    },
+    {
+      "key": "u:ifanr.com/1690235",
+      "title": "Gemini 4 Neon突袭发布，主打低价复杂任务",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-18"
+    },
+    {
+      "key": "u:infoq.cn/article/gsgpeuu4dcdpptcmaosy",
+      "title": "英伟达停售对华AI芯片，权力交接引震荡",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-18"
+    },
+    {
+      "key": "u:infoq.cn/article/zuc0vhq9xm3bfhsqqlw3",
+      "title": "纳德拉：Claude Code让微软二十年IDE优势半年动摇",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-18"
+    },
+    {
+      "key": "u:techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "title": "银行划清界限：AI Agent被盗刷用户自担",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-18"
+    },
+    {
       "key": "u:sohu.com/a/1103068776_313745",
       "title": "Anthropic IPO获10至20倍超额认购，亚马逊谷歌将合计持股近30%",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "三十而立，奇瑞不想只做一家汽车公司",
       "topic": "科技产品与硬件",
       "date": "2026-10-20"
-    },
-    {
-      "key": "u:techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "title": "微软：AI Agent 是内部威胁",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "u:stdaily.com/web/gdxw/2026-10/20/content_598835.html",
-      "title": "CoreWeave债务成AI行业隐忧",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "u:eet-china.com/news/202610207374.html",
-      "title": "苹果定档10月28日发布触屏MacBook",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "u:infoq.cn/article/pvgexqqbbt4tspkemmel",
-      "title": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-19"
-    },
-    {
-      "key": "u:techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-19"
     }
   ],
-  "updatedAt": "2026-11-18T04:38:09.482Z"
+  "updatedAt": "2026-11-19T04:21:46.785Z"
 }
