@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-20T04:09:23.730Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "Anthropic上市首日暴涨，苹果、谷歌同日加码电脑智能体，AI竞争从模型转向入口与资本。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 33550
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "Anthropic登陆纳斯达克，首日市值破万亿",
+      "summary": "Anthropic以83美元发行价登陆纳斯达克，开盘111.5美元、盘中冲至115美元，收于97.17美元，首日涨约17%，募资约81.3亿美元，成为史上最大IPO，盘中市值一度超2万亿美元。七位创始人合计套现近20亿美元，公司称其公益基金会及员工捐赠加公司配捐合计可达1560亿美元。",
+      "why": "这是大模型公司第一次接受公开市场定价，等于给整个AI融资循环做压力测试：Anthropic背负巨额算力承诺，上市后必须向季报交代投入产出，其估值波动会直接传导到OpenAI等未上市公司的融资条件与人才定价。对读者而言，AI公司的薪酬结构将从期权故事转向可交易股票，择业时的风险收益计算方式随之改变。",
+      "divergence": "看多者认为公开市场认购火爆证明AI需求真实；质疑者（如TechCrunch）指出其算力承诺与亚马逊、谷歌的循环融资结构才是真正风险，首日收盘较盘中高点回落近16%也被解读为泡沫信号。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.sohu.com/a/1103972456_120549004"
+      },
+      "image": {
+        "url": "",
+        "alt": "Anthropic上市了，大模型泡沫也不远了"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "苹果被曝招募团队自研接管电脑的AI智能体",
+      "summary": "彭博通过招聘信息发现，苹果正招聘高级工程经理，组建能跨应用操作、浏览网页、编写代码的“可靠且安全”的智能体团队，形态对标Meta Muse、OpenAI Dots与Claude Duet。消息传出后，Anthropic盘后股价跌超3%。",
+      "why": "苹果拥有十亿级终端入口，一旦把系统级智能体做进macOS与iOS，Agent的分发格局会从“下载App”变成“系统默认”，直接压缩第三方Agent的获客空间。这也是苹果在AI竞赛中首次显露出从跟随转向平台化收口的意图，值得关注其对开发者生态的连带影响。",
+      "divergence": "部分报道称苹果已有成型产品路线图，另一些仅依据招聘信息判断其处于早期组建阶段，对落地时间表存在明显分歧。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.msn.cn/zh-cn/news/other/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%B5%8B%E8%83%BD%E6%96%B0%E5%9E%8B%E5%B7%A5%E4%B8%9A%E5%8C%96%E8%BF%9B%E5%8C%BA%E5%B8%82-%E8%BF%9B%E5%9B%AD%E5%8C%BA-%E8%BF%9B%E4%BC%81%E4%B8%9A-%E8%A1%8C%E5%8A%A8%E5%90%AF%E5%8A%A8-%E6%B5%AA%E6%BD%AE%E4%BA%91%E6%B4%B2%E4%B8%8E%E7%83%9F%E5%8F%B0%E5%9B%9B%E5%A4%A7%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E7%AD%BE%E7%BA%A6-%E8%AE%A9ai%E4%BB%8E%E4%BC%9A%E5%9C%BA%E8%B5%B0%E5%90%91%E4%BC%81%E4%B8%9A%E8%BD%A6%E9%97%B4/ar-AA2hOd1G"
+      },
+      "image": {
+        "url": "",
+        "alt": "“人工智能赋能新型工业化进区市、进园区、进企业”行动启动，浪潮云洲与烟台四大行业协会签约——让AI从会场走向企业车间"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "大学 / 专业 / 就业",
+      "title": "多所名校官宣专硕不提供宿舍，2027级先遇租房难题",
+      "summary": "多所高校宣布专业硕士不再提供校内宿舍，读研期间需自行租房，一年多支出可达数万元，2027级新生将最先受影响。这一变化与部分高校扩招、宿舍资源紧张及专硕规模扩大直接相关。",
+      "why": "专硕已是研究生招生的主体，住宿成本外化等于实质抬高读研的隐性门槛，会改变考生在学硕与专硕、本地与外地院校之间的性价比计算。对准备考研的学生，这是必须提前纳入预算与择校模型的变量，而非个别学校的后勤问题。",
+      "divergence": "暂无重大分歧。",
+      "source": {
+        "name": "Bing:考研 分数线",
+        "url": "https://www.msn.com/zh-cn/news/other/%E5%A4%9A%E6%89%80%E5%90%8D%E6%A0%A1%E5%AE%98%E5%AE%A3%E4%B8%93%E7%A1%95%E4%B8%8D%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D-%E8%AF%BB%E7%A0%94%E6%97%A0%E5%AE%BF%E8%88%8D%E4%B8%80%E5%B9%B4%E5%A4%9A%E8%8A%B1%E6%95%B0%E4%B8%87%E5%85%83-2027-%E7%BA%A7%E6%96%B0%E7%94%9F%E5%85%88%E9%9D%A2%E4%B8%B4%E7%A7%9F%E6%88%BF%E9%9A%BE%E9%A2%98/ar-AA2hOcGg"
+      },
+      "image": {
+        "url": "",
+        "alt": "多所名校官宣专硕不提供宿舍，读研无宿舍一年多花数万元，2027 级新生先面临租房难题"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "",
+        "alt": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "",
+        "alt": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon"
+      }
+    }
+  ]
+}
