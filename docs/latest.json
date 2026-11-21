@@ -1,98 +1,99 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-20T04:09:23.730Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-21T04:08:48.010Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "Anthropic上市首日暴涨，苹果、谷歌同日加码电脑智能体，AI竞争从模型转向入口与资本。",
+  "overview": "AI数学突破与隐私攻防同日升级，华为新品牌、毕业生就业与英伟达风波折射产业格局变化。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 120,
+    "afterDedup": 118,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 33550
+    "durationMs": 15182
   },
   "items": [
     {
       "rank": 1,
       "topic": "AI / Agent / 大模型",
-      "title": "Anthropic登陆纳斯达克，首日市值破万亿",
-      "summary": "Anthropic以83美元发行价登陆纳斯达克，开盘111.5美元、盘中冲至115美元，收于97.17美元，首日涨约17%，募资约81.3亿美元，成为史上最大IPO，盘中市值一度超2万亿美元。七位创始人合计套现近20亿美元，公司称其公益基金会及员工捐赠加公司配捐合计可达1560亿美元。",
-      "why": "这是大模型公司第一次接受公开市场定价，等于给整个AI融资循环做压力测试：Anthropic背负巨额算力承诺，上市后必须向季报交代投入产出，其估值波动会直接传导到OpenAI等未上市公司的融资条件与人才定价。对读者而言，AI公司的薪酬结构将从期权故事转向可交易股票，择业时的风险收益计算方式随之改变。",
-      "divergence": "看多者认为公开市场认购火爆证明AI需求真实；质疑者（如TechCrunch）指出其算力承诺与亚马逊、谷歌的循环融资结构才是真正风险，首日收盘较盘中高点回落近16%也被解读为泡沫信号。",
+      "title": "Anthropic数学家称用Claude证明黎曼猜想",
+      "summary": "Anthropic数学家Levent Alpöge声称借助Claude证明了困扰数学界167年的黎曼猜想，引发学界震动；与此同时，有数学家宣布独立给出人类证明，形成AI与人类同日竞速的局面。此前OpenAI宣称证明数学难题已遭学界质疑，此次争议进一步升级。",
+      "why": "这是继GPT-6.1宣称证明ETH不成立后，AI在基础数学领域最激进的一次宣示。若成立，将重塑AI在科研中的角色定位；若证伪，则暴露大模型'宣称突破'的信任危机，直接影响科研机构对AI辅助研究的采纳节奏。",
+      "divergence": "Anthropic一方称Claude完成证明，但学界对证明的完整性与可验证性存疑；同时出现人类数学家的竞争性证明，双方优先权与证明有效性均未获同行评议确认。",
       "source": {
         "name": "The Verge AI",
-        "url": "https://www.sohu.com/a/1103972456_120549004"
+        "url": "https://hao.cnyes.com/post/279121"
       },
       "image": {
-        "url": "",
-        "alt": "Anthropic上市了，大模型泡沫也不远了"
+        "url": "https://hao.cnyes.com/download_image.ashx?file=%2FUpload%2Fd01871cec5c64f19a092a4303991da62.webp",
+        "alt": "Anthropic数学家称用Claude证明黎曼猜想"
       },
       "matchedKeywords": []
     },
     {
       "rank": 2,
       "topic": "AI / Agent / 大模型",
-      "title": "苹果被曝招募团队自研接管电脑的AI智能体",
-      "summary": "彭博通过招聘信息发现，苹果正招聘高级工程经理，组建能跨应用操作、浏览网页、编写代码的“可靠且安全”的智能体团队，形态对标Meta Muse、OpenAI Dots与Claude Duet。消息传出后，Anthropic盘后股价跌超3%。",
-      "why": "苹果拥有十亿级终端入口，一旦把系统级智能体做进macOS与iOS，Agent的分发格局会从“下载App”变成“系统默认”，直接压缩第三方Agent的获客空间。这也是苹果在AI竞赛中首次显露出从跟随转向平台化收口的意图，值得关注其对开发者生态的连带影响。",
-      "divergence": "部分报道称苹果已有成型产品路线图，另一些仅依据招聘信息判断其处于早期组建阶段，对落地时间表存在明显分歧。",
+      "title": "Signal默认禁止截图，封堵AI Agent读消息",
+      "summary": "加密通讯应用Signal宣布在Android与iOS上默认限制截图功能，以阻止手机内置AI Agent（如Gemini、Siri）读取用户私密消息。Signal称该修复'并不完整'，并呼吁系统厂商提供让开发者退出AI屏幕读取的简单机制。",
+      "why": "这是终端AI Agent与隐私边界正面冲突的标志性事件：手机厂商把屏幕读取做成系统级能力，而加密应用只能用不完整手段反制。对做Agent产品的团队意味着权限模型将成为合规与用户信任的核心战场。",
+      "divergence": "Signal称此举是应对'生存级'隐私威胁的必要防御，但部分评论认为截图限制影响普通用户正常使用，且无法真正阻止系统级屏幕读取。",
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.msn.cn/zh-cn/news/other/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%B5%8B%E8%83%BD%E6%96%B0%E5%9E%8B%E5%B7%A5%E4%B8%9A%E5%8C%96%E8%BF%9B%E5%8C%BA%E5%B8%82-%E8%BF%9B%E5%9B%AD%E5%8C%BA-%E8%BF%9B%E4%BC%81%E4%B8%9A-%E8%A1%8C%E5%8A%A8%E5%90%AF%E5%8A%A8-%E6%B5%AA%E6%BD%AE%E4%BA%91%E6%B4%B2%E4%B8%8E%E7%83%9F%E5%8F%B0%E5%9B%9B%E5%A4%A7%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E7%AD%BE%E7%BA%A6-%E8%AE%A9ai%E4%BB%8E%E4%BC%9A%E5%9C%BA%E8%B5%B0%E5%90%91%E4%BC%81%E4%B8%9A%E8%BD%A6%E9%97%B4/ar-AA2hOd1G"
+        "name": "Engadget",
+        "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "“人工智能赋能新型工业化进区市、进园区、进企业”行动启动，浪潮云洲与烟台四大行业协会签约——让AI从会场走向企业车间"
+        "url": "https://static001.infoq.cn/resource/image/88/8f/88a9639cc86acfb239c271088d29998f.png",
+        "alt": "Signal默认禁止截图，封堵AI Agent读消息"
       },
       "matchedKeywords": []
     },
     {
       "rank": 3,
       "topic": "大学 / 专业 / 就业",
-      "title": "多所名校官宣专硕不提供宿舍，2027级先遇租房难题",
-      "summary": "多所高校宣布专业硕士不再提供校内宿舍，读研期间需自行租房，一年多支出可达数万元，2027级新生将最先受影响。这一变化与部分高校扩招、宿舍资源紧张及专硕规模扩大直接相关。",
-      "why": "专硕已是研究生招生的主体，住宿成本外化等于实质抬高读研的隐性门槛，会改变考生在学硕与专硕、本地与外地院校之间的性价比计算。对准备考研的学生，这是必须提前纳入预算与择校模型的变量，而非个别学校的后勤问题。",
-      "divergence": "暂无重大分歧。",
+      "title": "2027届高校毕业生达1299万，秋招岗位仅551万",
+      "summary": "教育部会议公布2027届全国普通高校毕业生规模预计1299万人，比2026届增加29万。据央视报道，2026年秋招提供给应届生的岗位仅551.5万个，供需缺口进一步扩大，被称为'最难就业季'。",
+      "why": "毕业生规模连年创新高而岗位供给收缩，直接关系到读者的专业选择与求职策略。AI相关岗位需求旺盛与传统岗位收缩并存，志愿填报与技能投入的性价比正在被重新定价。",
+      "divergence": "",
       "source": {
-        "name": "Bing:考研 分数线",
-        "url": "https://www.msn.com/zh-cn/news/other/%E5%A4%9A%E6%89%80%E5%90%8D%E6%A0%A1%E5%AE%98%E5%AE%A3%E4%B8%93%E7%A1%95%E4%B8%8D%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D-%E8%AF%BB%E7%A0%94%E6%97%A0%E5%AE%BF%E8%88%8D%E4%B8%80%E5%B9%B4%E5%A4%9A%E8%8A%B1%E6%95%B0%E4%B8%87%E5%85%83-2027-%E7%BA%A7%E6%96%B0%E7%94%9F%E5%85%88%E9%9D%A2%E4%B8%B4%E7%A7%9F%E6%88%BF%E9%9A%BE%E9%A2%98/ar-AA2hOcGg"
+        "name": "Bing:校招 秋招",
+        "url": "https://www.sohu.com/a/1104246490_121124027"
       },
       "image": {
-        "url": "",
-        "alt": "多所名校官宣专硕不提供宿舍，读研无宿舍一年多花数万元，2027 级新生先面临租房难题"
+        "url": "https://q7.itc.cn/q_70/images03/20261120/77b977b45eeb44688624fa3d4ca73803.png",
+        "alt": "2027届高校毕业生达1299万，秋招岗位仅551万"
       },
       "matchedKeywords": []
     },
     {
       "rank": 4,
       "topic": "AI / Agent / 大模型",
-      "title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
-      "summary": "点击查看原文>",
-      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
-      "divergence": "",
+      "title": "黄仁勋离职后传将创办新芯片公司，拟募资500亿美元",
+      "summary": "前英伟达CEO黄仁勋去向成为硅谷焦点，科技记者Rohan Goswami预测其可能创办新半导体公司并筹集约500亿美元，但强调这并非已公布计划，也无证据显示资金到位。同期英伟达财报增长健康，却面临股价连续第七日下跌与董事会拒绝其回归的传闻。",
+      "why": "全球最重要芯片公司的创始人出走与可能的再创业，将牵动AI算力供应链格局与人才流向。对从业者而言，这既是观察英伟达治理与战略连续性的窗口，也可能预示新一轮芯片创业潮的起点。",
+      "divergence": "爆料方称黄仁勋是主动辞职而非被解雇，并预测其将再创业；但另有核查指出'融资500亿创办新公司'的说法源自旧视频，缺乏可信报道支撑。",
       "source": {
-        "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&utm_medium=article"
+        "name": "Bing:人工智能 行业",
+        "url": "https://finance.sina.com.cn/wm/2026-11-20/doc-inizkuqx5499983.shtml"
       },
       "image": {
         "url": "",
-        "alt": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构"
-      }
+        "alt": "曝黄仁勋再创业！或将创办新半导体公司，重返人工智能行业，“其可能从朋友和盟友处筹集500亿美元创业”"
+      },
+      "matchedKeywords": []
     },
     {
       "rank": 5,
       "topic": "AI / Agent / 大模型",
-      "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
       "summary": "点击查看原文>",
       "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
         "name": "InfoQ 中文",
-        "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article"
+        "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon"
+        "url": "https://static001.infoq.cn/resource/image/ca/01/ca49590fd7a410c61e96c14862dfe401.png",
+        "alt": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京"
       }
     }
   ]

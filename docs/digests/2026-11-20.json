@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-21T04:08:48.010Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "AI数学突破与隐私攻防同日升级，华为新品牌、毕业生就业与英伟达风波折射产业格局变化。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 118,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 15182
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "Anthropic数学家称用Claude证明黎曼猜想",
+      "summary": "Anthropic数学家Levent Alpöge声称借助Claude证明了困扰数学界167年的黎曼猜想，引发学界震动；与此同时，有数学家宣布独立给出人类证明，形成AI与人类同日竞速的局面。此前OpenAI宣称证明数学难题已遭学界质疑，此次争议进一步升级。",
+      "why": "这是继GPT-6.1宣称证明ETH不成立后，AI在基础数学领域最激进的一次宣示。若成立，将重塑AI在科研中的角色定位；若证伪，则暴露大模型'宣称突破'的信任危机，直接影响科研机构对AI辅助研究的采纳节奏。",
+      "divergence": "Anthropic一方称Claude完成证明，但学界对证明的完整性与可验证性存疑；同时出现人类数学家的竞争性证明，双方优先权与证明有效性均未获同行评议确认。",
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://hao.cnyes.com/post/279121"
+      },
+      "image": {
+        "url": "https://hao.cnyes.com/download_image.ashx?file=%2FUpload%2Fd01871cec5c64f19a092a4303991da62.webp",
+        "alt": "Anthropic数学家称用Claude证明黎曼猜想"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "Signal默认禁止截图，封堵AI Agent读消息",
+      "summary": "加密通讯应用Signal宣布在Android与iOS上默认限制截图功能，以阻止手机内置AI Agent（如Gemini、Siri）读取用户私密消息。Signal称该修复'并不完整'，并呼吁系统厂商提供让开发者退出AI屏幕读取的简单机制。",
+      "why": "这是终端AI Agent与隐私边界正面冲突的标志性事件：手机厂商把屏幕读取做成系统级能力，而加密应用只能用不完整手段反制。对做Agent产品的团队意味着权限模型将成为合规与用户信任的核心战场。",
+      "divergence": "Signal称此举是应对'生存级'隐私威胁的必要防御，但部分评论认为截图限制影响普通用户正常使用，且无法真正阻止系统级屏幕读取。",
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/88/8f/88a9639cc86acfb239c271088d29998f.png",
+        "alt": "Signal默认禁止截图，封堵AI Agent读消息"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "大学 / 专业 / 就业",
+      "title": "2027届高校毕业生达1299万，秋招岗位仅551万",
+      "summary": "教育部会议公布2027届全国普通高校毕业生规模预计1299万人，比2026届增加29万。据央视报道，2026年秋招提供给应届生的岗位仅551.5万个，供需缺口进一步扩大，被称为'最难就业季'。",
+      "why": "毕业生规模连年创新高而岗位供给收缩，直接关系到读者的专业选择与求职策略。AI相关岗位需求旺盛与传统岗位收缩并存，志愿填报与技能投入的性价比正在被重新定价。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:校招 秋招",
+        "url": "https://www.sohu.com/a/1104246490_121124027"
+      },
+      "image": {
+        "url": "https://q7.itc.cn/q_70/images03/20261120/77b977b45eeb44688624fa3d4ca73803.png",
+        "alt": "2027届高校毕业生达1299万，秋招岗位仅551万"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "黄仁勋离职后传将创办新芯片公司，拟募资500亿美元",
+      "summary": "前英伟达CEO黄仁勋去向成为硅谷焦点，科技记者Rohan Goswami预测其可能创办新半导体公司并筹集约500亿美元，但强调这并非已公布计划，也无证据显示资金到位。同期英伟达财报增长健康，却面临股价连续第七日下跌与董事会拒绝其回归的传闻。",
+      "why": "全球最重要芯片公司的创始人出走与可能的再创业，将牵动AI算力供应链格局与人才流向。对从业者而言，这既是观察英伟达治理与战略连续性的窗口，也可能预示新一轮芯片创业潮的起点。",
+      "divergence": "爆料方称黄仁勋是主动辞职而非被解雇，并预测其将再创业；但另有核查指出'融资500亿创办新公司'的说法源自旧视频，缺乏可信报道支撑。",
+      "source": {
+        "name": "Bing:人工智能 行业",
+        "url": "https://finance.sina.com.cn/wm/2026-11-20/doc-inizkuqx5499983.shtml"
+      },
+      "image": {
+        "url": "",
+        "alt": "曝黄仁勋再创业！或将创办新半导体公司，重返人工智能行业，“其可能从朋友和盟友处筹集500亿美元创业”"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ca/01/ca49590fd7a410c61e96c14862dfe401.png",
+        "alt": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京"
+      }
+    }
+  ]
+}
