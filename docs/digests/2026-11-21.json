@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-22T03:20:55.645Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "黎曼猜想AI证明获Lean认证引爆学界，美远程算力管制与数据中心外迁税重塑AI地缘，Anthropic上市后估值争议与AI泡沫论同台。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 117,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 14883
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "Claude黎曼猜想证明获Lean认证，学界现人机双解",
+      "summary": "Anthropic称Claude给出黎曼猜想的机器证明，并已通过Lean证明助手官方认证，马斯克称其为惊人成就。与此同时，斯坦福数学家Levent Alpöge另抛出一份人工推导，数学家Masoulo称自己研究该问题近12年、原计划一年后发布。陶哲轩等学者亦公开回应，讨论焦点从'是否成立'转向'如何验证与署名'。",
+      "why": "这是AI首次在千禧年难题级别问题上给出可被形式化验证的成果，若成立将改变数学研究的协作与署名规则。对读者而言，'AI做基础科研'从口号变成可核查的工程流程，值得关注形式化验证工具链与科研评价体系的变化。",
+      "divergence": "Anthropic一方强调AI独立完成并通过Lean认证，部分数学家则认为人类推导可能更早或更完整，且对AI证明的原创性与可解释性存疑。",
+      "source": {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795311159024-2.jpg",
+        "alt": "Claude黎曼猜想证明获Lean认证，学界现人机双解"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "Anthropic上市首日巨震，AI泡沫论升温",
+      "summary": "Anthropic登陆纳斯达克，IPO募资约813亿美元，加上260亿美元私募配售合计约1073亿美元，打破SpaceX的全球IPO募资纪录。但上市后股价剧烈波动，市值一度冲至2万亿美元引发'能否兑现回报'的争论；同期美股周五重挫，纳指年内涨幅回吐，智谱、MiniMax等未上市模型公司估值承压。",
+      "why": "这是AI行业第一次用公开市场定价检验大模型公司价值，结果将直接影响一级市场融资节奏与创业公司估值锚。对从业者而言，融资环境收紧可能加速行业整合与人才流动。",
+      "divergence": "看多者认为IPO募资规模证明资本仍愿为AI买单，空头与'大空头'伯里等则认为估值已脱离盈利现实、泡沫正在破裂。",
+      "source": {
+        "name": "Bing:大模型",
+        "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413420/%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%BF%8E%E7%AA%81%E7%A0%B4-anthropic%E5%B0%88%E5%AE%B6%E7%A8%B1%E6%86%91ai%E7%A0%B4%E8%A7%A3-%E5%8F%B2%E4%B8%B9%E7%A6%8F%E5%AD%B8%E8%80%85%E5%8F%A6%E6%8B%8B%E8%AD%89%E6%98%8E"
+      },
+      "image": {
+        "url": "https://cdn.hk01.com/di/media/images/dw/20261121/1200861068776181760385024.jpeg/BQEGc1s4FJ3vebdT7zIa1IDWxDF2Hy6dwJ8pF8CfKRc",
+        "alt": "Anthropic上市首日巨震，AI泡沫论升温"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "科技产品与硬件",
+      "title": "OpenAI模型参与AMD芯片设计，PPA提升14%",
+      "summary": "OpenAI在11月18日技术报告中披露，其大模型已介入AMD芯片设计流程，直接重写部分SystemVerilog硬件描述代码，在旗舰GPU电路设计中实现最高14%的PPA（功耗、性能、面积）提升，部分优化已送厂流片。这与常见的AI辅助写软件代码不同，目标落在硬件描述语言层。",
+      "why": "AI从写软件跨到改芯片RTL，意味着EDA与芯片设计人力结构可能被重写，验证工程师与前端设计岗位的技能要求将变化。对关注硬件的读者，这是AI进入半导体核心生产环节的标志性信号。",
+      "divergence": "暂无重大分歧，但业内对14%提升的可复现性与AI生成RTL的验证成本仍有讨论。",
+      "source": {
+        "name": "Bing:大模型",
+        "url": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795260572664-2.jpg",
+        "alt": "OpenAI模型参与AMD芯片设计，PPA提升14%"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/98/45/983966ab1295ed5f5b70ba7aedd52245.png",
+        "alt": "Pinterest 联合英特尔将开源性能分析推向互联网级规模"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/27/34/2714a234bbb3f65dfb313164e1a02234.png",
+        "alt": "智能体身份国际标准化：体系布局与研制实践｜AICon北京"
+      }
+    }
+  ]
+}
