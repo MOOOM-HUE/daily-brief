@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:note.com/light_daphne199/n/n4221d0623430?hl=en",
+      "title": "OpenAI首席科学家提议为AI开发设统一上限",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-22"
+    },
+    {
+      "key": "u:infoq.cn/video/uuqekkoq8haexz792uju",
+      "title": "马斯克警告：AI行业明年或现严重资金荒",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-22"
+    },
+    {
+      "key": "u:sohu.com/a/1105022844_114760",
+      "title": "古尔曼：苹果AI Agent落后，2027年才落地",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-22"
+    },
+    {
+      "key": "u:huxiu.com/article/4907577.html",
+      "title": "中国大模型周调用量连续30周全球第一",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-22"
+    },
+    {
+      "key": "u:sohu.com/a/1104877179_807294",
+      "title": "专硕学习成本上涨79%，普通家庭学生被劝退",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-22"
+    },
+    {
       "key": "u:ifanr.com/1690820",
       "title": "Claude黎曼猜想证明获Lean认证，学界现人机双解",
       "topic": "科技产品与硬件",
@@ -869,37 +899,7 @@
       "title": "Here's what you need to know before buying a wireless CarPlay adapter",
       "topic": "科技产品与硬件",
       "date": "2026-10-24"
-    },
-    {
-      "key": "u:msn.cn/zh-cn/news/other/%e7%be%8e%e5%9b%bd%e6%9c%80%e5%85%88%e8%bf%9b%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%bb%9d%e4%b8%8d%e8%83%bd%e5%bc%80%e6%ba%90-openai%e5%86%8d%e6%ac%a1%e8%be%a9%e8%a7%a3-%e8%bf%99%e5%b0%86%e6%91%a7%e6%af%81%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8/ar-aa2fv23z",
-      "title": "OpenAI断网重启前沿模型训练",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-23"
-    },
-    {
-      "key": "u:zgjssw.gov.cn/shixianchuanzhen/xuzhou/202610/t20261024_8596389.shtml",
-      "title": "OpenAI拟融资300亿美元估值1.25万亿",
-      "topic": "大学 / 专业 / 就业",
-      "date": "2026-10-23"
-    },
-    {
-      "key": "u:ifanr.com/1685660",
-      "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-23"
-    },
-    {
-      "key": "u:techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-23"
-    },
-    {
-      "key": "u:engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-      "title": "OpenAI says it's cutting off internet access for frontier model training",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-23"
     }
   ],
-  "updatedAt": "2026-11-22T03:20:55.646Z"
+  "updatedAt": "2026-11-23T03:53:28.595Z"
 }
