@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:ifanr.com/1691152",
+      "title": "Anthropic发布Claude Ship，智能体自审代码并合入",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-23"
+    },
+    {
+      "key": "u:infoq.cn/article/irm9lbsqj0ocvddglqro",
+      "title": "美国大银行封堵第三方AI智能体接入账户",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-23"
+    },
+    {
+      "key": "u:infoq.cn/article/rdfeovwlwvbrw0mcsfks",
+      "title": "技术债务具有社会性：它是边做边学的代价",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-23"
+    },
+    {
+      "key": "u:infoq.cn/article/sfmubmdwkuliotblx0dr",
+      "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-23"
+    },
+    {
+      "key": "u:infoq.cn/video/cr6dkwniq4fkcs9yq0fp",
+      "title": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-23"
+    },
+    {
       "key": "u:note.com/light_daphne199/n/n4221d0623430?hl=en",
       "title": "OpenAI首席科学家提议为AI开发设统一上限",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "Can you run regular Ethernet cables outside?",
       "topic": "科技产品与硬件",
       "date": "2026-10-25"
-    },
-    {
-      "key": "u:udn.com/news/story/7333/9835534",
-      "title": "OpenAI断网训练前沿模型，AI安全转向物理隔离",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-24"
-    },
-    {
-      "key": "u:ifanr.com/1685684",
-      "title": "月之暗面发布Kimi K3.1 Pro，3万亿参数开源登顶",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-24"
-    },
-    {
-      "key": "u:ifanr.com/1685473",
-      "title": "Anthropic推出Claude Duet，智能体竞争转向'离线值守'",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-24"
-    },
-    {
-      "key": "u:infoq.cn/article/bhwp4jjdeexzzwsifflg",
-      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-24"
-    },
-    {
-      "key": "u:engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
-      "title": "Here's what you need to know before buying a wireless CarPlay adapter",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-24"
     }
   ],
-  "updatedAt": "2026-11-23T03:53:28.595Z"
+  "updatedAt": "2026-11-24T07:01:27.074Z"
 }

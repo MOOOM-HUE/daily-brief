@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T07:01:27.073Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "英伟达黄仁勋被董事会闪电复职、Anthropic推出Claude Ship让智能体接管代码审批、亚马逊75亿美元收购Decart优化技术，AI权力与资本格局同日生变。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 16294
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "Anthropic发布Claude Ship，智能体自审代码并合入",
+      "summary": "Anthropic推出Claude Ship，让AI智能体自行审阅、修复并批准代码变更，瞄准AI生成代码堆积后的评审瓶颈。同日公司还放宽Mythos与Fable模型的数据留存政策，企业客户可将提示与响应留在自有服务器。",
+      "why": "代码评审是当前AI编程落地最真实的卡点，把审批权交给智能体意味着工程流程与责任归属都要重构。对开发者和技术管理者，这既是效率机会，也意味着'谁来签字'的合规问题需要提前设计。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign="
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/3.jpg",
+        "alt": "Anthropic发布Claude Ship，智能体自审代码并合入"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 2,
+      "topic": "AI / Agent / 大模型",
+      "title": "美国大银行封堵第三方AI智能体接入账户",
+      "summary": "摩根大通、富国银行等美国大型银行正阻止第三方AI智能体访问客户账户，时点恰在苹果为Siri升级智能体能力之际。银行以安全与责任归属为由设限，苹果的智能体入口计划因此面临落地阻力。",
+      "why": "智能体要真正'替你办事'，必须先过金融等强监管行业的风控关，这决定了Agent商业化的天花板。对关注AI产品与就业的人，这提示下一波机会在身份授权、审计与合规中间层，而非又一个助手App。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:AI Agent",
+        "url": "https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/0f/2f/0fec8953a57a85ec8cba02445661602f.jpg",
+        "alt": "美国大银行封堵第三方AI智能体接入账户"
+      },
+      "matchedKeywords": []
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "技术债务具有社会性：它是边做边学的代价",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/c4/9c/c4adb4f5373b24b71c1a3c87c806e39c.jpg",
+        "alt": "技术债务具有社会性：它是边做边学的代价"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/ac/d1/ac383447f8771a8ac7e305ed98b404d1.jpg",
+        "alt": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/video/cr6DkWNiQ4fKcs9yq0FP?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+        "alt": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文"
+      }
+    }
+  ]
+}

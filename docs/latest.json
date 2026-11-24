@@ -1,101 +1,98 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-23T03:53:28.594Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T07:01:27.073Z",
   "model": "deepseek-chat",
   "degraded": false,
-  "overview": "AI治理与资本同时收紧：OpenAI提开发上限、马斯克警告资金荒，苹果Agent落后，国产模型调用领先。",
+  "overview": "英伟达黄仁勋被董事会闪电复职、Anthropic推出Claude Ship让智能体接管代码审批、亚马逊75亿美元收购Decart优化技术，AI权力与资本格局同日生变。",
   "stats": {
     "candidates": 120,
-    "afterDedup": 117,
+    "afterDedup": 120,
     "feedErrors": 1,
     "selected": 5,
-    "durationMs": 13342
+    "durationMs": 16294
   },
   "items": [
     {
       "rank": 1,
-      "topic": "AI / Agent / 大模型",
-      "title": "OpenAI首席科学家提议为AI开发设统一上限",
-      "summary": "OpenAI首席科学家Jakub Pachocki在官方博客提议，业界应为越来越强的模型设定共同开发上限，并以\"困惑度\"（perplexity）作为衡量模型能力的统一指标，在0.68—0.70区间设阈值。路透社报道称Sam Altman支持这一安全倡议，Meta则主张受控发展。",
-      "why": "这是头部实验室首次提出可量化的行业\"限速\"方案，若被采纳将改变模型迭代节奏与算力投入逻辑；对从业者而言，能力评估标准可能从跑分转向统一指标，合规与安全岗位需求上升。",
-      "divergence": "OpenAI称该指标可客观衡量风险，但外界质疑困惑度与真实能力/风险相关性有限，且由领先者自定阈值有固化优势之嫌。",
+      "topic": "科技产品与硬件",
+      "title": "Anthropic发布Claude Ship，智能体自审代码并合入",
+      "summary": "Anthropic推出Claude Ship，让AI智能体自行审阅、修复并批准代码变更，瞄准AI生成代码堆积后的评审瓶颈。同日公司还放宽Mythos与Fable模型的数据留存政策，企业客户可将提示与响应留在自有服务器。",
+      "why": "代码评审是当前AI编程落地最真实的卡点，把审批权交给智能体意味着工程流程与责任归属都要重构。对开发者和技术管理者，这既是效率机会，也意味着'谁来签字'的合规问题需要提前设计。",
+      "divergence": "",
       "source": {
-        "name": "Bing:OpenAI",
-        "url": "https://note.com/light_daphne199/n/n4221d0623430?hl=en"
+        "name": "TechCrunch AI",
+        "url": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign="
       },
       "image": {
-        "url": "https://assets.st-note.com/production/uploads/images/339429702/rectangle_large_type_2_abb36ed2908d8b95cf99227f7e5f9c63.png?fit=bounds&amp;quality=85&amp;width=1280",
-        "alt": "OpenAI首席科学家提议为AI开发设统一上限"
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/3.jpg",
+        "alt": "Anthropic发布Claude Ship，智能体自审代码并合入"
       },
       "matchedKeywords": []
     },
     {
       "rank": 2,
       "topic": "AI / Agent / 大模型",
-      "title": "马斯克警告：AI行业明年或现严重资金荒",
-      "summary": "马斯克回应算力扩张话题时称，让大规模算力设备通电、冷却并稳定运行极其困难，若从支付算力成本到设备稳定创收的时间推迟数月，全行业仅营运资金就需额外数千亿美元。他警告AI行业2027年可能面临严重资金短缺。",
-      "why": "这是对当前数据中心与GPU军备竞赛最直接的降温信号，指向算力投入与商业回报的时间错配；对关注AI基础设施、融资与就业的读者，意味着明年资本开支和招聘节奏可能收紧。",
+      "title": "美国大银行封堵第三方AI智能体接入账户",
+      "summary": "摩根大通、富国银行等美国大型银行正阻止第三方AI智能体访问客户账户，时点恰在苹果为Siri升级智能体能力之际。银行以安全与责任归属为由设限，苹果的智能体入口计划因此面临落地阻力。",
+      "why": "智能体要真正'替你办事'，必须先过金融等强监管行业的风控关，这决定了Agent商业化的天花板。对关注AI产品与就业的人，这提示下一波机会在身份授权、审计与合规中间层，而非又一个助手App。",
       "divergence": "",
       "source": {
-        "name": "Bing:人工智能 行业",
-        "url": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article"
+        "name": "Bing:AI Agent",
+        "url": "https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
-        "alt": "马斯克警告：AI行业明年或现严重资金荒"
+        "url": "https://static001.infoq.cn/resource/image/0f/2f/0fec8953a57a85ec8cba02445661602f.jpg",
+        "alt": "美国大银行封堵第三方AI智能体接入账户"
       },
       "matchedKeywords": []
     },
     {
       "rank": 3,
-      "topic": "科技产品与硬件",
-      "title": "古尔曼：苹果AI Agent落后，2027年才落地",
-      "summary": "彭博社记者古尔曼在Power On通讯中称，苹果在AI Agent生态竞争中落后，其可像人一样操作Mac的computer-use智能体可能要到2027年底才推出，而新系统功能通常提前约12个月敲定，难以跟上对手高频迭代。他同时披露苹果明年2—3月将推iPhone 18e、MacBook Neo等平价新品。",
-      "why": "智能体被视为下一个生态入口，苹果12个月的产品节奏对上对手的周更迭代，可能重演Siri掉队的剧本；对开发者和用户，意味着跨应用自动化能力的选择将更多转向安卓与PC阵营。",
+      "topic": "AI / Agent / 大模型",
+      "title": "技术债务具有社会性：它是边做边学的代价",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "Bing:AI Agent",
-        "url": "https://www.sohu.com/a/1105022844_114760"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "古尔曼称苹果AI Agent竞争落后对手，2027年推多款新品加快迭代"
-      },
-      "matchedKeywords": []
+        "url": "https://static001.infoq.cn/resource/image/c4/9c/c4adb4f5373b24b71c1a3c87c806e39c.jpg",
+        "alt": "技术债务具有社会性：它是边做边学的代价"
+      }
     },
     {
       "rank": 4,
       "topic": "AI / Agent / 大模型",
-      "title": "中国大模型周调用量连续30周全球第一",
-      "summary": "11月16日至22日全球AI大模型总调用量达210万亿Token，环比增8.25%；前五名中四款为中国模型，DeepSeek V4.1-Flash连续五周居首，小米MiMo-V2.6-Flash单周大涨461%重回榜单第七。国产开源大模型全球累计下载量突破100亿。",
-      "why": "调用量是比榜单更真实的需求指标，说明国产模型在价格与开源策略下已占据实际使用份额；对开发者和求职者，生态重心东移意味着工具链、岗位与创业机会更多围绕国产模型展开。",
+      "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "Bing:大模型",
-        "url": "https://www.huxiu.com/article/4907577.html"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "https://img.huxiucdn.com/ai/ai-general-cover/202611/23/44265-prod-db-general-1-1795393021905.png?imageView2/1/w/788/h/444/|imageMogr2/strip/interlace/1/quality/85",
-        "alt": "中国大模型周调用量连续30周全球第一"
-      },
-      "matchedKeywords": []
+        "url": "https://static001.infoq.cn/resource/image/ac/d1/ac383447f8771a8ac7e305ed98b404d1.jpg",
+        "alt": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨"
+      }
     },
     {
       "rank": 5,
-      "topic": "大学 / 专业 / 就业",
-      "title": "专硕学习成本上涨79%，普通家庭学生被劝退",
-      "summary": "报道称专硕学费自主定价后，经管、新传、电子信息等热门方向持续上调，叠加头部高校不再统一安排宿舍带来的房租、通勤、实习开支，整体读研成本涨幅达79%，而学硕仍维持每年8000元。扩招背后正形成一道隐形经济门槛。",
-      "why": "这直接改变考研的专业选择与投入产出计算，热门专硕的\"性价比\"正在被重新评估；对考生和家庭，需把隐性成本纳入择校决策，也可能推动更多人转向学硕或直接就业。",
+      "topic": "AI / Agent / 大模型",
+      "title": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
       "divergence": "",
       "source": {
-        "name": "Bing:考研 分数线",
-        "url": "https://www.sohu.com/a/1104877179_807294"
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/video/cr6DkWNiQ4fKcs9yq0FP?utm_source=rss&utm_medium=article"
       },
       "image": {
-        "url": "",
-        "alt": "学习成本上涨79%，专硕劝退一众普通家庭学生"
-      },
-      "matchedKeywords": []
+        "url": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+        "alt": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文"
+      }
     }
   ]
 }
