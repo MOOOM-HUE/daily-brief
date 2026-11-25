@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-25T05:35:14.096Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "昨日看点：Anthropic上市即破发敲响AI估值警钟，亚马逊75亿美元收购Decart押注软硬协同，AI Agent实用性与安全短板集中暴露。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 116,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 18181
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "Anthropic上市首日破发，AI估值承压",
+      "summary": "Anthropic完成IPO后股价跌破发行价，成为AI初创公司估值承压的标志性事件。此前该公司刚递交IPO文件冲击史上最大IPO，市场对其高估值与盈利路径的质疑迅速显现。",
+      "why": "这是头部大模型公司首次以公开市场定价接受检验，破发意味着二级市场对AI公司的高估值叙事开始打折。对关注AI融资、就业与创业机会的读者而言，后续AI初创的融资条款和估值锚点都可能被重新校准。",
+      "divergence": "部分观点认为破发只是IPO定价过高与短期市场情绪所致，另一些分析则视其为AI资本热潮见顶的信号。",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign"
+      },
+      "image": {
+        "url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795517320193-3.jpg",
+        "alt": "Anthropic上市首日破发，AI估值承压"
+      },
+      "matchedKeywords": [
+        "Anthropic",
+        "IPO",
+        "估值"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "科技产品与硬件",
+      "title": "亚马逊75亿美元收购Decart，软件补芯片短板",
+      "summary": "亚马逊以约75亿美元收购AI公司Decart，意在通过软件优化提升自研Trainium芯片的效率，缩小与英伟达的算力差距。这是亚马逊在AI基础设施层面对英伟达主导地位的一次正面回应。",
+      "why": "云厂商正从买GPU转向自研芯片加软件协同的路线，Decart交易说明竞争焦点已从硬件参数转向软硬一体优化。这会改变AI算力供应链格局，也影响相关芯片与编译优化岗位的需求方向。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34547142"
+      },
+      "image": {
+        "url": "https://imgpai.thepaper.cn/newpai/image/1795514403320_DkEWCG_1795514403511.png",
+        "alt": "亚马逊75亿美元收购Decart，软件补芯片短板"
+      },
+      "matchedKeywords": [
+        "Amazon",
+        "Decart",
+        "Trainium",
+        "芯片"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "新基准：最强AI Agent也搞不定日常任务",
+      "summary": "一项新基准测试显示，即便是当前最先进的AI Agent，在完成日常真实任务时仍频繁失败，可靠性远低于宣传水平。研究覆盖多类生活与办公场景，暴露了长流程任务中的规划与纠错短板。",
+      "why": "Personal Agent正被大规模推向消费者，但可靠性不足直接决定其能否从演示走向日常使用。对开发者和产品团队来说，这提示Agent竞争的下一个战场是任务成功率与容错，而非单纯的能力展示。",
+      "divergence": "",
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+      },
+      "image": {
+        "url": "",
+        "alt": "Even the best AI agents struggle with everyday life"
+      },
+      "matchedKeywords": [
+        "AI Agent",
+        "基准测试",
+        "可靠性"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "开源Agent自主利用零日漏洞，安全边界受考",
+      "summary": "亚马逊披露，一个开源AI Agent在测试中基本自主地发现并利用了零日漏洞，虽未突破沙箱，但已展示出Agent自主攻击的现实能力。同期英国网络安全机构警告，AI驱动的网络攻击正在利用多年积累的薄弱安全基础。",
+      "why": "Agent从辅助工具变为可自主执行攻击的主体，意味着企业安全防护和Agent权限设计必须重做。对从事AI工程与安全岗位的读者，这是技能需求与合规要求同时升级的信号。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:AI Agent",
+        "url": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/99/6c/99ce60a7f057923ee84dd73503ce416c.png",
+        "alt": "开源Agent自主利用零日漏洞，安全边界受考"
+      },
+      "matchedKeywords": [
+        "AI Agent",
+        "零日漏洞",
+        "安全"
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "智谱GLM-5.4发布：循环架构对标更大模型",
+      "summary": "智谱推出旗舰模型GLM-5.4，以7500亿参数规模对标2万亿至3万亿参数模型的智能水平，核心是循环架构（Loop）带来的效率提升。该发布与英伟达黄仁勋回归同日，引发社交平台讨论。",
+      "why": "在算力受限与成本压力下，用架构创新替代参数堆叠成为国产大模型的重要路线。若该路线被验证，将降低推理成本并改变模型竞争的性价比标准，对开发者的模型选型有直接影响。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:大模型",
+        "url": "https://www.msn.cn/zh-cn/news/other/%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83glm-54-%E5%BE%AA%E7%8E%AF%E6%9E%B6%E6%9E%84%E8%AE%A97500%E4%BA%BF%E5%8F%82%E6%95%B0%E5%AF%B9%E6%A0%87%E6%9B%B4%E5%A4%A7%E6%A8%A1%E5%9E%8B/ar-AA2ib5gT"
+      },
+      "image": {
+        "url": "",
+        "alt": "智谱发布GLM-5.4：循环架构让7500亿参数对标更大模型"
+      },
+      "matchedKeywords": [
+        "智谱",
+        "GLM-5.4",
+        "循环架构"
+      ]
+    }
+  ]
+}
