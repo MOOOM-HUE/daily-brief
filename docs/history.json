@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:fund.eastmoney.com/a/202611263940420240.html",
+      "title": "SemiAnalysis警告美国芯片或过剩，价格已现降温",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-25"
+    },
+    {
+      "key": "u:m.163.com/news/article/lcjrr0cm05199npp.html",
+      "title": "AI热招岗位平均月薪3.4万，超四成要求硕士",
+      "topic": "大学 / 专业 / 就业",
+      "date": "2026-11-25"
+    },
+    {
+      "key": "u:infoq.cn/article/bzwohp0fgubstbup5xvj",
+      "title": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-25"
+    },
+    {
+      "key": "u:infoq.cn/article/j1aqzs6orb9adlchcwiq",
+      "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-25"
+    },
+    {
+      "key": "u:infoq.cn/video/zrq9nzi5ejveti8ka5kw",
+      "title": "AI写代码，谁来交付？",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-25"
+    },
+    {
       "key": "u:ifanr.com/1691355",
       "title": "Anthropic上市首日破发，AI估值承压",
       "topic": "科技产品与硬件",
@@ -869,37 +899,7 @@
       "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
       "topic": "科技产品与硬件",
       "date": "2026-10-27"
-    },
-    {
-      "key": "u:wap.cj.sina.cn/pc/7x24/5171109",
-      "title": "Anthropic递交IPO文件，冲击史上最大IPO",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "u:infoq.cn/article/b32mw2zaprxyj6chepd5",
-      "title": "OpenAI发布GPT-6.1 Terra，价格减半并宣称证明ETH不成立",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "u:engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
-      "title": "微软向6万员工提供自愿买断，超全球员工四分之一",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "u:infoq.cn/article/tri8l3cyeajer9tgr5jt",
-      "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-26"
-    },
-    {
-      "key": "u:ifanr.com/1686003",
-      "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-26"
     }
   ],
-  "updatedAt": "2026-11-25T05:35:14.097Z"
+  "updatedAt": "2026-11-26T05:17:37.840Z"
 }

@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-26T05:17:37.839Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "今日聚焦AI算力与资本的结构性转折：芯片过剩信号、大模型降价潮、SpaceX轨道数据中心获批，以及AI对就业与招聘的实质冲击。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 120,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 16751
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "科技产品与硬件",
+      "title": "SemiAnalysis警告美国芯片或过剩，价格已现降温",
+      "summary": "SemiAnalysis报告指出，美国最新芯片出口禁令可能导致本土芯片供应激增，同时谷歌、亚马逊等云厂商明年将大幅增加自研定制芯片，英伟达AI芯片价格首当其冲出现降温迹象。同日标普考虑因治理与关键人风险下调英伟达信用评级至AA-。",
+      "why": "这是本轮AI算力繁荣中少见的反向信号：供给端政策挤压叠加需求端自研替代，可能改变GPU的稀缺溢价逻辑。对关注算力成本、云厂商议价权和芯片股估值的读者，这是判断2027年AI基建节奏的关键变量。",
+      "divergence": "SemiAnalysis判断价格降温源于供应激增与定制芯片替代，而部分市场观点认为高端GPU租赁价仍在上涨、供需依旧偏紧，对\"过剩\"时点存在分歧。",
+      "source": {
+        "name": "Bing:芯片 发布",
+        "url": "https://fund.eastmoney.com/a/202611263940420240.html"
+      },
+      "image": {
+        "url": "",
+        "alt": "SemiAnalysis重磅报告来袭！美国芯片或会过剩 已看到价格降温迹象"
+      },
+      "matchedKeywords": [
+        "芯片",
+        "英伟达",
+        "SemiAnalysis"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "AI热招岗位平均月薪3.4万，超四成要求硕士",
+      "summary": "报道显示AI相关热招岗位平均月薪达3.4万元，超过四成要求硕士学历；清华、北大等高校研究生尚未毕业即被AI大厂预定。同期AI面试官开始进入企业秋招实考场，成为筛选门槛。",
+      "why": "薪资与学历门槛同步抬升，说明AI岗位需求旺盛但入口正在收窄，硕士正成为事实上的准入线。这对读者的专业选择、考研决策和求职路径有直接参考价值，也提示AI面试工具正在改变招聘权力结构。",
+      "divergence": "",
+      "source": {
+        "name": "Bing:考研 分数线",
+        "url": "https://m.163.com/news/article/LCJRR0CM05199NPP.html"
+      },
+      "image": {
+        "url": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1125%2F0b88fc58j00tp22k8000pd000ar00arg.jpg&thumbnail=750x2147483647&quality=75&type=jpg",
+        "alt": "AI热招岗位平均月薪3.4万，超四成要求硕士"
+      },
+      "matchedKeywords": [
+        "AI岗位",
+        "月薪",
+        "硕士",
+        "校招"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/d9/87/d991057bcf4aab5dc8a70e4a156ed887.jpg",
+        "alt": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制"
+      }
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/34/03/34077c2ae4a023e25230a44ae5ecaa03.jpg",
+        "alt": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "AI写代码，谁来交付？",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+        "alt": "AI写代码，谁来交付？"
+      }
+    }
+  ]
+}
