@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-27T05:14:03.843Z",
+  "model": "deepseek-chat",
+  "degraded": false,
+  "overview": "英伟达断供东南亚、苹果自研Agent、AI岗位高薪与考研热，勾勒算力管制、生态竞争与人才结构三条主线。",
+  "stats": {
+    "candidates": 120,
+    "afterDedup": 117,
+    "feedErrors": 1,
+    "selected": 5,
+    "durationMs": 20873
+  },
+  "items": [
+    {
+      "rank": 1,
+      "topic": "AI / Agent / 大模型",
+      "title": "苹果被曝自研自主AI Agent，正面竞争OpenAI",
+      "summary": "有报道称苹果正在开发可自主控制应用、编写代码并完成复杂任务的 AI Agent，直接对标 OpenAI、Anthropic 与 Meta 的智能体产品。此前苹果已开放 Siri 跨第三方应用执行操作，此次被解读为从“调用工具”走向“自主执行”的关键一步。",
+      "why": "若属实，苹果将把 Agent 能力嵌入十亿级终端，成为消费端智能体最大的分发渠道，改变当前 Agent 创业公司依赖 API 与浏览器的格局。对开发者而言，iOS 生态内的自动化入口可能被系统级 Agent 收编，需提前思考差异化定位。",
+      "divergence": "报道基于未具名消息源，苹果未官方确认，产品形态与上线时间存在较大不确定性。",
+      "source": {
+        "name": "Bing:AI Agent",
+        "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkacksp1149039.shtml"
+      },
+      "image": {
+        "url": "",
+        "alt": "商务部等八部门印发服务贸易发展“十五五”规划 稳妥推动云计算、大模型等AI相关服务出海"
+      },
+      "matchedKeywords": [
+        "苹果",
+        "AI Agent",
+        "Siri"
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "大学 / 专业 / 就业",
+      "title": "AI热招岗位月薪3.4万，超四成要求硕士",
+      "summary": "最新招聘数据显示，AI 热招岗位平均月薪达 3.4 万元，算法工程师领跑，有猎头称大厂间跳槽的算法工程师年薪从五十多万涨至百万以上。同时超四成岗位要求硕士及以上学历，人工智能相关专业考生同比增长 32.6%，AI 考研逆势升温。",
+      "why": "薪资与学历门槛同步抬升，说明 AI 就业市场正从“会调模型”转向“高学历+工程深度”的筛选逻辑。对在校生和转行者，读研与项目经验的投入回报比正在被重新定价，盲目跟风考研的风险也在上升。",
+      "divergence": "高薪数据多来自招聘平台与猎头口径，样本偏向头部大厂，与中小公司实际薪资水平可能存在明显落差。",
+      "source": {
+        "name": "Bing:考研 分数线",
+        "url": "https://news.qq.com/rain/a/20261126A0B4TN00"
+      },
+      "image": {
+        "url": "https://inews.gtimg.com/om_ls/O2kEObgatKw9tKmCNd2eAV2NuamTWw1KlkgyIURF75tNAAA_330330/0",
+        "alt": "AI热招岗位月薪3.4万，超四成要求硕士"
+      },
+      "matchedKeywords": [
+        "AI岗位",
+        "月薪",
+        "考研"
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "AI / Agent / 大模型",
+      "title": "Claude Code核心班底被OpenAI挖角，Anthropic编程王座承压",
+      "summary": "InfoQ 报道称，Anthropic 上市破发之外，更棘手的是 Claude Code 核心团队被 OpenAI 大规模挖角，编程智能体领域的人才与产品优势面临松动。同期有分析指出 Claude Code 灵魂人物开始公开反思 Vibe Coding 的可持续性。",
+      "why": "编程 Agent 是当前商业化最成熟的 Agent 场景，核心团队流失可能直接改变 Claude Code 的迭代节奏与开发者信任。对依赖 Claude Code 做研发提效的团队，应关注多模型备份与迁移成本，而非绑定单一供应商。",
+      "divergence": "挖角规模与具体人员构成主要来自媒体报道，Anthropic 与 OpenAI 均未正式披露，影响程度存在解读空间。",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/49/8a/49a7c85b4a28215fc7522c0398d5c78a.png",
+        "alt": "Claude Code核心班底被OpenAI挖角，Anthropic编程王座承压"
+      },
+      "matchedKeywords": [
+        "Claude Code",
+        "OpenAI",
+        "人才"
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "AI / Agent / 大模型",
+      "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/2f/91/2f9280765a1f1378ed3d35786bc88591.jpg",
+        "alt": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒"
+      }
+    },
+    {
+      "rank": 5,
+      "topic": "AI / Agent / 大模型",
+      "title": "PingCAP数据泄露事件暴露客户记录与源代码",
+      "summary": "点击查看原文>",
+      "why": "这是AI / Agent / 大模型领域值得关注的新进展，可能影响行业格局与后续机会，建议留意后续发展。",
+      "divergence": "",
+      "source": {
+        "name": "InfoQ 中文",
+        "url": "https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW?utm_source=rss&utm_medium=article"
+      },
+      "image": {
+        "url": "https://static001.infoq.cn/resource/image/5b/16/5b0cc8dd861bb7f4150565b57f2a6516.png",
+        "alt": "PingCAP数据泄露事件暴露客户记录与源代码"
+      }
+    }
+  ]
+}
