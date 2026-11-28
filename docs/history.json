@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "key": "u:engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+      "title": "OpenAI反诉苹果窃取商业机密并施压供应商",
+      "topic": "科技产品与硬件",
+      "date": "2026-11-27"
+    },
+    {
+      "key": "u:udn.com/news/story/7333/9906768",
+      "title": "DeepSeek App上线资费明细，免费换流量时代收尾",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-27"
+    },
+    {
+      "key": "u:infoq.cn/article/dekzotsuqby0t3vympte",
+      "title": "Anthropic用诱饵测试失控AI Agent",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-27"
+    },
+    {
+      "key": "u:msn.cn/zh-cn/news/other/%e6%94%af%e6%92%91%e6%98%8e%e6%98%be-%e5%bc%95%e9%a2%86%e5%87%b8%e6%98%be-%e5%a2%9e%e9%95%bf16-%e6%95%b0-%e8%af%bb%e5%89%8d10%e6%9c%88%e8%a7%84%e4%b8%8a%e5%b7%a5%e4%b8%9a%e4%bc%81%e4%b8%9a%e5%88%a9%e6%b6%a6/ar-aa2imrke",
+      "title": "前10月工业企业利润增16%，电子行业拉动近10个百分点",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-27"
+    },
+    {
+      "key": "u:infoq.cn/article/fbxhymfe2kqm7gtau4yk",
+      "title": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "topic": "AI / Agent / 大模型",
+      "date": "2026-11-27"
+    },
+    {
       "key": "u:finance.sina.com.cn/roll/2026-11-27/doc-inkacksp1149039.shtml",
       "title": "苹果被曝自研自主AI Agent，正面竞争OpenAI",
       "topic": "AI / Agent / 大模型",
@@ -869,37 +899,7 @@
       "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
       "topic": "AI / Agent / 大模型",
       "date": "2026-10-29"
-    },
-    {
-      "key": "u:ifanr.com/1686587",
-      "title": "谷歌发布Gemini 4 Carbon，主打编程与安全",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "u:infoq.cn/article/cxwoiprqltg8yxmwmghd",
-      "title": "微软单季从OpenAI获100亿美元收入",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "u:infoq.cn/article/mfxr0u4z0xftugug5wm7",
-      "title": "Anthropic内部系统被AI Agent攻破12小时",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "u:ifanr.com/1686534",
-      "title": "苹果首款触屏MacBook Pro发布，顶配超11万元",
-      "topic": "科技产品与硬件",
-      "date": "2026-10-28"
-    },
-    {
-      "key": "u:infoq.cn/article/ejtljxpixriuusgyi5xa",
-      "title": "大模型价格战：大客户1折、模型四个月降价80%",
-      "topic": "AI / Agent / 大模型",
-      "date": "2026-10-28"
     }
   ],
-  "updatedAt": "2026-11-27T05:14:03.845Z"
+  "updatedAt": "2026-11-28T04:51:40.270Z"
 }
